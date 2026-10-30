@@ -426,5 +426,13 @@
   {
     "key": "streamer-awards-trophies-stolen",
     "flagged": "2026-10-30T15:20Z"
+  },
+  {
+    "key": "youtube-30day-ban-grace-test",
+    "flagged": "2026-10-30T17:15Z"
+  },
+  {
+    "key": "gears-eday-cost-schreier-confirm",
+    "flagged": "2026-10-30T17:15Z"
   }
 ]
