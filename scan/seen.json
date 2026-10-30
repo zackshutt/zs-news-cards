@@ -1,526 +1,546 @@
 [
-{
-"key": "roblox-open3dlab-crawler",
-"flagged": "2026-10-27T02:30Z"
-},
-{
-"key": "pokemon-unite-end-of-service",
-"flagged": "2026-10-27T05:25Z"
-},
-{
-"key": "sony-sonet-plala-breach",
-"flagged": "2026-10-27T14:20Z"
-},
-{
-"key": "mkw-macos-nxnative",
-"flagged": "2026-10-27T15:35Z"
-},
-{
-"key": "sweeney-steam-held-gaming-back",
-"flagged": "2026-10-27T15:35Z"
-},
-{
-"key": "ghost-of-yotei-kytyps5-pc-emulator",
-"flagged": "2026-10-27T16:20Z"
-},
-{
-"key": "gta6-210gb-download-size",
-"flagged": "2026-10-27T18:30Z"
-},
-{
-"key": "discord-public-messages-google",
-"flagged": "2026-10-27T19:30Z"
-},
-{
-"key": "micro-center-9070xt-1099",
-"flagged": "2026-10-27T20:20Z"
-},
-{
-"key": "blizzard-wow-housing-race-shop",
-"flagged": "2026-10-27T21:30Z"
-},
-{
-"key": "switch2-emu-eden-splatoon-raiders",
-"flagged": "2026-10-28T03:25Z"
-},
-{
-"key": "gta6-original-score-50-tracks-dec11",
-"flagged": "2026-10-28T13:55Z"
-},
-{
-"key": "valve-wont-gatekeep-ai-steam-visibility",
-"flagged": "2026-10-28T13:55Z"
-},
-{
-"key": "audiophile-4700-network-hub",
-"flagged": "2026-10-28T13:55Z"
-},
-{
-"key": "rtx5080-over-2000-double-msrp",
-"flagged": "2026-10-28T16:30Z"
-},
-{
-"key": "rockstar-union-vote-gta6-launch",
-"flagged": "2026-10-28T16:30Z"
-},
-{
-"key": "ps5-prism-collection-dualsense",
-"flagged": "2026-10-28T16:30Z"
-},
-{
-"key": "apple-touchscreen-macbook-pro-2899",
-"flagged": "2026-10-28T18:30Z"
-},
-{
-"key": "ea-bioware-mass-effect-inclusivity-report",
-"flagged": "2026-10-28T18:30Z"
-},
-{
-"key": "alien-isolation-2-details",
-"flagged": "2026-10-28T18:30Z"
-},
-{
-"key": "control-resonant-gog-drm-free",
-"flagged": "2026-10-28T18:30Z"
-},
-{
-"key": "newzoo-steam-unbeatable-valve-private",
-"flagged": "2026-10-29T01:25Z"
-},
-{
-"key": "dk-bananza-eden-switch2-emu",
-"flagged": "2026-10-29T01:25Z"
-},
-{
-"key": "epic-ue6-claude-gemini-mcp",
-"flagged": "2026-10-29T01:25Z"
-},
-{
-"key": "gta6-edge-magazine-screenshots",
-"flagged": "2026-10-29T01:25Z"
-},
-{
-"key": "gta6-south-park-gameplay-dog-poop",
-"flagged": "2026-10-29T04:25Z"
-},
-{
-"key": "steam-esafety-au-credit-card-estimates",
-"flagged": "2026-10-29T04:25Z"
-},
-{
-"key": "rtx5080-2000-dupe",
-"flagged": "2026-10-29T04:25Z"
-},
-{
-"key": "sweeney-valve-pcgamer",
-"flagged": "2026-10-29T04:25Z"
-},
-{
-"key": "zelda-switch2-walmart-cancel-target-nov5",
-"flagged": "2026-10-29T13:40Z"
-},
-{
-"key": "ai-religious-exemption-humanist",
-"flagged": "2026-10-29T13:40Z"
-},
-{
-"key": "bioware-darrah-self-indulgent",
-"flagged": "2026-10-29T13:40Z"
-},
-{
-"key": "talos-principle-2-price-increase",
-"flagged": "2026-10-29T13:40Z"
-},
-{
-"key": "gpu-unlock-ada-rtx4090",
-"flagged": "2026-10-29T13:40Z"
-},
-{
-"key": "jensen-huang-china-spy-report",
-"flagged": "2026-10-29T13:40Z"
-},
-{
-"key": "employers-pulling-back-ai-unusual-whales",
-"flagged": "2026-10-29T13:40Z"
-},
-{
-"key": "steam-atredis-6-flaws-zero-click-rce",
-"flagged": "2026-10-29T14:55Z"
-},
-{
-"key": "duskbloods-delay-2027",
-"flagged": "2026-10-29T14:55Z"
-},
-{
-"key": "phantom-blade-zero-700k-peak",
-"flagged": "2026-10-29T14:55Z"
-},
-{
-"key": "ps5-bazzite-deck-github",
-"flagged": "2026-10-29T14:55Z"
-},
-{
-"key": "italianbach-thumbnails-dexerto",
-"flagged": "2026-10-29T15:40Z"
-},
-{
-"key": "unreal-devs-not-writing-code-ai",
-"flagged": "2026-10-29T15:40Z"
-},
-{
-"key": "flock-minnesota-cameras-reinstall",
-"flagged": "2026-10-29T15:40Z"
-},
-{
-"key": "stellar-blade-switch2-date",
-"flagged": "2026-10-29T15:40Z"
-},
-{
-"key": "tes6-sentinel-verge",
-"flagged": "2026-10-29T16:35Z"
-},
-{
-"key": "cod-mw4-korea-footage",
-"flagged": "2026-10-29T16:35Z"
-},
-{
-"key": "helldivers2-review-bomb-anticheat",
-"flagged": "2026-10-29T16:35Z"
-},
-{
-"key": "directx-raytracing-upgrade-2026",
-"flagged": "2026-10-29T16:35Z"
-},
-{
-"key": "sony-intelligent-pricing-director",
-"flagged": "2026-10-29T17:35Z"
-},
-{
-"key": "tes6-sentinel-verge-x1",
-"flagged": "2026-10-29T17:35Z"
-},
-{
-"key": "house-dems-ai-bailout-resolution",
-"flagged": "2026-10-29T17:35Z"
-},
-{
-"key": "apple-korea-ipad-ad-hand",
-"flagged": "2026-10-29T17:35Z"
-},
-{
-"key": "pentagon-freezer-hack",
-"flagged": "2026-10-29T17:35Z"
-},
-{
-"key": "mcdonalds-pokemon-happy-meal",
-"flagged": "2026-10-29T17:35Z"
-},
-{
-"key": "gta6-copies-not-watermarked-nate",
-"flagged": "2026-10-29T17:35Z"
-},
-{
-"key": "bungie-d2-unvault",
-"flagged": "2026-10-29T17:35Z"
-},
-{
-"key": "celeste-towerfall-xbox-delist",
-"flagged": "2026-10-29T17:35Z"
-},
-{
-"key": "ocarina-remake-footage",
-"flagged": "2026-10-29T17:35Z"
-},
-{
-"key": "ps5-bazzite-steam-mode",
-"flagged": "2026-10-29T18:20Z"
-},
-{
-"key": "steam-security-patches",
-"flagged": "2026-10-29T18:20Z"
-},
-{
-"key": "tes6-sentinel-name",
-"flagged": "2026-10-29T18:20Z"
-},
-{
-"key": "gears-eday-400k",
-"flagged": "2026-10-29T18:20Z"
-},
-{
-"key": "gta6-no-watermark",
-"flagged": "2026-10-29T18:20Z"
-},
-{
-"key": "gears-eday-500m-budget",
-"flagged": "2026-10-29T19:20Z"
-},
-{
-"key": "windows-sales-down-27",
-"flagged": "2026-10-29T19:20Z"
-},
-{
-"key": "wolverine-pc-kyty-fps-update",
-"flagged": "2026-10-29T19:20Z"
-},
-{
-"key": "turn10-greenawalt-exit",
-"flagged": "2026-10-29T19:20Z"
-},
-{
-"key": "polymarket-hack",
-"flagged": "2026-10-29T19:20Z"
-},
-{
-"key": "red-baron-gofundme",
-"flagged": "2026-10-29T19:20Z"
-},
-{
-"key": "pokopia-ps5-eden-clip",
-"flagged": "2026-10-29T20:20Z"
-},
-{
-"key": "gta6-money-gated-missions-wait-times",
-"flagged": "2026-10-29T20:20Z"
-},
-{
-"key": "patrick-stewart-death",
-"flagged": "2026-10-29T20:20Z"
-},
-{
-"key": "sony-mouthwashing-film-rights",
-"flagged": "2026-10-29T20:20Z"
-},
-{
-"key": "helldivers2-anticheat-review-bomb",
-"flagged": "2026-10-29T20:20Z"
-},
-{
-"key": "metro-redux-next-gen-update",
-"flagged": "2026-10-29T20:20Z"
-},
-{
-"key": "reddit-login-only",
-"flagged": "2026-10-29T21:20Z"
-},
-{
-"key": "gears-eday-500m-400k-verge",
-"flagged": "2026-10-29T21:20Z"
-},
-{
-"key": "reddit-login-x-pirat",
-"flagged": "2026-10-29T21:20Z"
-},
-{
-"key": "faliszek-sweeney-steam-ai-labels",
-"flagged": "2026-10-30T00:30Z"
-},
-{
-"key": "prosperoeden-ps5-switch2",
-"flagged": "2026-10-30T00:30Z"
-},
-{
-"key": "psn-telltale-pricing-glitch",
-"flagged": "2026-10-30T00:30Z"
-},
-{
-"key": "patrick-stewart-death-ign",
-"flagged": "2026-10-30T00:30Z"
-},
-{
-"key": "death-stranding-isolations-anime",
-"flagged": "2026-10-30T02:20Z"
-},
-{
-"key": "kojima-od-knock-visual",
-"flagged": "2026-10-30T02:20Z"
-},
-{
-"key": "ign-china-phantom-blade-pirat",
-"flagged": "2026-10-30T02:20Z"
-},
-{
-"key": "fields-medal-ai-homework",
-"flagged": "2026-10-30T02:20Z"
-},
-{
-"key": "ubisoft-ac-future-update",
-"flagged": "2026-10-30T02:20Z"
-},
-{
-"key": "alphabet-worst-day",
-"flagged": "2026-10-30T02:20Z"
-},
-{
-"key": "intel-stock-21",
-"flagged": "2026-10-30T02:20Z"
-},
-{
-"key": "binance-hack-6b",
-"flagged": "2026-10-30T04:10Z"
-},
-{
-"key": "rockstar-uk-union-vote",
-"flagged": "2026-10-30T04:10Z"
-},
-{
-"key": "reddit-stock-17",
-"flagged": "2026-10-30T04:10Z"
-},
-{
-"key": "steam-coop-playercount-suggestion",
-"flagged": "2026-10-30T04:10Z"
-},
-{
-"key": "altman-dram-terrible-local-ram",
-"flagged": "2026-10-30T13:30Z"
-},
-{
-"key": "rtx5080-nvidia-marketplace-removed",
-"flagged": "2026-10-30T13:30Z"
-},
-{
-"key": "cod-mw4-itaewon-footage-removed",
-"flagged": "2026-10-30T13:30Z"
-},
-{
-"key": "eden-nx2-switch2-windows",
-"flagged": "2026-10-30T13:30Z"
-},
-{
-"key": "ios-27-2-jailbreak",
-"flagged": "2026-10-30T13:30Z"
-},
-{
-"key": "ea-bioware-battlefront3-bloomberg",
-"flagged": "2026-10-30T14:20Z"
-},
-{
-"key": "claude-code-game-clone-instruction",
-"flagged": "2026-10-30T14:20Z"
-},
-{
-"key": "bg3-wow-campaign-mod",
-"flagged": "2026-10-30T14:20Z"
-},
-{
-"key": "eden-nx2-public-release",
-"flagged": "2026-10-30T14:20Z"
-},
-{
-"key": "valve-goes-public-meme",
-"flagged": "2026-10-30T14:20Z"
-},
-{
-"key": "rtx5080-24gb-december-df",
-"flagged": "2026-10-30T14:20Z"
-},
-{
-"key": "romero-xbox-game-new-publisher",
-"flagged": "2026-10-30T15:20Z"
-},
-{
-"key": "gta6-polymarket-metacritic-odds",
-"flagged": "2026-10-30T15:20Z"
-},
-{
-"key": "streamer-awards-trophies-stolen",
-"flagged": "2026-10-30T15:20Z"
-},
-{
-"key": "youtube-30day-ban-grace-test",
-"flagged": "2026-10-30T17:15Z"
-},
-{
-"key": "gears-eday-cost-schreier-confirm",
-"flagged": "2026-10-30T17:15Z"
-},
-{
-"key": "instagram-500k-youtubers-longform",
-"flagged": "2026-10-30T18:20Z"
-},
-{
-"key": "sonic-hedgehog-spraypaint-death",
-"flagged": "2026-10-30T18:20Z"
-},
-{
-"key": "totk-pc-recomp-github",
-"flagged": "2026-10-30T18:20Z"
-},
-{
-"key": "nasdaq-selloff-oct30",
-"flagged": "2026-10-30T18:20Z"
-},
-{
-"key": "xbox-mode-quick-settings-win11",
-"flagged": "2026-10-30T19:15Z"
-},
-{
-"key": "ai-religious-exemption-durman",
-"flagged": "2026-10-30T19:15Z"
-},
-{
-"key": "google-suncatcher-ai-satellite",
-"flagged": "2026-10-30T19:15Z"
-},
-{
-"key": "binance-6b-north-korea",
-"flagged": "2026-10-30T19:15Z"
-},
-{
-"key": "anyps5-library-coverage-drop",
-"flagged": "2026-10-30T20:15Z"
-},
-{
-"key": "gears-eday-500m-ign-whales",
-"flagged": "2026-10-30T20:15Z"
-},
-{
-"key": "flock-cameras-reappear",
-"flagged": "2026-10-30T20:15Z"
-},
-{
-"key": "cisco-ai-tokens-engineer",
-"flagged": "2026-10-30T20:15Z"
-},
-{
-"key": "star-wars-jedi3-schreier-soon",
-"flagged": "2026-10-30T21:15Z"
-},
-{
-"key": "explore-with-us-demonetized",
-"flagged": "2026-10-30T21:15Z"
-},
-{
-"key": "rtx5080-24gb-pirat-nation-repost",
-"flagged": "2026-10-30T21:15Z"
-},
-{
-"key": "ps4-1400-jailbreak-calmboy",
-"flagged": "2026-10-30T22:15Z"
-},
-{
-"key": "ps4-1400-bdj-leak-asaudidos",
-"flagged": "2026-10-30T22:15Z"
-},
-{
-"key": "zelda-switch2-nintendo-store-wet",
-"flagged": "2026-10-30T22:15Z"
-},
-{
-"key": "france-internet-gb-tax",
-"flagged": "2026-10-30T22:15Z"
-},
-{
-"key": "pokemon-fender-guitars",
-"flagged": "2026-10-30T22:15Z"
-},
-{
-"key": "celeste-towerfall-xbox-delist",
-"flagged": "2026-10-30T22:15Z"
-},
-{
-"key": "intel-30pct-worst-day",
-"flagged": "2026-10-30T22:15Z"
-}
+ {
+  "key": "roblox-open3dlab-crawler",
+  "flagged": "2026-10-27T02:30Z"
+ },
+ {
+  "key": "pokemon-unite-end-of-service",
+  "flagged": "2026-10-27T05:25Z"
+ },
+ {
+  "key": "sony-sonet-plala-breach",
+  "flagged": "2026-10-27T14:20Z"
+ },
+ {
+  "key": "mkw-macos-nxnative",
+  "flagged": "2026-10-27T15:35Z"
+ },
+ {
+  "key": "sweeney-steam-held-gaming-back",
+  "flagged": "2026-10-27T15:35Z"
+ },
+ {
+  "key": "ghost-of-yotei-kytyps5-pc-emulator",
+  "flagged": "2026-10-27T16:20Z"
+ },
+ {
+  "key": "gta6-210gb-download-size",
+  "flagged": "2026-10-27T18:30Z"
+ },
+ {
+  "key": "discord-public-messages-google",
+  "flagged": "2026-10-27T19:30Z"
+ },
+ {
+  "key": "micro-center-9070xt-1099",
+  "flagged": "2026-10-27T20:20Z"
+ },
+ {
+  "key": "blizzard-wow-housing-race-shop",
+  "flagged": "2026-10-27T21:30Z"
+ },
+ {
+  "key": "switch2-emu-eden-splatoon-raiders",
+  "flagged": "2026-10-28T03:25Z"
+ },
+ {
+  "key": "gta6-original-score-50-tracks-dec11",
+  "flagged": "2026-10-28T13:55Z"
+ },
+ {
+  "key": "valve-wont-gatekeep-ai-steam-visibility",
+  "flagged": "2026-10-28T13:55Z"
+ },
+ {
+  "key": "audiophile-4700-network-hub",
+  "flagged": "2026-10-28T13:55Z"
+ },
+ {
+  "key": "rtx5080-over-2000-double-msrp",
+  "flagged": "2026-10-28T16:30Z"
+ },
+ {
+  "key": "rockstar-union-vote-gta6-launch",
+  "flagged": "2026-10-28T16:30Z"
+ },
+ {
+  "key": "ps5-prism-collection-dualsense",
+  "flagged": "2026-10-28T16:30Z"
+ },
+ {
+  "key": "apple-touchscreen-macbook-pro-2899",
+  "flagged": "2026-10-28T18:30Z"
+ },
+ {
+  "key": "ea-bioware-mass-effect-inclusivity-report",
+  "flagged": "2026-10-28T18:30Z"
+ },
+ {
+  "key": "alien-isolation-2-details",
+  "flagged": "2026-10-28T18:30Z"
+ },
+ {
+  "key": "control-resonant-gog-drm-free",
+  "flagged": "2026-10-28T18:30Z"
+ },
+ {
+  "key": "newzoo-steam-unbeatable-valve-private",
+  "flagged": "2026-10-29T01:25Z"
+ },
+ {
+  "key": "dk-bananza-eden-switch2-emu",
+  "flagged": "2026-10-29T01:25Z"
+ },
+ {
+  "key": "epic-ue6-claude-gemini-mcp",
+  "flagged": "2026-10-29T01:25Z"
+ },
+ {
+  "key": "gta6-edge-magazine-screenshots",
+  "flagged": "2026-10-29T01:25Z"
+ },
+ {
+  "key": "gta6-south-park-gameplay-dog-poop",
+  "flagged": "2026-10-29T04:25Z"
+ },
+ {
+  "key": "steam-esafety-au-credit-card-estimates",
+  "flagged": "2026-10-29T04:25Z"
+ },
+ {
+  "key": "rtx5080-2000-dupe",
+  "flagged": "2026-10-29T04:25Z"
+ },
+ {
+  "key": "sweeney-valve-pcgamer",
+  "flagged": "2026-10-29T04:25Z"
+ },
+ {
+  "key": "zelda-switch2-walmart-cancel-target-nov5",
+  "flagged": "2026-10-29T13:40Z"
+ },
+ {
+  "key": "ai-religious-exemption-humanist",
+  "flagged": "2026-10-29T13:40Z"
+ },
+ {
+  "key": "bioware-darrah-self-indulgent",
+  "flagged": "2026-10-29T13:40Z"
+ },
+ {
+  "key": "talos-principle-2-price-increase",
+  "flagged": "2026-10-29T13:40Z"
+ },
+ {
+  "key": "gpu-unlock-ada-rtx4090",
+  "flagged": "2026-10-29T13:40Z"
+ },
+ {
+  "key": "jensen-huang-china-spy-report",
+  "flagged": "2026-10-29T13:40Z"
+ },
+ {
+  "key": "employers-pulling-back-ai-unusual-whales",
+  "flagged": "2026-10-29T13:40Z"
+ },
+ {
+  "key": "steam-atredis-6-flaws-zero-click-rce",
+  "flagged": "2026-10-29T14:55Z"
+ },
+ {
+  "key": "duskbloods-delay-2027",
+  "flagged": "2026-10-29T14:55Z"
+ },
+ {
+  "key": "phantom-blade-zero-700k-peak",
+  "flagged": "2026-10-29T14:55Z"
+ },
+ {
+  "key": "ps5-bazzite-deck-github",
+  "flagged": "2026-10-29T14:55Z"
+ },
+ {
+  "key": "italianbach-thumbnails-dexerto",
+  "flagged": "2026-10-29T15:40Z"
+ },
+ {
+  "key": "unreal-devs-not-writing-code-ai",
+  "flagged": "2026-10-29T15:40Z"
+ },
+ {
+  "key": "flock-minnesota-cameras-reinstall",
+  "flagged": "2026-10-29T15:40Z"
+ },
+ {
+  "key": "stellar-blade-switch2-date",
+  "flagged": "2026-10-29T15:40Z"
+ },
+ {
+  "key": "tes6-sentinel-verge",
+  "flagged": "2026-10-29T16:35Z"
+ },
+ {
+  "key": "cod-mw4-korea-footage",
+  "flagged": "2026-10-29T16:35Z"
+ },
+ {
+  "key": "helldivers2-review-bomb-anticheat",
+  "flagged": "2026-10-29T16:35Z"
+ },
+ {
+  "key": "directx-raytracing-upgrade-2026",
+  "flagged": "2026-10-29T16:35Z"
+ },
+ {
+  "key": "sony-intelligent-pricing-director",
+  "flagged": "2026-10-29T17:35Z"
+ },
+ {
+  "key": "tes6-sentinel-verge-x1",
+  "flagged": "2026-10-29T17:35Z"
+ },
+ {
+  "key": "house-dems-ai-bailout-resolution",
+  "flagged": "2026-10-29T17:35Z"
+ },
+ {
+  "key": "apple-korea-ipad-ad-hand",
+  "flagged": "2026-10-29T17:35Z"
+ },
+ {
+  "key": "pentagon-freezer-hack",
+  "flagged": "2026-10-29T17:35Z"
+ },
+ {
+  "key": "mcdonalds-pokemon-happy-meal",
+  "flagged": "2026-10-29T17:35Z"
+ },
+ {
+  "key": "gta6-copies-not-watermarked-nate",
+  "flagged": "2026-10-29T17:35Z"
+ },
+ {
+  "key": "bungie-d2-unvault",
+  "flagged": "2026-10-29T17:35Z"
+ },
+ {
+  "key": "celeste-towerfall-xbox-delist",
+  "flagged": "2026-10-29T17:35Z"
+ },
+ {
+  "key": "ocarina-remake-footage",
+  "flagged": "2026-10-29T17:35Z"
+ },
+ {
+  "key": "ps5-bazzite-steam-mode",
+  "flagged": "2026-10-29T18:20Z"
+ },
+ {
+  "key": "steam-security-patches",
+  "flagged": "2026-10-29T18:20Z"
+ },
+ {
+  "key": "tes6-sentinel-name",
+  "flagged": "2026-10-29T18:20Z"
+ },
+ {
+  "key": "gears-eday-400k",
+  "flagged": "2026-10-29T18:20Z"
+ },
+ {
+  "key": "gta6-no-watermark",
+  "flagged": "2026-10-29T18:20Z"
+ },
+ {
+  "key": "gears-eday-500m-budget",
+  "flagged": "2026-10-29T19:20Z"
+ },
+ {
+  "key": "windows-sales-down-27",
+  "flagged": "2026-10-29T19:20Z"
+ },
+ {
+  "key": "wolverine-pc-kyty-fps-update",
+  "flagged": "2026-10-29T19:20Z"
+ },
+ {
+  "key": "turn10-greenawalt-exit",
+  "flagged": "2026-10-29T19:20Z"
+ },
+ {
+  "key": "polymarket-hack",
+  "flagged": "2026-10-29T19:20Z"
+ },
+ {
+  "key": "red-baron-gofundme",
+  "flagged": "2026-10-29T19:20Z"
+ },
+ {
+  "key": "pokopia-ps5-eden-clip",
+  "flagged": "2026-10-29T20:20Z"
+ },
+ {
+  "key": "gta6-money-gated-missions-wait-times",
+  "flagged": "2026-10-29T20:20Z"
+ },
+ {
+  "key": "patrick-stewart-death",
+  "flagged": "2026-10-29T20:20Z"
+ },
+ {
+  "key": "sony-mouthwashing-film-rights",
+  "flagged": "2026-10-29T20:20Z"
+ },
+ {
+  "key": "helldivers2-anticheat-review-bomb",
+  "flagged": "2026-10-29T20:20Z"
+ },
+ {
+  "key": "metro-redux-next-gen-update",
+  "flagged": "2026-10-29T20:20Z"
+ },
+ {
+  "key": "reddit-login-only",
+  "flagged": "2026-10-29T21:20Z"
+ },
+ {
+  "key": "gears-eday-500m-400k-verge",
+  "flagged": "2026-10-29T21:20Z"
+ },
+ {
+  "key": "reddit-login-x-pirat",
+  "flagged": "2026-10-29T21:20Z"
+ },
+ {
+  "key": "faliszek-sweeney-steam-ai-labels",
+  "flagged": "2026-10-30T00:30Z"
+ },
+ {
+  "key": "prosperoeden-ps5-switch2",
+  "flagged": "2026-10-30T00:30Z"
+ },
+ {
+  "key": "psn-telltale-pricing-glitch",
+  "flagged": "2026-10-30T00:30Z"
+ },
+ {
+  "key": "patrick-stewart-death-ign",
+  "flagged": "2026-10-30T00:30Z"
+ },
+ {
+  "key": "death-stranding-isolations-anime",
+  "flagged": "2026-10-30T02:20Z"
+ },
+ {
+  "key": "kojima-od-knock-visual",
+  "flagged": "2026-10-30T02:20Z"
+ },
+ {
+  "key": "ign-china-phantom-blade-pirat",
+  "flagged": "2026-10-30T02:20Z"
+ },
+ {
+  "key": "fields-medal-ai-homework",
+  "flagged": "2026-10-30T02:20Z"
+ },
+ {
+  "key": "ubisoft-ac-future-update",
+  "flagged": "2026-10-30T02:20Z"
+ },
+ {
+  "key": "alphabet-worst-day",
+  "flagged": "2026-10-30T02:20Z"
+ },
+ {
+  "key": "intel-stock-21",
+  "flagged": "2026-10-30T02:20Z"
+ },
+ {
+  "key": "binance-hack-6b",
+  "flagged": "2026-10-30T04:10Z"
+ },
+ {
+  "key": "rockstar-uk-union-vote",
+  "flagged": "2026-10-30T04:10Z"
+ },
+ {
+  "key": "reddit-stock-17",
+  "flagged": "2026-10-30T04:10Z"
+ },
+ {
+  "key": "steam-coop-playercount-suggestion",
+  "flagged": "2026-10-30T04:10Z"
+ },
+ {
+  "key": "altman-dram-terrible-local-ram",
+  "flagged": "2026-10-30T13:30Z"
+ },
+ {
+  "key": "rtx5080-nvidia-marketplace-removed",
+  "flagged": "2026-10-30T13:30Z"
+ },
+ {
+  "key": "cod-mw4-itaewon-footage-removed",
+  "flagged": "2026-10-30T13:30Z"
+ },
+ {
+  "key": "eden-nx2-switch2-windows",
+  "flagged": "2026-10-30T13:30Z"
+ },
+ {
+  "key": "ios-27-2-jailbreak",
+  "flagged": "2026-10-30T13:30Z"
+ },
+ {
+  "key": "ea-bioware-battlefront3-bloomberg",
+  "flagged": "2026-10-30T14:20Z"
+ },
+ {
+  "key": "claude-code-game-clone-instruction",
+  "flagged": "2026-10-30T14:20Z"
+ },
+ {
+  "key": "bg3-wow-campaign-mod",
+  "flagged": "2026-10-30T14:20Z"
+ },
+ {
+  "key": "eden-nx2-public-release",
+  "flagged": "2026-10-30T14:20Z"
+ },
+ {
+  "key": "valve-goes-public-meme",
+  "flagged": "2026-10-30T14:20Z"
+ },
+ {
+  "key": "rtx5080-24gb-december-df",
+  "flagged": "2026-10-30T14:20Z"
+ },
+ {
+  "key": "romero-xbox-game-new-publisher",
+  "flagged": "2026-10-30T15:20Z"
+ },
+ {
+  "key": "gta6-polymarket-metacritic-odds",
+  "flagged": "2026-10-30T15:20Z"
+ },
+ {
+  "key": "streamer-awards-trophies-stolen",
+  "flagged": "2026-10-30T15:20Z"
+ },
+ {
+  "key": "youtube-30day-ban-grace-test",
+  "flagged": "2026-10-30T17:15Z"
+ },
+ {
+  "key": "gears-eday-cost-schreier-confirm",
+  "flagged": "2026-10-30T17:15Z"
+ },
+ {
+  "key": "instagram-500k-youtubers-longform",
+  "flagged": "2026-10-30T18:20Z"
+ },
+ {
+  "key": "sonic-hedgehog-spraypaint-death",
+  "flagged": "2026-10-30T18:20Z"
+ },
+ {
+  "key": "totk-pc-recomp-github",
+  "flagged": "2026-10-30T18:20Z"
+ },
+ {
+  "key": "nasdaq-selloff-oct30",
+  "flagged": "2026-10-30T18:20Z"
+ },
+ {
+  "key": "xbox-mode-quick-settings-win11",
+  "flagged": "2026-10-30T19:15Z"
+ },
+ {
+  "key": "ai-religious-exemption-durman",
+  "flagged": "2026-10-30T19:15Z"
+ },
+ {
+  "key": "google-suncatcher-ai-satellite",
+  "flagged": "2026-10-30T19:15Z"
+ },
+ {
+  "key": "binance-6b-north-korea",
+  "flagged": "2026-10-30T19:15Z"
+ },
+ {
+  "key": "anyps5-library-coverage-drop",
+  "flagged": "2026-10-30T20:15Z"
+ },
+ {
+  "key": "gears-eday-500m-ign-whales",
+  "flagged": "2026-10-30T20:15Z"
+ },
+ {
+  "key": "flock-cameras-reappear",
+  "flagged": "2026-10-30T20:15Z"
+ },
+ {
+  "key": "cisco-ai-tokens-engineer",
+  "flagged": "2026-10-30T20:15Z"
+ },
+ {
+  "key": "star-wars-jedi3-schreier-soon",
+  "flagged": "2026-10-30T21:15Z"
+ },
+ {
+  "key": "explore-with-us-demonetized",
+  "flagged": "2026-10-30T21:15Z"
+ },
+ {
+  "key": "rtx5080-24gb-pirat-nation-repost",
+  "flagged": "2026-10-30T21:15Z"
+ },
+ {
+  "key": "ps4-1400-jailbreak-calmboy",
+  "flagged": "2026-10-30T22:15Z"
+ },
+ {
+  "key": "ps4-1400-bdj-leak-asaudidos",
+  "flagged": "2026-10-30T22:15Z"
+ },
+ {
+  "key": "zelda-switch2-nintendo-store-wet",
+  "flagged": "2026-10-30T22:15Z"
+ },
+ {
+  "key": "france-internet-gb-tax",
+  "flagged": "2026-10-30T22:15Z"
+ },
+ {
+  "key": "pokemon-fender-guitars",
+  "flagged": "2026-10-30T22:15Z"
+ },
+ {
+  "key": "celeste-towerfall-xbox-delist",
+  "flagged": "2026-10-30T22:15Z"
+ },
+ {
+  "key": "intel-30pct-worst-day",
+  "flagged": "2026-10-30T22:15Z"
+ },
+ {
+  "key": "gpu-unlock-nv-uefi-unlocker-pirat",
+  "flagged": "2026-10-30T23:15Z"
+ },
+ {
+  "key": "deadlock-battlepass-params-datamine",
+  "flagged": "2026-10-30T23:15Z"
+ },
+ {
+  "key": "jaackmaate-christmas-lights",
+  "flagged": "2026-10-30T23:15Z"
+ },
+ {
+  "key": "cs2-lar-files-removed",
+  "flagged": "2026-10-30T23:15Z"
+ },
+ {
+  "key": "telltale-psplus-og-discount",
+  "flagged": "2026-10-30T23:15Z"
+ }
 ]
