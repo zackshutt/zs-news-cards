@@ -3471,5 +3471,100 @@
   ],
   "first": "x-lane",
   "flagged": "2026-11-12T19:55Z"
+ },
+ {
+  "key": "xbox-og-pc-backcompat-free-owners-hit8-pitched",
+  "flagged": "2026-11-12T21:58Z",
+  "hit": 8,
+  "lane": "ownership-rights",
+  "found_via": [
+   "x-watch:Wario64",
+   "x-watch:tomwarren",
+   "bsky:wario64.bsky.social",
+   "bsky:tomwarren.co.uk",
+   "bsky:theverge.com",
+   "gn:adhoc-xbox-bc"
+  ],
+  "first": "x-watch:Wario64 (Xbox Wire 21:00Z)"
+ },
+ {
+  "key": "spotify-ai-dj-off-premium-hit7-pitched",
+  "flagged": "2026-11-12T21:58Z",
+  "hit": 7,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "jensen-third-affair-reuters-gossip-hit2-skip",
+  "flagged": "2026-11-12T21:58Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:Dexerto",
+   "x-watch:unusual_whales",
+   "x-watch:Pirat_Nation",
+   "reddit-rising:technology",
+   "reddit-rising:pcmasterrace",
+   "reddit-rising:nvidia"
+  ],
+  "first": "x-watch:unusual_whales"
+ },
+ {
+  "key": "x-media-limit-20-dexerto-hit3-bench",
+  "flagged": "2026-11-12T21:58Z",
+  "hit": 3,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "id-software-new-doom-project-hit3-bench",
+  "flagged": "2026-11-12T21:58Z",
+  "hit": 3,
+  "lane": "indie-oddity",
+  "found_via": [
+   "x-watch:IGN",
+   "x-watch:tomwarren",
+   "x-watch:InsiderGamingIG",
+   "bsky:wario64.bsky.social"
+  ],
+  "first": "bsky:wario64.bsky.social"
+ },
+ {
+  "key": "amd-helix-apu-pc-makers-rumor-hit4-bench",
+  "flagged": "2026-11-12T21:58Z",
+  "hit": 4,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "x-lane:L2"
+  ],
+  "first": "x-lane:L2"
+ },
+ {
+  "key": "asha-sharma-25-years-ai-small-teams-sameStory-recirc",
+  "flagged": "2026-11-12T21:58Z",
+  "hit": 6,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-watch:IGN",
+   "x-watch:Kotaku",
+   "x-lane:L8"
+  ],
+  "first": "x-watch:Kotaku"
+ },
+ {
+  "key": "take-two-ceo-physical-future-repeat-hit5-bench",
+  "flagged": "2026-11-12T21:58Z",
+  "hit": 5,
+  "lane": "ownership-rights",
+  "found_via": [
+   "x-watch:InsiderGamingIG"
+  ],
+  "first": "x-watch:InsiderGamingIG"
  }
 ]
