@@ -3191,5 +3191,103 @@
    "gn:jensen-resigns"
   ],
   "first": "NVIDIA press release (GlobeNewswire) 13:48Z; wallstreetbets 13:54Z; Fox Business 13:57Z"
+ },
+ {
+  "key": "nintendo-bf-switch2-bundle-499-wario64-hit7-bench",
+  "flagged": "2026-11-12T15:55Z",
+  "hit": 7,
+  "lane": "console-price",
+  "found_via": [
+   "x-watch:Wario64",
+   "x-lane:L5",
+   "bsky:wario64.bsky.social",
+   "reddit-rising:NintendoSwitch"
+  ],
+  "first": "Nintendo official / Wario64 14:17Z"
+ },
+ {
+  "key": "gamestop-xbox25-preorder-plus500-hit6-lowvel",
+  "flagged": "2026-11-12T15:55Z",
+  "hit": 6,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "reddit-rising:xbox"
+  ],
+  "first": "r/xbox"
+ },
+ {
+  "key": "chicago-schools-google-ai-search-hit5-bench",
+  "flagged": "2026-11-12T15:55Z",
+  "hit": 5,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "r/technology"
+ },
+ {
+  "key": "palworld-gta6-holiday-hit5-bench",
+  "flagged": "2026-11-12T15:55Z",
+  "hit": 5,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:PS5",
+   "reddit-new:PS5",
+   "reddit-rising:Games"
+  ],
+  "first": "r/PS5"
+ },
+ {
+  "key": "nvidia-stock-13pct-jensen-exit-sameStory-skip",
+  "flagged": "2026-11-12T15:55Z",
+  "hit": 6,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "reddit-cross:R1"
+  ],
+  "first": "Pirat_Nation 14:57Z"
+ },
+ {
+  "key": "srouji-eyed-nvidia-ceo-gossip-hit4-bench",
+  "flagged": "2026-11-12T15:55Z",
+  "hit": 4,
+  "lane": "scene-named-people",
+  "found_via": [
+   "reddit-rising:apple",
+   "reddit-rising:nvidia"
+  ],
+  "first": "r/apple"
+ },
+ {
+  "key": "gta6-map-uk-merch-leak-hit2-bench",
+  "flagged": "2026-11-12T15:55Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:VGC_News",
+   "reddit-rising:GamingLeaksAndRumours"
+  ],
+  "first": "r/GamingLeaksAndRumours"
+ },
+ {
+  "key": "gta6-youtube-launch-event-logistics-hit3-bench",
+  "flagged": "2026-11-12T15:55Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-new:PS5"
+  ],
+  "first": "r/PS5"
+ },
+ {
+  "key": "ps5-100m-shipped-milestone-hit4-bench",
+  "flagged": "2026-11-12T15:55Z",
+  "hit": 4,
+  "lane": "sony-anti-consumer",
+  "found_via": [
+   "x-lane:L1"
+  ],
+  "first": "x-lane"
  }
 ]
