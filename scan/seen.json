@@ -3179,5 +3179,17 @@
    "reddit-rising:technology"
   ],
   "first": "arstechnica via r/technology"
+ },
+ {
+  "key": "jensen-resigns-nvidia-pr-hit8-pitched",
+  "flagged": "2026-11-12T14:17Z",
+  "hit": 8,
+  "lane": "scene-named-people",
+  "found_via": [
+   "zack-sent",
+   "x-search:resigns",
+   "gn:jensen-resigns"
+  ],
+  "first": "NVIDIA press release (GlobeNewswire) 13:48Z; wallstreetbets 13:54Z; Fox Business 13:57Z"
  }
 ]
