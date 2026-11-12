@@ -3566,5 +3566,132 @@
    "x-watch:InsiderGamingIG"
   ],
   "first": "x-watch:InsiderGamingIG"
+ },
+ {
+  "key": "xbox-25-free-games-new-win11-pcs-oct16-offer-hit6-bench",
+  "flagged": "2026-11-12T23:55Z",
+  "hit": 6,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "x-lane:L4",
+   "x-watch:InsiderGamingIG",
+   "web:archetypeA"
+  ],
+  "first": "windowscentral Oct 16; @XBOX promo 21:59Z"
+ },
+ {
+  "key": "xbox-dashboard-gta6-preorder-fullscreen-ad-hit6-bench",
+  "flagged": "2026-11-12T23:55Z",
+  "hit": 6,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "x-watch:tomwarren",
+   "bsky:tomwarren.co.uk"
+  ],
+  "first": "x-watch:tomwarren"
+ },
+ {
+  "key": "matpat-returns-youtube-creator-skip",
+  "flagged": "2026-11-12T23:55Z",
+  "hit": 3,
+  "lane": "none",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "ms-outage-cpu-rollout-cause-sameStory-bench",
+  "flagged": "2026-11-12T23:55Z",
+  "hit": 5,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "x-watch:tomwarren",
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:tomwarren"
+ },
+ {
+  "key": "nvidia-kress-israel-politics-skip",
+  "flagged": "2026-11-12T23:55Z",
+  "hit": 2,
+  "lane": "none",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "democrats-nvidia-investigation-politics-skip",
+  "flagged": "2026-11-12T23:55Z",
+  "hit": 2,
+  "lane": "none",
+  "found_via": [
+   "reddit-new:pcmasterrace",
+   "reddit-new:technology"
+  ],
+  "first": "reddit-new:pcmasterrace"
+ },
+ {
+  "key": "pearl-abyss-ai-engine-crimson-hit5-bench",
+  "flagged": "2026-11-12T23:55Z",
+  "hit": 5,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "reddit-rising:gaming"
+  ],
+  "first": "reddit-rising:gaming"
+ },
+ {
+  "key": "anr-open-source-dlss-alt-hit4-bench",
+  "flagged": "2026-11-12T23:55Z",
+  "hit": 4,
+  "lane": "pc-unlock",
+  "found_via": [
+   "reddit-new:pcmasterrace"
+  ],
+  "first": "reddit-new:pcmasterrace"
+ },
+ {
+  "key": "win11-update-kills-wmp-skins-hit4-bench",
+  "flagged": "2026-11-12T23:55Z",
+  "hit": 4,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "x-lane:L4"
+  ],
+  "first": "x-lane:L4"
+ },
+ {
+  "key": "xbox-guide-customize-insiders-hit3-bench",
+  "flagged": "2026-11-12T23:55Z",
+  "hit": 3,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "x-watch:tomwarren",
+   "bsky:tomwarren.co.uk"
+  ],
+  "first": "x-watch:tomwarren"
+ },
+ {
+  "key": "zelda-oot-5m-four-days-business-hit3-bench",
+  "flagged": "2026-11-12T23:55Z",
+  "hit": 3,
+  "lane": "nintendo",
+  "found_via": [
+   "x-lane:L5",
+   "reddit-rising:NintendoSwitch"
+  ],
+  "first": "reddit-rising:NintendoSwitch"
+ },
+ {
+  "key": "tarkov-console-2027-insider-hit3-bench",
+  "flagged": "2026-11-12T23:55Z",
+  "hit": 3,
+  "lane": "none",
+  "found_via": [
+   "x-watch:InsiderGamingIG"
+  ],
+  "first": "x-watch:InsiderGamingIG"
  }
 ]
