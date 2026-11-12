@@ -3289,5 +3289,95 @@
    "x-lane:L1"
   ],
   "first": "x-lane"
+ },
+ {
+  "key": "bing-ai-off-operator-dexerto-hit6-lowvel",
+  "flagged": "2026-11-12T17:50Z",
+  "hit": 6,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto 17:00Z (story from Nov 11)"
+ },
+ {
+  "key": "amd-ssd-fix-driver-26-11-1-released-hit6-lowvel",
+  "flagged": "2026-11-12T17:50Z",
+  "hit": 6,
+  "lane": "supply-chain",
+  "found_via": [
+   "x-watch:videocardz",
+   "web:archetypeA"
+  ],
+  "first": "VideoCardz 17:00Z"
+ },
+ {
+  "key": "trump-tim-cook-nvidia-ceo-politics-hit3-skip",
+  "flagged": "2026-11-12T17:50Z",
+  "hit": 3,
+  "lane": "scene-named-people",
+  "found_via": [
+   "reddit-rising:technology",
+   "reddit-rising:apple",
+   "x-watch:unusual_whales",
+   "x-watch:tomshardware"
+  ],
+  "first": "9to5mac via r/technology"
+ },
+ {
+  "key": "musk-honor-hire-jensen-ign-hit4-bench",
+  "flagged": "2026-11-12T17:50Z",
+  "hit": 4,
+  "lane": "scene-named-people",
+  "found_via": [
+   "x-watch:IGN"
+  ],
+  "first": "IGN 17:31Z"
+ },
+ {
+  "key": "halo-firefight-free-winter-hit4-bench",
+  "flagged": "2026-11-12T17:50Z",
+  "hit": 4,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "x-watch:Wario64",
+   "bsky:wario64.bsky.social",
+   "reddit-rising:xbox"
+  ],
+  "first": "news.xbox.com via Wario64 17:03Z"
+ },
+ {
+  "key": "game-awards-disney-plus-hit3-bench",
+  "flagged": "2026-11-12T17:50Z",
+  "hit": 3,
+  "lane": "indie-oddity",
+  "found_via": [
+   "x-watch:Wario64",
+   "bsky:wario64.bsky.social"
+  ],
+  "first": "Wario64 17:01Z"
+ },
+ {
+  "key": "gta6-korea-rating-genital-exposure-hit2-bench",
+  "flagged": "2026-11-12T17:50Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:PS5",
+   "reddit-rising:Games",
+   "reddit-rising:GamingLeaksAndRumours",
+   "reddit-new:technology"
+  ],
+  "first": "Insider Gaming via r/GamingLeaksAndRumours"
+ },
+ {
+  "key": "fortnite-sprite-slur-sound-muted-hit3-bench",
+  "flagged": "2026-11-12T17:50Z",
+  "hit": 3,
+  "lane": "fandom-outrage",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto 16:30Z"
  }
 ]
