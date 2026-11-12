@@ -3379,5 +3379,97 @@
    "x-watch:Dexerto"
   ],
   "first": "Dexerto 16:30Z"
+ },
+ {
+  "key": "xbox-ceo-sharma-small-team-ai-memo-hit8-pitched",
+  "hit": 8,
+  "lane": "exec-quote",
+  "found_via": [
+   "reddit-rising:xbox",
+   "x-watch:pcgamer",
+   "x-lane:L4",
+   "gn:asha-sharma"
+  ],
+  "first": "news.xbox.com 25 Years of Xbox memo via r/xbox; Eurogamer 17:33Z",
+  "flagged": "2026-11-12T19:55Z"
+ },
+ {
+  "key": "zelnick-discs-vinyl-game-business-repeat-hit7-bench",
+  "hit": 7,
+  "lane": "ownership-rights",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "gn:zelnick"
+  ],
+  "first": "The Game Business (quote first said Aug 7, 2026 on earnings call)",
+  "flagged": "2026-11-12T19:55Z"
+ },
+ {
+  "key": "microsoft-365-outlook-outage-hit6-bench",
+  "hit": 6,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "reddit-new:technology",
+   "x-watch:tomwarren",
+   "bsky:tomwarren.co.uk",
+   "bsky:theverge.com",
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "r/technology downdetector 19:10Z; tomwarren 19:10Z",
+  "flagged": "2026-11-12T19:55Z"
+ },
+ {
+  "key": "anthropic-cuda-lead-amd-3days-hit6-bench",
+  "hit": 6,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "reddit-rising:pcmasterrace",
+   "reddit-cross:R1"
+  ],
+  "first": "the-decoder via r/pcmasterrace",
+  "flagged": "2026-11-12T19:55Z"
+ },
+ {
+  "key": "jensen-testify-congress-politics-skip",
+  "hit": 3,
+  "lane": "scene-named-people",
+  "found_via": [
+   "x-watch:unusual_whales",
+   "reddit-new:technology"
+  ],
+  "first": "Bloomberg via unusual_whales 17:57Z",
+  "flagged": "2026-11-12T19:55Z"
+ },
+ {
+  "key": "kick-10k-gta6-giveaway-hit3-bench",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation 18:17Z",
+  "flagged": "2026-11-12T19:55Z"
+ },
+ {
+  "key": "fable-new-gameplay-trailer-skip",
+  "hit": 2,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "x-watch:Wario64",
+   "x-watch:shinobi602",
+   "x-watch:tomwarren"
+  ],
+  "first": "Wario64 19:09Z",
+  "flagged": "2026-11-12T19:55Z"
+ },
+ {
+  "key": "dram-revenue-369pct-ai-hit5-bench",
+  "hit": 5,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "x-lane:L7"
+  ],
+  "first": "x-lane",
+  "flagged": "2026-11-12T19:55Z"
  }
 ]
