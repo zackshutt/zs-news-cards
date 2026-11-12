@@ -3082,5 +3082,102 @@
  {
   "key": "gta6-new-footage-viral-marketing-ign-recirc",
   "flagged": "2026-11-12T04:55Z"
+ },
+ {
+  "key": "altman-samsung-double-counted-fnnews-hit9-pitched",
+  "flagged": "2026-11-12T13:55Z",
+  "hit": 9,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "x-watch:unusual_whales",
+   "gn:altman"
+  ],
+  "first": "fnnews (Korea Financial News) 2026-11-11T08:30Z; X watchlist unusual_whales 11:01Z Nov 12"
+ },
+ {
+  "key": "nintendo-github-dmca-sweep-ign-hit6-pitched",
+  "flagged": "2026-11-12T13:55Z",
+  "hit": 6,
+  "lane": "nintendo-takedown",
+  "found_via": [
+   "reddit-rising:gaming",
+   "x-lane:TEST-nintendo-takedown"
+  ],
+  "first": "IGN via r/gaming"
+ },
+ {
+  "key": "sweeney-musk-back-jensen-pirat-hit4-bench",
+  "flagged": "2026-11-12T13:55Z",
+  "hit": 4,
+  "lane": "scene-named-people",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-lane:L8",
+   "x-watch:pcgamer"
+  ],
+  "first": "pcgamer 10:50Z"
+ },
+ {
+  "key": "humble-redesign-no-2fa-kotaku-hit5-bench",
+  "flagged": "2026-11-12T13:55Z",
+  "hit": 5,
+  "lane": "privacy-default",
+  "found_via": [
+   "reddit-rising:Games",
+   "reddit-new:pcgaming",
+   "x-watch:pcgamer"
+  ],
+  "first": "kotaku via r/Games"
+ },
+ {
+  "key": "ps-portal-jp-storage-cloud-hit4-bench",
+  "flagged": "2026-11-12T13:55Z",
+  "hit": 4,
+  "lane": "sony-anti-consumer",
+  "found_via": [
+   "x-lane:L1"
+  ],
+  "first": "x-lane"
+ },
+ {
+  "key": "ms-datacenter-pay-own-way-power-hit4-bench",
+  "flagged": "2026-11-12T13:55Z",
+  "hit": 4,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "unusual_whales"
+ },
+ {
+  "key": "win11-nov-security-update-fail-update-skip",
+  "flagged": "2026-11-12T13:55Z",
+  "hit": 3,
+  "lane": "update-posts",
+  "found_via": [
+   "x-lane:L4"
+  ],
+  "first": "x-lane"
+ },
+ {
+  "key": "gabe-in-windows-1-0-ad-reddit-hit5-bench",
+  "flagged": "2026-11-12T13:55Z",
+  "hit": 5,
+  "lane": "nostalgia-spec",
+  "found_via": [
+   "reddit-rising:Steam",
+   "reddit-new:Steam"
+  ],
+  "first": "r/Steam"
+ },
+ {
+  "key": "t-mobile-50gb-cap-ny-hit3-bench",
+  "flagged": "2026-11-12T13:55Z",
+  "hit": 3,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "arstechnica via r/technology"
  }
 ]
