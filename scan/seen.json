@@ -3956,5 +3956,68 @@
    "reddit-hot:pcmasterrace"
   ],
   "first": "@AMD on X 17:48Z"
+ },
+ {
+  "key": "sweeney-blames-government-journalists-jensen-downfall-gossip-hit3-bench",
+  "flagged": "2026-11-13T05:50Z",
+  "hit": 3,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "gn:Tim Sweeney Epic"
+  ],
+  "first": "Aftermath 05:07Z; Pirat_Nation 04:30Z"
+ },
+ {
+  "key": "gamestop-x25-4950-listing-wario64-hit5-bench",
+  "flagged": "2026-11-13T05:50Z",
+  "hit": 5,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "x-watch:Wario64",
+   "bsky:wario64.bsky.social",
+   "reddit-rising:xbox"
+  ],
+  "first": "Wario64 05:01Z"
+ },
+ {
+  "key": "jensen-last-hours-piece-of-sh-gossip-hit2-skip",
+  "flagged": "2026-11-13T05:50Z",
+  "hit": 2,
+  "lane": "none",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "r/technology 03:20Z"
+ },
+ {
+  "key": "nyc-surveillance-pricing-ban-politics-hit3-bench",
+  "flagged": "2026-11-13T05:50Z",
+  "hit": 3,
+  "lane": "none",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "r/technology"
+ },
+ {
+  "key": "team-overdose-ps5-1402-jailbreak-announce-hit3-bench",
+  "flagged": "2026-11-13T05:50Z",
+  "hit": 3,
+  "lane": "ps-scene",
+  "found_via": [
+   "x-lane:L1"
+  ],
+  "first": "x 04:09Z"
+ },
+ {
+  "key": "fefw-recomp-fire-emblem-pc-github-noun-bench",
+  "flagged": "2026-11-13T05:50Z",
+  "hit": 2,
+  "lane": "pc-unlock",
+  "found_via": [
+   "github"
+  ],
+  "first": "github Goldoire/fefw-recomp"
  }
 ]
