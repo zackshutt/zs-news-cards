@@ -4235,5 +4235,104 @@
    "x-watch:Pirat_Nation"
   ],
   "first": "Pirat_Nation 15:02Z"
+ },
+ {
+  "key": "xbox-ads-or-prices-stringfield-hit8-pitched",
+  "flagged": "2026-11-13T17:50Z",
+  "hit": 8,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "gn:Xbox Stringfield ads"
+  ],
+  "first": "GamesBeat Nov 12 13:03Z"
+ },
+ {
+  "key": "win-nov-update-activation-enterprise-hit5-bench",
+  "flagged": "2026-11-13T17:50Z",
+  "hit": 5,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "x-lane:L4",
+   "gn:Windows activation"
+  ],
+  "first": "BleepingComputer 09:36Z"
+ },
+ {
+  "key": "rockstar-uk-union-vote-gta6-labor-hit4-bench",
+  "flagged": "2026-11-13T17:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "bsky:jasonschreier.bsky.social",
+   "x-watch:jasonschreier"
+  ],
+  "first": "jasonschreier 17:02Z"
+ },
+ {
+  "key": "zelnick-physical-vinyl-dexerto-sameStory-bench",
+  "flagged": "2026-11-13T17:50Z",
+  "hit": 7,
+  "lane": "ownership-rights",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto 17:00Z"
+ },
+ {
+  "key": "nvidia-board-approaches-rene-haas-ft-gossip-hit4-bench",
+  "flagged": "2026-11-13T17:50Z",
+  "hit": 4,
+  "lane": "scene-named-people",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "FT via unusual_whales 17:12Z"
+ },
+ {
+  "key": "tga-stream-in-roblox-hit3-bench",
+  "flagged": "2026-11-13T17:50Z",
+  "hit": 3,
+  "lane": "none",
+  "found_via": [
+   "x-watch:Wario64",
+   "x-watch:shinobi602",
+   "bsky:wario64.bsky.social"
+  ],
+  "first": "Wario64 16:08Z"
+ },
+ {
+  "key": "gta6-photoreal-clips-12m-time-off-logistics-hit3-bench",
+  "flagged": "2026-11-13T17:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:NikTek",
+   "x-watch:unusual_whales",
+   "x-watch:Okami13_"
+  ],
+  "first": "NikTek 16:37Z"
+ },
+ {
+  "key": "rainbow-six-vegas-return-insider-rumor-hit3-bench",
+  "flagged": "2026-11-13T17:50Z",
+  "hit": 3,
+  "lane": "none",
+  "found_via": [
+   "x-watch:InsiderGamingIG"
+  ],
+  "first": "InsiderGamingIG 17:11Z"
+ },
+ {
+  "key": "ms365-outage-fax-machines-sameStory-bench",
+  "flagged": "2026-11-13T17:50Z",
+  "hit": 5,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "reddit-rising:technology",
+   "x-watch:unusual_whales",
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "r/technology"
  }
 ]
