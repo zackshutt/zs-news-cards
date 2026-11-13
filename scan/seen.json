@@ -4113,5 +4113,17 @@
    "reddit-rising:pcmasterrace"
   ],
   "first": "r/pcmasterrace 9K"
+ },
+ {
+  "key": "ms365-outage-day2-recovering-sameStory-bench",
+  "flagged": "2026-11-13T13:50Z",
+  "hit": 5,
+  "lane": "microsoft",
+  "found_via": [
+   "bsky:theverge.com",
+   "bsky:videogameschronicle.com",
+   "web:archetypeA"
+  ],
+  "first": "bsky:theverge.com"
  }
 ]
