@@ -3791,5 +3791,79 @@
    "x-watch:A"
   ],
   "first": "x-watch 01:01Z"
+ },
+ {
+  "key": "cavill-mustache-protocol-released-google-ai-followup-hit4-bench",
+  "flagged": "2026-11-13T03:50Z",
+  "hit": 4,
+  "lane": "celeb-gaming",
+  "found_via": [
+   "x-watch:Dexerto",
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Dexerto 02:00Z (game first posted by Zack Nov 6)"
+ },
+ {
+  "key": "nvidia-employees-petition-jensen-return-hit4-bench",
+  "flagged": "2026-11-13T03:50Z",
+  "hit": 4,
+  "lane": "scene-named-people",
+  "found_via": [
+   "reddit-new:pcmasterrace",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "r/pcmasterrace ~02:30Z"
+ },
+ {
+  "key": "trump-nvidia-stock-trades-politics-skip",
+  "flagged": "2026-11-13T03:50Z",
+  "hit": 2,
+  "lane": "none",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "unusual_whales 02:14Z"
+ },
+ {
+  "key": "furukawa-switch2-another-price-hike-opinion-hit5-bench",
+  "flagged": "2026-11-13T03:50Z",
+  "hit": 5,
+  "lane": "console-price",
+  "found_via": [
+   "x-lane:L6",
+   "gn:furukawa"
+  ],
+  "first": "opinion piece; Nintendo ruled out a hike Nov 6"
+ },
+ {
+  "key": "oot-switch2-best-selling-version-famitsu-sameStory-bench",
+  "flagged": "2026-11-13T03:50Z",
+  "hit": 4,
+  "lane": "nintendo",
+  "found_via": [
+   "x-watch:Genki_JPN",
+   "x-lane:L5"
+  ],
+  "first": "Genki_JPN 02:31Z"
+ },
+ {
+  "key": "ps5-100m-shipped-six-years-business-hit3-bench",
+  "flagged": "2026-11-13T03:50Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "x-lane:L1"
+  ],
+  "first": "x-lane:L1 02:07Z"
+ },
+ {
+  "key": "gta6-burger-shot-popeyes-tieins-logistics-skip",
+  "flagged": "2026-11-13T03:50Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:IGN"
+  ],
+  "first": "IGN 02:01Z"
  }
 ]
