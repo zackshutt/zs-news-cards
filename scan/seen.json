@@ -4334,5 +4334,131 @@
    "x-watch:Pirat_Nation"
   ],
   "first": "r/technology"
+ },
+ {
+  "key": "jensen-belittled-replacement-gossip-hit3-bench",
+  "flagged": "2026-11-13T19:50Z",
+  "hit": 3,
+  "lane": "scene-named-people",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "r/technology 17:10Z"
+ },
+ {
+  "key": "ex-nintendo-marketing-zelda-dying-before-botw-hit5-bench",
+  "flagged": "2026-11-13T19:50Z",
+  "hit": 5,
+  "lane": "nintendo",
+  "found_via": [
+   "reddit-rising:gaming"
+  ],
+  "first": "GamesRadar via r/gaming 19:05Z"
+ },
+ {
+  "key": "tga-live-on-every-ps5-live-tv-hit5-bench",
+  "flagged": "2026-11-13T19:50Z",
+  "hit": 5,
+  "lane": "sony",
+  "found_via": [
+   "reddit-rising:PS5",
+   "x-watch:shinobi602",
+   "reddit-rising:Games"
+  ],
+  "first": "Geoff Keighley via r/PS5 17:10Z"
+ },
+ {
+  "key": "oreilly-sony-ms-cant-compete-rockstar-quote-hit4-bench",
+  "flagged": "2026-11-13T19:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:technology",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "r/pcmasterrace 12:30Z"
+ },
+ {
+  "key": "win11-memory-integrity-more-pcs-nov-update-recirc",
+  "flagged": "2026-11-13T19:50Z",
+  "hit": 8,
+  "lane": "privacy-default",
+  "found_via": [
+   "gn:Microsoft Windows"
+  ],
+  "first": "TechPowerUp 16:40Z (already posted Nov 11)"
+ },
+ {
+  "key": "eu-525m-chips-vs-nvidia-business-hit2-skip",
+  "flagged": "2026-11-13T19:50Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation 18:01Z"
+ },
+ {
+  "key": "tsmc-employee-data-leak-breach-hit3-bench",
+  "flagged": "2026-11-13T19:50Z",
+  "hit": 3,
+  "lane": "breach-hack",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation 19:00Z"
+ },
+ {
+  "key": "wii-20-years-meme-remember-this-engage",
+  "flagged": "2026-11-13T19:50Z",
+  "hit": 0,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-rising:gaming"
+  ],
+  "first": "r/gaming 2,955 in 1h (imgur meme, SNES vs Wii)"
+ },
+ {
+  "key": "xbox-console-price-history-engage",
+  "flagged": "2026-11-13T19:50Z",
+  "hit": 0,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-rising:xbox"
+  ],
+  "first": "r/xbox 754 in 4h"
+ },
+ {
+  "key": "lisa-su-microcenter-austin-hit4-bench",
+  "flagged": "2026-11-13T19:50Z",
+  "hit": 4,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "r/pcmasterrace 867"
+ },
+ {
+  "key": "amd-radeon-at-your-lowest-not-msrp-banter-hit5-bench",
+  "flagged": "2026-11-13T19:50Z",
+  "hit": 5,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-rising:Amd"
+  ],
+  "first": "r/Amd 685 (8.7h)"
+ },
+ {
+  "key": "tga-nominees-nov17-logistics-hit2-skip",
+  "flagged": "2026-11-13T19:50Z",
+  "hit": 2,
+  "lane": "none",
+  "found_via": [
+   "x-watch:shinobi602",
+   "x-watch:Okami13_",
+   "x-watch:InsiderGamingIG",
+   "reddit-rising:Games"
+  ],
+  "first": "shinobi602 18:24Z"
  }
 ]
