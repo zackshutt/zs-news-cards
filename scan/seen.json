@@ -4460,5 +4460,88 @@
    "reddit-rising:Games"
   ],
   "first": "shinobi602 18:24Z"
+ },
+ {
+  "key": "gemini-bank-accounts-wallet-optin-ai-shoved-in-hit6-bench",
+  "flagged": "2026-11-13T21:50Z",
+  "hit": 6,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "gn:Gemini bank accounts Google"
+  ],
+  "first": "Android Authority/TNW ~17:45Z; Pirat_Nation 21:03Z"
+ },
+ {
+  "key": "asha-sharma-xbox-pioneered-dual-analog-hit6-lowvel",
+  "flagged": "2026-11-13T21:50Z",
+  "hit": 6,
+  "lane": "exec-quote",
+  "found_via": [
+   "gn:Sony PlayStation CEO",
+   "gn:Asha Sharma dual analog"
+  ],
+  "first": "Push Square Nov 12; X 22:30Z Nov 12"
+ },
+ {
+  "key": "xbox-6-days-countdown-teaser-engage",
+  "flagged": "2026-11-13T21:50Z",
+  "hit": 0,
+  "lane": "engagement",
+  "found_via": [
+   "x-lane:L9"
+  ],
+  "first": "@XBOX 20:00Z 13.4K likes"
+ },
+ {
+  "key": "xbox-25th-anniversary-collection-live-hit3-bench",
+  "flagged": "2026-11-13T21:50Z",
+  "hit": 3,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "x-lane:L9"
+  ],
+  "first": "@XBOX 21:21Z"
+ },
+ {
+  "key": "razer-haptic-gaming-chair-quirky-hit3-bench",
+  "flagged": "2026-11-13T21:50Z",
+  "hit": 3,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto 21:01Z"
+ },
+ {
+  "key": "pioner-mmo-shutting-down-noun-bench",
+  "flagged": "2026-11-13T21:50Z",
+  "hit": 2,
+  "lane": "rights",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "reddit-new:pcgaming"
+  ],
+  "first": "Pirat_Nation 20:01Z"
+ },
+ {
+  "key": "rtx5090-china-price-slide-huaqiangbei-hit5-bench",
+  "flagged": "2026-11-13T21:50Z",
+  "hit": 5,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "x-lane:L3"
+  ],
+  "first": "X 20:40Z (1 like)"
+ },
+ {
+  "key": "ms-security-measure-vuln-ars-breach-hit3-bench",
+  "flagged": "2026-11-13T21:50Z",
+  "hit": 3,
+  "lane": "breach-hack",
+  "found_via": [
+   "bsky:arstechnica.com"
+  ],
+  "first": "Ars 21:10Z"
  }
 ]
