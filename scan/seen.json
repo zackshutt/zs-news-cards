@@ -3693,5 +3693,103 @@
    "x-watch:InsiderGamingIG"
   ],
   "first": "x-watch:InsiderGamingIG"
+ },
+ {
+  "key": "wolfenstein3-in-production-xbox-ceo-reveal-hit4-bench",
+  "flagged": "2026-11-13T01:50Z",
+  "hit": 4,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "x-lane:L8",
+   "x-watch:A",
+   "x-watch:B",
+   "bsky:wario64.bsky.social",
+   "bsky:tomwarren.co.uk",
+   "bsky:theverge.com",
+   "reddit-rising:xbox"
+  ],
+  "first": "Asha Sharma on X 00:06Z (Xbox FanFest)"
+ },
+ {
+  "key": "senate-banking-jensen-lutnick-testify-politics-skip",
+  "flagged": "2026-11-13T01:50Z",
+  "hit": 2,
+  "lane": "none",
+  "found_via": [
+   "x-watch:A"
+  ],
+  "first": "unusual_whales 00:08Z via Politico"
+ },
+ {
+  "key": "hawley-datacenter-pause-politics-skip",
+  "flagged": "2026-11-13T01:50Z",
+  "hit": 2,
+  "lane": "none",
+  "found_via": [
+   "x-lane:L7"
+  ],
+  "first": "x-lane:L7"
+ },
+ {
+  "key": "gta6-60fps-build-existed-rumor-hit3-bench",
+  "flagged": "2026-11-13T01:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:GamingLeaksAndRumours"
+  ],
+  "first": "r/GamingLeaksAndRumours"
+ },
+ {
+  "key": "humble-redesign-security-r-gaming-4k-noun-bench",
+  "flagged": "2026-11-13T01:50Z",
+  "hit": 5,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "reddit-rising:gaming",
+   "x-watch:A",
+   "bsky:wario64.bsky.social"
+  ],
+  "first": "r/gaming (story already benched Nov 12)"
+ },
+ {
+  "key": "oot-remake-physical-beats-digital-famitsu-hit4-bench",
+  "flagged": "2026-11-13T01:50Z",
+  "hit": 4,
+  "lane": "nintendo",
+  "found_via": [
+   "x-watch:A"
+  ],
+  "first": "Famitsu via Genki_JPN 01:04Z"
+ },
+ {
+  "key": "mkw-recomp-switch2-pc-github-noun-bench",
+  "flagged": "2026-11-13T01:50Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "github"
+  ],
+  "first": "github adriadam10/mkw-recomp Nov 9"
+ },
+ {
+  "key": "take-two-xbox-publisher-agreement-totilo-hit3-bench",
+  "flagged": "2026-11-13T01:50Z",
+  "hit": 3,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "bsky:stephentotilo.bsky.social"
+  ],
+  "first": "Game File 00:54Z"
+ },
+ {
+  "key": "gdc-survey-ps6-helix-dev-low-hit3-bench",
+  "flagged": "2026-11-13T01:50Z",
+  "hit": 3,
+  "lane": "console-price",
+  "found_via": [
+   "x-watch:A"
+  ],
+  "first": "x-watch 01:01Z"
  }
 ]
