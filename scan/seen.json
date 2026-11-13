@@ -4019,5 +4019,99 @@
    "github"
   ],
   "first": "github Goldoire/fefw-recomp"
+ },
+ {
+  "key": "xbox-outage-digital-games-locked-hit7-lowvel",
+  "flagged": "2026-11-13T10:55Z",
+  "hit": 7,
+  "lane": "ownership-rights",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-watch:InsiderGamingIG",
+   "gn:adhoc-xbox-outage",
+   "x-vel:xbox-outage"
+  ],
+  "first": "Pirat_Nation 09:33Z; Insider Gaming ~08:45Z"
+ },
+ {
+  "key": "ms365-outage-bill-credit-windowslatest-hit5-bench",
+  "flagged": "2026-11-13T10:55Z",
+  "hit": 5,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "x-watch:WindowsLatest",
+   "x-watch:tomwarren"
+  ],
+  "first": "WindowsLatest 10:10Z"
+ },
+ {
+  "key": "nvidia-hq-flowers-funeral-gossip-hit3-bench",
+  "flagged": "2026-11-13T10:55Z",
+  "hit": 3,
+  "lane": "scene-named-people",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation 08:55Z"
+ },
+ {
+  "key": "gdc-33pct-devs-lost-jobs-business-hit3-bench",
+  "flagged": "2026-11-13T10:55Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation 07:00Z"
+ },
+ {
+  "key": "switch2-update-required-smilebasic-jailbreak-hit4-bench",
+  "flagged": "2026-11-13T10:55Z",
+  "hit": 4,
+  "lane": "nintendo",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation 06:04Z"
+ },
+ {
+  "key": "nintendo-dmca-four-fan-pc-ports-sameStory-bench",
+  "flagged": "2026-11-13T10:55Z",
+  "hit": 5,
+  "lane": "nintendo-takedown",
+  "found_via": [
+   "x-lane:TEST-nintendo-takedown"
+  ],
+  "first": "Nintendo Life via X 10:00Z"
+ },
+ {
+  "key": "jensen-exit-bad-for-gamers-opinion-hit4-bench",
+  "flagged": "2026-11-13T10:55Z",
+  "hit": 4,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "x-lane:L7"
+  ],
+  "first": "x-lane:L7 10:28Z"
+ },
+ {
+  "key": "kyty-ps5-emu-fork-fsr4-noun-bench",
+  "flagged": "2026-11-13T10:55Z",
+  "hit": 2,
+  "lane": "pc-unlock",
+  "found_via": [
+   "x-lane:L2"
+  ],
+  "first": "x 08:36Z"
+ },
+ {
+  "key": "new-nvidia-ceo-meme-pcmr-skip",
+  "flagged": "2026-11-13T10:55Z",
+  "hit": 1,
+  "lane": "none",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "r/pcmasterrace 9K"
  }
 ]
