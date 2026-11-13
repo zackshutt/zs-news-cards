@@ -4543,5 +4543,90 @@
    "bsky:arstechnica.com"
   ],
   "first": "Ars 21:10Z"
+ },
+ {
+  "key": "faa-ground-stop-telecom-outage-ms-not-us-offtopic-hit3-skip",
+  "flagged": "2026-11-13T23:50Z",
+  "hit": 3,
+  "lane": "none",
+  "found_via": [
+   "x-watch:Dexerto",
+   "x-watch:unusual_whales",
+   "x-watch:tomwarren",
+   "bsky:tomwarren.co.uk",
+   "reddit-rising:technology"
+  ],
+  "first": "Dexerto 21:43Z"
+ },
+ {
+  "key": "switch2-kaihen-jailbreak-native-recomp-sd-hit4-bench",
+  "flagged": "2026-11-13T23:50Z",
+  "hit": 4,
+  "lane": "ps-scene",
+  "found_via": [
+   "x-lane:L5"
+  ],
+  "first": "X 23:09Z"
+ },
+ {
+  "key": "steam-linux-14yr-bug-fixed-beta-hit5-bench",
+  "flagged": "2026-11-13T23:50Z",
+  "hit": 5,
+  "lane": "good-guy-company",
+  "found_via": [
+   "reddit-rising:linux_gaming"
+  ],
+  "first": "r/linux_gaming ~23:05Z"
+ },
+ {
+  "key": "oot-switch2-redead-toned-down-hit4-bench",
+  "flagged": "2026-11-13T23:50Z",
+  "hit": 4,
+  "lane": "nintendo",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-watch:shinobi602"
+  ],
+  "first": "Pirat_Nation 22:59Z"
+ },
+ {
+  "key": "lisa-su-yahoo-ceo-of-year-sameStory-skip",
+  "flagged": "2026-11-13T23:50Z",
+  "hit": 4,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "unusual_whales 22:31Z"
+ },
+ {
+  "key": "lisa-su-microcenter-austin-amd-post-sameStory-bench",
+  "flagged": "2026-11-13T23:50Z",
+  "hit": 4,
+  "lane": "engagement",
+  "found_via": [
+   "x-lane:L9"
+  ],
+  "first": "@AMD 22:30Z"
+ },
+ {
+  "key": "daily-dose-internet-semi-retired-creator-skip",
+  "flagged": "2026-11-13T23:50Z",
+  "hit": 1,
+  "lane": "none",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto 22:01Z"
+ },
+ {
+  "key": "gta6-countdown-ign-logistics-hit2-skip",
+  "flagged": "2026-11-13T23:50Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:IGN"
+  ],
+  "first": "IGN 21:52Z"
  }
 ]
