@@ -3865,5 +3865,46 @@
    "x-watch:IGN"
   ],
   "first": "IGN 02:01Z"
+ },
+ {
+  "key": "gta5-rdr2-leave-psplus-nov17-before-gta6-oldnews-hit7-bench",
+  "flagged": "2026-11-13T04:20Z",
+  "hit": 7,
+  "lane": "ownership-rights",
+  "found_via": [
+   "web:dig",
+   "x-vel:gta5-psplus"
+  ],
+  "first": "PS Plus Last Chance row Oct 20; gamingroute"
+ },
+ {
+  "key": "steam-review-backlog-ai-slop-eurogamer-sameStory-bench",
+  "flagged": "2026-11-13T04:20Z",
+  "hit": 5,
+  "lane": "steam-valve",
+  "found_via": [
+   "gn:dig-valve-steam"
+  ],
+  "first": "Eurogamer Nov 12 16:06Z (already benched)"
+ },
+ {
+  "key": "tomb-raider-catalyst-switch2-amazon-listing-rumor-hit3-bench",
+  "flagged": "2026-11-13T04:20Z",
+  "hit": 3,
+  "lane": "nintendo",
+  "found_via": [
+   "x-dig:broad"
+  ],
+  "first": "x 17:30Z"
+ },
+ {
+  "key": "hn-chinese-ai-models-export-gpu-fingerprint-hit3-bench",
+  "flagged": "2026-11-13T04:20Z",
+  "hit": 3,
+  "lane": "none",
+  "found_via": [
+   "hn-front"
+  ],
+  "first": "HN 21:56Z"
  }
 ]
