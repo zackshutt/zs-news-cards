@@ -3906,5 +3906,45 @@
    "hn-front"
   ],
   "first": "HN 21:56Z"
+ },
+ {
+  "key": "amd-lisa-su-ceo-of-year-jensen-exit-day-banter-hit5-engage",
+  "flagged": "2026-11-13T04:40Z",
+  "hit": 5,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-hot:pcmasterrace"
+  ],
+  "first": "@AMD on X (4.8K likes at 53m); r/pcmasterrace 18.6K"
+ },
+ {
+  "key": "walmart-black-friday-2016-games-ad-nostalgia-engage",
+  "flagged": "2026-11-13T04:40Z",
+  "hit": 0,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-hot:gaming"
+  ],
+  "first": "r/gaming 6.7K"
+ },
+ {
+  "key": "mako-framegen-5-free-steamdeck-hit5-bench",
+  "flagged": "2026-11-13T04:40Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "reddit-hot:SteamDeck"
+  ],
+  "first": "github eugeniosegala/MAKO"
+ },
+ {
+  "key": "amd-gpu-supply-china-down-20-50-hit4-bench",
+  "flagged": "2026-11-13T04:40Z",
+  "hit": 4,
+  "lane": "supply-chain",
+  "found_via": [
+   "reddit-hot:Amd"
+  ],
+  "first": "videocardz"
  }
 ]
