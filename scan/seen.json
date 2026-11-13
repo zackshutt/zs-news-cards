@@ -4125,5 +4125,115 @@
    "web:archetypeA"
   ],
   "first": "bsky:theverge.com"
+ },
+ {
+  "key": "jensen-avalanche-wsj-279b-memory-hit9-pitched",
+  "flagged": "2026-11-13T15:50Z",
+  "hit": 9,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "reddit-rising:pcmasterrace",
+   "reddit-rising:pcgaming",
+   "gn:adhoc-avalanche",
+   "x-vel:avalanche"
+  ],
+  "first": "WSJ via BullTheoryio X 09:01Z; r/pcmasterrace ~10:35Z; Pirat_Nation 13:02Z"
+ },
+ {
+  "key": "xbox25-console-sold-out-scalpers-hit5-bench",
+  "flagged": "2026-11-13T15:50Z",
+  "hit": 5,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "x-watch:IGN",
+   "reddit-rising:xbox"
+  ],
+  "first": "IGN 15:31Z"
+ },
+ {
+  "key": "s2arm-switch-games-native-iphone-github-hit4-bench",
+  "flagged": "2026-11-13T15:50Z",
+  "hit": 4,
+  "lane": "pc-unlock",
+  "found_via": [
+   "github"
+  ],
+  "first": "github jhaizhou-ops/S2Arm"
+ },
+ {
+  "key": "epic-launcher-flatpak-flathub-hit5-lowvel",
+  "flagged": "2026-11-13T15:50Z",
+  "hit": 5,
+  "lane": "linux-escape",
+  "found_via": [
+   "reddit-rising:linux_gaming",
+   "reddit-rising:SteamDeck"
+  ],
+  "first": "r/linux_gaming 15:00Z"
+ },
+ {
+  "key": "ps5-qssr-more-games-hit4-bench",
+  "flagged": "2026-11-13T15:50Z",
+  "hit": 4,
+  "lane": "ps-scene",
+  "found_via": [
+   "x-watch:shinobi602",
+   "x-watch:Wario64",
+   "bsky:wario64.bsky.social",
+   "reddit-rising:PS5"
+  ],
+  "first": "PlayStation Blog 14:00Z"
+ },
+ {
+  "key": "xbox-playback-recap-hit4-engage",
+  "flagged": "2026-11-13T15:50Z",
+  "hit": 4,
+  "lane": "engagement",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto 15:00Z"
+ },
+ {
+  "key": "gamersnexus-nvidia-greed-video-gossip-hit3-bench",
+  "flagged": "2026-11-13T15:50Z",
+  "hit": 3,
+  "lane": "scene-named-people",
+  "found_via": [
+   "x-watch:GamersNexus",
+   "reddit-rising:pcmasterrace",
+   "reddit-rising:gaming"
+  ],
+  "first": "GamersNexus 13:43Z"
+ },
+ {
+  "key": "anthropic-ipo-6x-oversubscribed-business-skip",
+  "flagged": "2026-11-13T15:50Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "unusual_whales 15:17Z"
+ },
+ {
+  "key": "gta6-update-1002-logistics-hit2-skip",
+  "flagged": "2026-11-13T15:50Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:PS5"
+  ],
+  "first": "r/PS5"
+ },
+ {
+  "key": "gta6-pirate-dump-warning-jailbreak-dev-hit3-bench",
+  "flagged": "2026-11-13T15:50Z",
+  "hit": 3,
+  "lane": "ps-scene",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation 15:02Z"
  }
 ]
