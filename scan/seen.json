@@ -4628,5 +4628,81 @@
    "x-watch:IGN"
   ],
   "first": "IGN 21:52Z"
+ },
+ {
+  "key": "musk-petition-reinstate-jensen-will-sign-gossip-hit4-bench",
+  "flagged": "2026-11-14T01:50Z",
+  "hit": 4,
+  "lane": "scene-named-people",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "unusual_whales 00:59Z"
+ },
+ {
+  "key": "nvidia-1-5m-gpu-smuggling-toms-ceo-exit-gossip-hit4-bench",
+  "flagged": "2026-11-14T01:50Z",
+  "hit": 4,
+  "lane": "supply-chain",
+  "found_via": [
+   "reddit-new:technology",
+   "yt-topic:Xbox news"
+  ],
+  "first": "Tom's Hardware via r/technology ~01:35Z"
+ },
+ {
+  "key": "nintendo-github-dmca-pirat-recirc-pitched-skip",
+  "flagged": "2026-11-14T01:50Z",
+  "hit": 6,
+  "lane": "nintendo-takedown",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-lane:TEST-nintendo",
+   "gn:Nintendo DMCA GitHub"
+  ],
+  "first": "VGC Nov 11 10:44Z (already pitched)"
+ },
+ {
+  "key": "popeyes-gta6-spice-city-sandwich-logistics-skip",
+  "flagged": "2026-11-14T01:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto 01:00Z"
+ },
+ {
+  "key": "gta6-new-clips-30fps-ign-logistics-hit3-bench",
+  "flagged": "2026-11-14T01:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:IGN",
+   "x-watch:NikTek",
+   "yt-topic:PS5 news"
+  ],
+  "first": "IGN 00:31Z"
+ },
+ {
+  "key": "faa-ground-stop-ms-ai-tool-offtopic-skip",
+  "flagged": "2026-11-14T01:50Z",
+  "hit": 2,
+  "lane": "none",
+  "found_via": [
+   "reddit-rising:technology",
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "r/technology"
+ },
+ {
+  "key": "dark-souls-41m-sales-hit2-skip",
+  "flagged": "2026-11-14T01:50Z",
+  "hit": 2,
+  "lane": "none",
+  "found_via": [
+   "x-watch:Genki_JPN"
+  ],
+  "first": "Genki_JPN 00:42Z"
  }
 ]
