@@ -5084,5 +5084,96 @@
    "reddit-rising:Windows11"
   ],
   "first": "WindowsLatest"
+ },
+ {
+  "key": "xbox-cloud-playtime-prices-live-store-hit6-lowvel",
+  "flagged": "2026-11-14T15:50Z",
+  "hit": 6,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "reddit-rising:xbox",
+   "web:archetypeA"
+  ],
+  "first": "r/xbox 484 at 13h; caps announced Xbox Wire Sept 3, prices Oct 21"
+ },
+ {
+  "key": "rtx5090-5080-japan-price-drop-22pct-hit5-bench",
+  "flagged": "2026-11-14T15:50Z",
+  "hit": 5,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "wccftech; r/pcmasterrace 357 at 1.3h"
+ },
+ {
+  "key": "kress-deer-in-headlights-wsj-gossip-hit2-skip",
+  "flagged": "2026-11-14T15:50Z",
+  "hit": 2,
+  "lane": "scene-named-people",
+  "found_via": [
+   "x-lane:L8"
+  ],
+  "first": "WSJ; X 14:16Z 160 likes"
+ },
+ {
+  "key": "kick-twitch-free-gta6-copies-dexerto-hit3-bench",
+  "flagged": "2026-11-14T15:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto 14:20Z 1,562 likes"
+ },
+ {
+  "key": "pc-cooling-radiator-outside-house-quirky-hit3-bench",
+  "flagged": "2026-11-14T15:50Z",
+  "hit": 3,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto 14:01Z 551 likes"
+ },
+ {
+  "key": "nvidia-hidden-perf-unlock-rtx3060-87pct-unverified-hit3-bench",
+  "flagged": "2026-11-14T15:50Z",
+  "hit": 3,
+  "lane": "pc-unlock",
+  "found_via": [
+   "x-lane:L3"
+  ],
+  "first": "X 15:06Z 16 likes, unverified"
+ },
+ {
+  "key": "geforce-melted-connectors-november-hit4-bench",
+  "flagged": "2026-11-14T15:50Z",
+  "hit": 4,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "x-watch:videocardz"
+  ],
+  "first": "VideoCardz 14:35Z 24 likes"
+ },
+ {
+  "key": "uber-breach-fireworks-ai-hack-skip",
+  "flagged": "2026-11-14T15:50Z",
+  "hit": 2,
+  "lane": "breach-hack",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation 15:00Z"
+ },
+ {
+  "key": "tomb-raider-30-years-brand-post-engage",
+  "flagged": "2026-11-14T15:50Z",
+  "hit": 0,
+  "lane": "engagement",
+  "found_via": [
+   "x-lane:L9"
+  ],
+  "first": "@PlayStation 15:22Z 345 likes"
  }
 ]
