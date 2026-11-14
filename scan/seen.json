@@ -5259,5 +5259,121 @@
    "x-velocity"
   ],
   "first": "X 17:08Z"
+ },
+ {
+  "key": "gta6-xbox-store-1999-listing-preorder-logistics-hit4-bench",
+  "flagged": "2026-11-14T19:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Wario64",
+   "bsky:wario64.bsky.social"
+  ],
+  "first": "x-watch:Wario64"
+ },
+ {
+  "key": "altman-openai-robots-build-datacenters-hit6-lowvel",
+  "flagged": "2026-11-14T19:50Z",
+  "hit": 6,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales"
+ },
+ {
+  "key": "skhynix-2027-worst-ram-shortage-makeuseof-old-fact-hit6-bench",
+  "flagged": "2026-11-14T19:50Z",
+  "hit": 6,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "reddit-rising:pcmasterrace",
+   "gn:story"
+  ],
+  "first": "reddit-rising:pcmasterrace"
+ },
+ {
+  "key": "gta6-review-copies-no-xbox-rumor-hit2-skip",
+  "flagged": "2026-11-14T19:50Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-lane:L1"
+  ],
+  "first": "x-lane:L1"
+ },
+ {
+  "key": "nvidia-circular-financing-gpu-prices-sameStory-recirc",
+  "flagged": "2026-11-14T19:50Z",
+  "hit": 7,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "reddit-new:technology",
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-new:technology"
+ },
+ {
+  "key": "gamersnexus-cnn-nvidia-smuggling-gossip-hit3-bench",
+  "flagged": "2026-11-14T19:50Z",
+  "hit": 3,
+  "lane": "scene-named-people",
+  "found_via": [
+   "x-watch:GamersNexus"
+  ],
+  "first": "x-watch:GamersNexus"
+ },
+ {
+  "key": "inxile-office-shooting-violence-skip",
+  "flagged": "2026-11-14T19:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "x-watch:Okami13_",
+   "x-watch:Kotaku"
+  ],
+  "first": "x-watch:Okami13_"
+ },
+ {
+  "key": "gta6-lucia-saudi-censored-hit2-skip",
+  "flagged": "2026-11-14T19:50Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "steamos-310-preview-update-posts-skip",
+  "flagged": "2026-11-14T19:50Z",
+  "hit": 2,
+  "lane": "steam-valve",
+  "found_via": [
+   "x-watch:videocardz",
+   "x-lane:L2"
+  ],
+  "first": "x-watch:videocardz"
+ },
+ {
+  "key": "windows-defender-sample-submission-default-hit5-bench",
+  "flagged": "2026-11-14T19:50Z",
+  "hit": 5,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "x-lane:TEST"
+  ],
+  "first": "x-lane:TEST"
+ },
+ {
+  "key": "rockstar-union-vote-business-hit3-bench",
+  "flagged": "2026-11-14T19:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:gaming",
+   "reddit-rising:PS5"
+  ],
+  "first": "reddit-rising:PS5"
  }
 ]
