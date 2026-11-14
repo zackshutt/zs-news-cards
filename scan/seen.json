@@ -4704,5 +4704,88 @@
    "x-watch:Genki_JPN"
   ],
   "first": "Genki_JPN 00:42Z"
+ },
+ {
+  "key": "nvidia-financed-startups-absorb-gpus-instead-of-price-cut-wsj-sameStory-hit7-bench",
+  "flagged": "2026-11-14T03:50Z",
+  "hit": 7,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "reddit-rising:pcmasterrace",
+   "reddit-cross:R2",
+   "reddit-hot:LinusTechTips",
+   "web:story"
+  ],
+  "first": "wccftech 19:23Z (WSJ follow-up); r/pcmasterrace TPU link 4.3K at 1.5h"
+ },
+ {
+  "key": "nvidia-27-security-vulns-pirat-hack-hit3-bench",
+  "flagged": "2026-11-14T03:50Z",
+  "hit": 3,
+  "lane": "breach-hack",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "pearl-abyss-ai-engine-crimson-desert-hit4-bench",
+  "flagged": "2026-11-14T03:50Z",
+  "hit": 4,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "reddit-rising:gaming"
+  ],
+  "first": "reddit-rising:gaming"
+ },
+ {
+  "key": "lost-pokemon-game-found-ign-retro-hit5-bench",
+  "flagged": "2026-11-14T03:50Z",
+  "hit": 5,
+  "lane": "retro-find",
+  "found_via": [
+   "x-watch:IGN"
+  ],
+  "first": "x-watch:IGN"
+ },
+ {
+  "key": "wolfenstein3-confirmed-machinegames-trailer-hit3-skip",
+  "flagged": "2026-11-14T03:50Z",
+  "hit": 3,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "reddit-rising:gaming"
+  ],
+  "first": "reddit-rising:gaming"
+ },
+ {
+  "key": "gta6-update-1002-logistics-hit2-skip",
+  "flagged": "2026-11-14T03:50Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:PS5"
+  ],
+  "first": "reddit-rising:PS5"
+ },
+ {
+  "key": "apple-support-communities-closing-hit5-bench",
+  "flagged": "2026-11-14T03:50Z",
+  "hit": 5,
+  "lane": "apple-phone",
+  "found_via": [
+   "reddit-rising:apple"
+  ],
+  "first": "reddit-rising:apple"
+ },
+ {
+  "key": "steam-frame-steamos-059-update-posts-skip",
+  "flagged": "2026-11-14T03:50Z",
+  "hit": 2,
+  "lane": "update-posts",
+  "found_via": [
+   "x-lane:L2"
+  ],
+  "first": "x-lane:L2"
  }
 ]
