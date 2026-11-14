@@ -5375,5 +5375,131 @@
    "reddit-rising:PS5"
   ],
   "first": "reddit-rising:PS5"
+ },
+ {
+  "key": "teamgroup-ceo-ram-2028-old-fact-hit6-bench",
+  "flagged": "2026-11-14T21:50Z",
+  "hit": 6,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "gn:story",
+   "web:archetypeA"
+  ],
+  "first": "Tom's Hardware Nov 6"
+ },
+ {
+  "key": "gta6-empathy-mechanisms-rockstar-fit6-bench",
+  "flagged": "2026-11-14T21:50Z",
+  "hit": 7,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:IGN"
+  ],
+  "first": "IGN"
+ },
+ {
+  "key": "xbox-series-x-6yr-brand-post-engage-bench",
+  "flagged": "2026-11-14T21:50Z",
+  "hit": 3,
+  "lane": "engagement",
+  "found_via": [
+   "x-lane:L9"
+  ],
+  "first": "@XBOX"
+ },
+ {
+  "key": "ms-patent-idle-gpu-ai-already-posted-recirc",
+  "flagged": "2026-11-14T21:50Z",
+  "hit": 8,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "r/pcmasterrace"
+ },
+ {
+  "key": "ms-ai-scientist-quits-no-path-hit5-bench",
+  "flagged": "2026-11-14T21:50Z",
+  "hit": 5,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "r/pcmasterrace"
+ },
+ {
+  "key": "nvidia-circular-financing-gpu-prices-sameStory-recirc",
+  "flagged": "2026-11-14T21:50Z",
+  "hit": 7,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "reddit-rising:technology",
+   "reddit-cross:R2",
+   "reddit-cross:R1",
+   "reddit-rising:pcgaming"
+  ],
+  "first": "r/technology"
+ },
+ {
+  "key": "forza-drivatar-late-friend-dexerto-hit3-bench",
+  "flagged": "2026-11-14T21:50Z",
+  "hit": 3,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto"
+ },
+ {
+  "key": "lovable-apps-expose-passports-breach-skip",
+  "flagged": "2026-11-14T21:50Z",
+  "hit": 2,
+  "lane": "breach-hack",
+  "found_via": [
+   "hn:front"
+  ],
+  "first": "HN"
+ },
+ {
+  "key": "mkw-recomp-switch2-pc-github-hit5-bench",
+  "flagged": "2026-11-14T21:50Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "github"
+  ],
+  "first": "github"
+ },
+ {
+  "key": "s2arm-switch-games-iphone-github-hit4-bench",
+  "flagged": "2026-11-14T21:50Z",
+  "hit": 4,
+  "lane": "pc-unlock",
+  "found_via": [
+   "github"
+  ],
+  "first": "github"
+ },
+ {
+  "key": "fairgames-cancelled-sameStory-recirc",
+  "flagged": "2026-11-14T21:50Z",
+  "hit": 3,
+  "lane": "sony-anti-consumer",
+  "found_via": [
+   "x-lane:L1"
+  ],
+  "first": "Bloomberg"
+ },
+ {
+  "key": "gamersnexus-sweeney-lunatic-gossip-hit3-bench",
+  "flagged": "2026-11-14T21:50Z",
+  "hit": 3,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-watch:GamersNexus",
+   "reddit-rising:Games"
+  ],
+  "first": "GamersNexus"
  }
 ]
