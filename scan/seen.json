@@ -4986,5 +4986,103 @@
    "x-lane:L8"
   ],
   "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "nvidia-geforce-freeman-nope-hit8-pitched",
+  "flagged": "2026-11-14T13:55Z",
+  "hit": 8,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "x-watch:videocardz",
+   "gn:Nvidia GeForce Jacob Freeman",
+   "x-vel:geforce"
+  ],
+  "first": "@GeForce_JacobF reply Nov 13 21:11Z; wccftech 10:08Z; VideoCardz 13:00Z"
+ },
+ {
+  "key": "steam-pc-framerate-data-prompt-followup-of-pitched-hit7-skip",
+  "flagged": "2026-11-14T13:55Z",
+  "hit": 7,
+  "lane": "steam-valve",
+  "found_via": [
+   "reddit-rising:Steam",
+   "web:story",
+   "gn:Steam anonymous framerate data"
+  ],
+  "first": "r/Steam 621 at 1.7h (user screenshot); X user 00:38Z; Tom's Hardware Nov 10 said desktop planned"
+ },
+ {
+  "key": "nvidia-financed-startups-zack-posted-x-recirc",
+  "flagged": "2026-11-14T13:55Z",
+  "hit": 7,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-lane:L8",
+   "reddit-rising:pcgaming",
+   "reddit-cross:R1"
+  ],
+  "first": "WSJ Nov 13; Pirat_Nation 13:05Z 512 likes; Zack posted on X 13:47Z"
+ },
+ {
+  "key": "gta6-flashlight-reveals-download-code-hit4-bench",
+  "flagged": "2026-11-14T13:55Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation 12:00Z 667 likes (player claims)"
+ },
+ {
+  "key": "jensen-misled-execs-alice-huang-gossip-hit2-skip",
+  "flagged": "2026-11-14T13:55Z",
+  "hit": 2,
+  "lane": "scene-named-people",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "reddit-cross:R1"
+  ],
+  "first": "Reuters; Pirat_Nation 11:01Z"
+ },
+ {
+  "key": "thinkpad-linux-16gb-ram-windows-tax-hit4-bench",
+  "flagged": "2026-11-14T13:55Z",
+  "hit": 4,
+  "lane": "linux-escape",
+  "found_via": [
+   "reddit-rising:assholedesign"
+  ],
+  "first": "r/assholedesign 303 at 9h"
+ },
+ {
+  "key": "faa-ai-ground-stop-offtopic-skip",
+  "flagged": "2026-11-14T13:55Z",
+  "hit": 2,
+  "lane": "none",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "r/technology"
+ },
+ {
+  "key": "gta7-faster-take-two-ceo-icymi-hit3-bench",
+  "flagged": "2026-11-14T13:55Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:InsiderGamingIG"
+  ],
+  "first": "InsiderGamingIG 12:00Z (ICYMI)"
+ },
+ {
+  "key": "windows11-run-box-update-posts-skip",
+  "flagged": "2026-11-14T13:55Z",
+  "hit": 2,
+  "lane": "update-posts",
+  "found_via": [
+   "reddit-rising:Windows11"
+  ],
+  "first": "WindowsLatest"
  }
 ]
