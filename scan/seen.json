@@ -5962,5 +5962,139 @@
    "x-watch:IGN"
   ],
   "first": "x-watch:IGN"
+ },
+ {
+  "key": "ps4-runs-9b-ai-model-gcn-homebrew-hit5-bench",
+  "flagged": "2026-11-15T13:50Z",
+  "hit": 5,
+  "lane": "ps-scene",
+  "found_via": [
+   "x-watch:videocardz"
+  ],
+  "first": "x-watch:videocardz"
+ },
+ {
+  "key": "jensen-picks-successor-wapo-gossip-hit3-bench",
+  "flagged": "2026-11-15T13:50Z",
+  "hit": 3,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-watch:unusual_whales",
+   "gn:Nvidia CEO"
+  ],
+  "first": "x-watch:unusual_whales"
+ },
+ {
+  "key": "chinese-ai-models-blackwell-export-business-hit3-bench",
+  "flagged": "2026-11-15T13:50Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "megaspeed-alice-huang-left-2025-gossip-hit2-skip",
+  "flagged": "2026-11-15T13:50Z",
+  "hit": 2,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "gn:Nvidia CEO"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "dune-awakening-offline-play-noun-hit4-bench",
+  "flagged": "2026-11-15T13:50Z",
+  "hit": 4,
+  "lane": "ownership-rights",
+  "found_via": [
+   "x-watch:pcgamer"
+  ],
+  "first": "x-watch:pcgamer"
+ },
+ {
+  "key": "twitch-gta6-ad-tech-streamers-hit2-bench",
+  "flagged": "2026-11-15T13:50Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "gta6-in-game-animated-tv-series-ign-hit3-bench",
+  "flagged": "2026-11-15T13:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:IGN"
+  ],
+  "first": "x-watch:IGN"
+ },
+ {
+  "key": "ps-black-friday-wave2-nov16-sale-hit2-skip",
+  "flagged": "2026-11-15T13:50Z",
+  "hit": 2,
+  "lane": "sony-anti-consumer",
+  "found_via": [
+   "x-lane:L9",
+   "x-lane:L1"
+  ],
+  "first": "x-lane:L9"
+ },
+ {
+  "key": "xbox-series-x25-arrives-tomwarren-hit3-bench",
+  "flagged": "2026-11-15T13:50Z",
+  "hit": 3,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "x-watch:tomwarren",
+   "bsky:tomwarren.co.uk"
+  ],
+  "first": "x-watch:tomwarren"
+ },
+ {
+  "key": "intel-reclaims-cpu-share-business-hit3-bench",
+  "flagged": "2026-11-15T13:50Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:tomshardware"
+  ],
+  "first": "x-watch:tomshardware"
+ },
+ {
+  "key": "earth-second-moon-offtopic-skip",
+  "flagged": "2026-11-15T13:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "rtx5080-24gb-cancelled-gddr7-already-pitched-recirc",
+  "flagged": "2026-11-15T13:50Z",
+  "hit": 7,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "x-lane:L3"
+  ],
+  "first": "x-lane:L3"
+ },
+ {
+  "key": "asha-sharma-x-gta6-60fps-rumor-hit3-bench",
+  "flagged": "2026-11-15T13:50Z",
+  "hit": 3,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "x-lane:L8"
+  ],
+  "first": "x-lane:L8"
  }
 ]
