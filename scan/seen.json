@@ -5729,5 +5729,96 @@
    "reddit-new:technology"
   ],
   "first": "reddit-new:technology"
+ },
+ {
+  "key": "steam-refund-past-2h-hoi4-user-report-fit7-hit6-bench",
+  "flagged": "2026-11-15T03:55Z",
+  "hit": 6,
+  "lane": "steam-valve",
+  "found_via": [
+   "reddit-rising:Steam"
+  ],
+  "first": "reddit-rising:Steam"
+ },
+ {
+  "key": "nvidia-logo-spanish-ceramics-quirky-hit5-bench",
+  "flagged": "2026-11-15T03:55Z",
+  "hit": 5,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "china-apartment-170-alibaba-offtopic-skip",
+  "flagged": "2026-11-15T03:55Z",
+  "hit": 1,
+  "lane": "offtopic",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "love-locks-5000-wedding-noun-hit2-bench",
+  "flagged": "2026-11-15T03:55Z",
+  "hit": 2,
+  "lane": "indie-oddity",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "pcmr-local-llm-vs-altman-opinion-hit4-bench",
+  "flagged": "2026-11-15T03:55Z",
+  "hit": 4,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit-rising:pcmasterrace"
+ },
+ {
+  "key": "nintendo-america-archivist-job-hit3-bench",
+  "flagged": "2026-11-15T03:55Z",
+  "hit": 3,
+  "lane": "nintendo",
+  "found_via": [
+   "reddit-rising:technology",
+   "reddit-new:technology"
+  ],
+  "first": "reddit-new:technology"
+ },
+ {
+  "key": "jensen-wsj-beijing-backdoor-gossip-hit4-bench",
+  "flagged": "2026-11-15T03:55Z",
+  "hit": 4,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-lane:L8"
+  ],
+  "first": "x-lane:L8"
+ },
+ {
+  "key": "nvidia-chip-tracking-confirmed-business-hit4-bench",
+  "flagged": "2026-11-15T03:55Z",
+  "hit": 4,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-cross:R1"
+  ],
+  "first": "reddit-cross:R1"
+ },
+ {
+  "key": "ms365-outage-resolved-hit3-bench",
+  "flagged": "2026-11-15T03:55Z",
+  "hit": 3,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "x-lane:L4"
+  ],
+  "first": "x-lane:L4"
  }
 ]
