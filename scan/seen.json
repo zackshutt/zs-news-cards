@@ -5902,5 +5902,65 @@
    "x-lane:L1"
   ],
   "first": "reddit-rising:GamingLeaksAndRumours"
+ },
+ {
+  "key": "fbi-steam-malware-8000-players-crypto-hit3-bench",
+  "flagged": "2026-11-15T10:50Z",
+  "hit": 3,
+  "lane": "breach-hack",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "steam-no-black-friday-algorithm-test-hit5-lowvel",
+  "flagged": "2026-11-15T10:50Z",
+  "hit": 5,
+  "lane": "steam-valve",
+  "found_via": [
+   "x-lane:L2"
+  ],
+  "first": "x-lane:L2"
+ },
+ {
+  "key": "marathon-pve-symbiosis-f2p-hit2-bench",
+  "flagged": "2026-11-15T10:50Z",
+  "hit": 2,
+  "lane": "indie-oddity",
+  "found_via": [
+   "x-watch:IGN"
+  ],
+  "first": "x-watch:IGN"
+ },
+ {
+  "key": "minecraft-throwing-disc-bedrock-update-posts-skip",
+  "flagged": "2026-11-15T10:50Z",
+  "hit": 2,
+  "lane": "update-posts",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "toyota-lexus-car-hack-skip",
+  "flagged": "2026-11-15T10:50Z",
+  "hit": 1,
+  "lane": "breach-hack",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "gta6-30fps-ps5pro-raytracing-ign-recirc",
+  "flagged": "2026-11-15T10:50Z",
+  "hit": 5,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:IGN"
+  ],
+  "first": "x-watch:IGN"
  }
 ]
