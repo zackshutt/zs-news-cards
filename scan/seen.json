@@ -5830,5 +5830,77 @@
    "reddit-hot:pcgaming"
   ],
   "first": "r/pcgaming 3.2K at 26h; @AMDGaming Nov 12"
+ },
+ {
+  "key": "humble-bundle-site-charges-card-user-report-hit6-lowvel",
+  "flagged": "2026-11-15T05:50Z",
+  "hit": 6,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "reddit-rising:pcgaming"
+  ],
+  "first": "reddit-rising:pcgaming"
+ },
+ {
+  "key": "intel-70pct-desktop-amd-under30-mercury-hit4-bench",
+  "flagged": "2026-11-15T05:50Z",
+  "hit": 4,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "dram-price-fixing-suit-survives-dismissal-hit5-bench",
+  "flagged": "2026-11-15T05:50Z",
+  "hit": 5,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "hn:front"
+  ],
+  "first": "hn:front"
+ },
+ {
+  "key": "naughty-dog-intergalactic-playable-hit3-bench",
+  "flagged": "2026-11-15T05:50Z",
+  "hit": 3,
+  "lane": "indie-oddity",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "epic-jazz-jackrabbit-fortnite-legal-hit3-bench",
+  "flagged": "2026-11-15T05:50Z",
+  "hit": 3,
+  "lane": "ownership-rights",
+  "found_via": [
+   "x-watch:IGN"
+  ],
+  "first": "x-watch:IGN"
+ },
+ {
+  "key": "sea-data-centers-chip-smuggling-business-skip",
+  "flagged": "2026-11-15T05:50Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales",
+   "x-lane:L7"
+  ],
+  "first": "x-watch:unusual_whales"
+ },
+ {
+  "key": "gta6-psn-review-copies-leak-hit2-skip",
+  "flagged": "2026-11-15T05:50Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:GamingLeaksAndRumours",
+   "x-lane:L1"
+  ],
+  "first": "reddit-rising:GamingLeaksAndRumours"
  }
 ]
