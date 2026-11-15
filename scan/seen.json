@@ -6390,5 +6390,61 @@
    "x-watch:SteamDB"
   ],
   "first": "SteamDB"
+ },
+ {
+  "key": "gta6-physical-code-missing-used-dexerto-recirc-hit6-lowvel",
+  "flagged": "2026-11-15T21:45Z",
+  "hit": 6,
+  "lane": "ownership-rights",
+  "found_via": [
+   "x-watch:Dexerto",
+   "gn:story"
+  ],
+  "first": "Kotaku Nov 13 (x-watch:Dexerto recirc 21:19Z)"
+ },
+ {
+  "key": "jensen-comeback-ft-1751likes-gossip-hit4-bench",
+  "flagged": "2026-11-15T21:45Z",
+  "hit": 4,
+  "lane": "scene-named-people",
+  "found_via": [
+   "x-lane:L8",
+   "x-watch:unusual_whales",
+   "x-watch:Pirat_Nation",
+   "x-watch:videocardz"
+  ],
+  "first": "x-lane:L8"
+ },
+ {
+  "key": "xbox-helix-console-plays-pc-games-pirat-recirc",
+  "flagged": "2026-11-15T21:45Z",
+  "hit": 7,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "reddit-cross:R1"
+  ],
+  "first": "windowscentral"
+ },
+ {
+  "key": "ceo-ai-psychosis-404media-noun-hit2-bench",
+  "flagged": "2026-11-15T21:45Z",
+  "hit": 2,
+  "lane": "unknown",
+  "found_via": [
+   "bsky:404media.co"
+  ],
+  "first": "bsky:404media.co"
+ },
+ {
+  "key": "ms365-outage-chlorine-hn-recirc",
+  "flagged": "2026-11-15T21:45Z",
+  "hit": 3,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "hn:front",
+   "reddit-rising:technology"
+  ],
+  "first": "tomshardware"
  }
 ]
