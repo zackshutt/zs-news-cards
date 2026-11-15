@@ -5820,5 +5820,15 @@
    "x-lane:L4"
   ],
   "first": "x-lane:L4"
+ },
+ {
+  "key": "amd-data-center-first-vs-at-your-lowest-lab",
+  "flagged": "2026-11-15T02:50Z",
+  "hit": 8,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-hot:pcgaming"
+  ],
+  "first": "r/pcgaming 3.2K at 26h; @AMDGaming Nov 12"
  }
 ]
