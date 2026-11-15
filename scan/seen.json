@@ -6446,5 +6446,66 @@
    "reddit-rising:technology"
   ],
   "first": "tomshardware"
+ },
+ {
+  "key": "jensen-comeback-ft-l8-150likes-gossip-hit4-bench",
+  "flagged": "2026-11-15T23:45Z",
+  "hit": 4,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-lane:L8"
+  ],
+  "first": "x-lane:L8"
+ },
+ {
+  "key": "humble-drm-free-search-removed-noun-hit5-bench",
+  "flagged": "2026-11-15T23:45Z",
+  "hit": 5,
+  "lane": "ownership-rights",
+  "found_via": [
+   "x-lane:L6"
+  ],
+  "first": "x-lane:L6"
+ },
+ {
+  "key": "foxconn-no-ai-bubble-business-hit3-bench",
+  "flagged": "2026-11-15T23:45Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales"
+ },
+ {
+  "key": "gta6-album-tracklist-leak-hit2-bench",
+  "flagged": "2026-11-15T23:45Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:IGN"
+  ],
+  "first": "x-watch:IGN"
+ },
+ {
+  "key": "xbox-helix-game-preservation-hit5-bench",
+  "flagged": "2026-11-15T23:45Z",
+  "hit": 5,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "x-watch:InsiderGamingIG",
+   "x-lane:L4"
+  ],
+  "first": "x-watch:InsiderGamingIG"
+ },
+ {
+  "key": "intel-client-guide-down-memory-prices-business-hit4-bench",
+  "flagged": "2026-11-15T23:45Z",
+  "hit": 4,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "x-lane:L7"
+  ],
+  "first": "x-lane:L7"
  }
 ]
