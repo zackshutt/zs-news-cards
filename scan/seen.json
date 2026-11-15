@@ -6284,5 +6284,111 @@
    "x-lane:L6"
   ],
   "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "xbox-og-boot-animation-all-consoles-hit7-pitched",
+  "flagged": "2026-11-15T19:50Z",
+  "hit": 7,
+  "lane": "good-guy-company",
+  "found_via": [
+   "x-lane:L9",
+   "x-watch:tomwarren",
+   "reddit-rising:xbox",
+   "gn:xbox-boot"
+  ],
+  "first": "x-lane:L9 (@XBOX official)"
+ },
+ {
+  "key": "madden-27-dont-delete-gta6-hit6-lowvel-old",
+  "flagged": "2026-11-15T19:50Z",
+  "hit": 6,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "x-watch:IGN"
+  ],
+  "first": "Dexerto/Pirat Nov 14 22:51Z"
+ },
+ {
+  "key": "jensen-comeback-ft-gossip-hit4-bench",
+  "flagged": "2026-11-15T19:50Z",
+  "hit": 4,
+  "lane": "scene-named-people",
+  "found_via": [
+   "x-lane:L8",
+   "gn:jensen-comeback"
+  ],
+  "first": "FT ~19:10Z"
+ },
+ {
+  "key": "nvidia-engineer-quits-jensen-exit-gossip-hit3-bench",
+  "flagged": "2026-11-15T19:50Z",
+  "hit": 3,
+  "lane": "scene-named-people",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-watch:tomshardware"
+  ],
+  "first": "tomshardware"
+ },
+ {
+  "key": "msi-rtx-spark-mini-7999-hit4-bench",
+  "flagged": "2026-11-15T19:50Z",
+  "hit": 4,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-lane:L3"
+  ],
+  "first": "Pirat_Nation"
+ },
+ {
+  "key": "reddit-traffic-down-13-ai-overviews-business-hit4-bench",
+  "flagged": "2026-11-15T19:50Z",
+  "hit": 4,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-new:technology"
+  ],
+  "first": "businessinsider"
+ },
+ {
+  "key": "anthropic-ipo-millionaires-business-skip",
+  "flagged": "2026-11-15T19:50Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "unusual_whales"
+ },
+ {
+  "key": "hl2-dev-repo-4chan-leak-hit2-bench",
+  "flagged": "2026-11-15T19:50Z",
+  "hit": 2,
+  "lane": "leak",
+  "found_via": [
+   "reddit-rising:GamingLeaksAndRumours"
+  ],
+  "first": "4chan"
+ },
+ {
+  "key": "zelda-oot-remake-95-metacritic-hit3-bench",
+  "flagged": "2026-11-15T19:50Z",
+  "hit": 3,
+  "lane": "nintendo",
+  "found_via": [
+   "x-watch:Genki_JPN"
+  ],
+  "first": "Genki_JPN"
+ },
+ {
+  "key": "ets2-101k-ccu-steamdb-hit2-bench",
+  "flagged": "2026-11-15T19:50Z",
+  "hit": 2,
+  "lane": "steam-valve",
+  "found_via": [
+   "x-watch:SteamDB"
+  ],
+  "first": "SteamDB"
  }
 ]
