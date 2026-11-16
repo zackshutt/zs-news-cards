@@ -7395,5 +7395,122 @@
    "hn:front"
   ],
   "first": "hn:front"
+ },
+ {
+  "key": "altman-semafor-lot-of-ram-hit10-pitched",
+  "hit": 10,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "bsky:theverge.com",
+   "x-watch:verge",
+   "gn:adhoc-altman-semafor",
+   "x-vel:altman-ram"
+  ],
+  "first": "The Verge 20:41Z (GN); Mezha 20:54Z; Verge on X 21:13Z (8 likes); ahead of X",
+  "flagged": "2026-11-16T21:50Z"
+ },
+ {
+  "key": "gta6-weather-rockstar-vp-quote-hit5-bench",
+  "hit": 5,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-new:PS5",
+   "reddit-rising:PS5"
+  ],
+  "first": "r/PS5 951 at 0.7h (Weather Channel X)",
+  "flagged": "2026-11-16T21:50Z"
+ },
+ {
+  "key": "jensen-wsj-give-capacity-to-elon-gossip-hit4-bench",
+  "hit": 4,
+  "lane": "scene-named-people",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit-rising:pcmasterrace 1,884 at 3.4h (WSJ)",
+  "flagged": "2026-11-16T21:50Z"
+ },
+ {
+  "key": "jensen-heirs-billions-barrons-gossip-hit3-bench",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-new:technology",
+   "reddit-rising:technology"
+  ],
+  "first": "r/technology 690 at 0.8h (Barron's)",
+  "flagged": "2026-11-16T21:50Z"
+ },
+ {
+  "key": "macos-273-warns-ai-full-control-hit6-lowvel",
+  "hit": 6,
+  "lane": "apple-phone",
+  "found_via": [
+   "x-watch:MacRumors"
+  ],
+  "first": "x-watch:MacRumors 21:08Z (164)",
+  "flagged": "2026-11-16T21:50Z"
+ },
+ {
+  "key": "teamgroup-money-wont-guarantee-ram-hit6-lowvel",
+  "hit": 6,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "x-watch:videocardz"
+  ],
+  "first": "x-watch:videocardz 20:20Z (78)",
+  "flagged": "2026-11-16T21:50Z"
+ },
+ {
+  "key": "altman-semafor-no-chip-shortage-business-hit4-bench",
+  "hit": 4,
+  "lane": "business-finance",
+  "found_via": [
+   "x-vel:altman-ram"
+  ],
+  "first": "@RihardJarc 18:08Z (216)",
+  "flagged": "2026-11-16T21:50Z"
+ },
+ {
+  "key": "russia-steam-ban-rumor-politics-skip",
+  "hit": 2,
+  "lane": "none",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation 20:04Z (436)",
+  "flagged": "2026-11-16T21:50Z"
+ },
+ {
+  "key": "xbox360-booby-trap-explodes-crime-skip",
+  "hit": 1,
+  "lane": "none",
+  "found_via": [
+   "x-watch:Dexerto",
+   "x-watch:Kotaku"
+  ],
+  "first": "x-watch:Dexerto 21:13Z",
+  "flagged": "2026-11-16T21:50Z"
+ },
+ {
+  "key": "nba2k27-gta6-season-mtx-hit4-bench",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:IGN"
+  ],
+  "first": "x-watch:IGN 21:16Z (53)",
+  "flagged": "2026-11-16T21:50Z"
+ },
+ {
+  "key": "bank-outages-chase-offlane-skip",
+  "hit": 0,
+  "lane": "none",
+  "found_via": [
+   "reddit-rising:technology",
+   "hn:front"
+  ],
+  "first": "reddit-rising:technology",
+  "flagged": "2026-11-16T21:50Z"
  }
 ]
