@@ -6663,5 +6663,89 @@
    "bench"
   ],
   "first": "Push Square Oct 20; PS Plus removals Nov 17"
+ },
+ {
+  "key": "gta6-physical-code-missing-pirat-955-userreport-hit5-bench",
+  "flagged": "2026-11-16T05:45Z",
+  "hit": 5,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-vel:gta6-code",
+   "gn:adhoc-gta6-code",
+   "web:rockstar-code"
+  ],
+  "first": "x-watch:Pirat_Nation (recirc of Kotaku/Notebookcheck Nov 14)"
+ },
+ {
+  "key": "nintendo-profit-cut-memory-prices-analyst-business-hit4-bench",
+  "flagged": "2026-11-16T05:45Z",
+  "hit": 4,
+  "lane": "business-finance",
+  "found_via": [
+   "x-lane:L5"
+  ],
+  "first": "x-lane:L5"
+ },
+ {
+  "key": "rtx5090-newegg-restock-scarcity-pricing-hit6-lowvel",
+  "flagged": "2026-11-16T05:45Z",
+  "hit": 6,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "reddit-cross:R2"
+  ],
+  "first": "reddit-cross:R2"
+ },
+ {
+  "key": "cod-zombies-writer-laid-off-pirat-business-hit3-bench",
+  "flagged": "2026-11-16T05:45Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "ublock-origin-universal-xss-hn-noun-hit2-bench",
+  "flagged": "2026-11-16T05:45Z",
+  "hit": 2,
+  "lane": "breach-hack",
+  "found_via": [
+   "hn:front"
+  ],
+  "first": "hn:front"
+ },
+ {
+  "key": "qwen4-max-hn-noun-hit1-skip",
+  "flagged": "2026-11-16T05:45Z",
+  "hit": 1,
+  "lane": "ai",
+  "found_via": [
+   "hn:front"
+  ],
+  "first": "hn:front"
+ },
+ {
+  "key": "gamersnexus-nuuuh-vidya-meme-skip",
+  "flagged": "2026-11-16T05:45Z",
+  "hit": 1,
+  "lane": "engagement",
+  "found_via": [
+   "x-watch:GamersNexus"
+  ],
+  "first": "x-watch:GamersNexus"
+ },
+ {
+  "key": "ps-direct-black-friday-deals-wario-skip",
+  "flagged": "2026-11-16T05:45Z",
+  "hit": 1,
+  "lane": "deals",
+  "found_via": [
+   "x-watch:Wario64",
+   "bsky:wario64.bsky.social"
+  ],
+  "first": "bsky:wario64.bsky.social"
  }
 ]
