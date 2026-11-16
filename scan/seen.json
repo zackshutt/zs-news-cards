@@ -7512,5 +7512,106 @@
   ],
   "first": "reddit-rising:technology",
   "flagged": "2026-11-16T21:50Z"
+ },
+ {
+  "key": "gabe-newell-superyacht-crew-good-guy-hit5-bench",
+  "flagged": "2026-11-16T23:55Z",
+  "hit": 5,
+  "lane": "good-guy-company",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-lane:L2",
+   "x-watch:pcgamer",
+   "bsky:pcgamer.com"
+  ],
+  "first": "x-watch:Pirat_Nation 21:56Z (18.4K)"
+ },
+ {
+  "key": "gta6-teacher-cancels-homework-quirky-hit4-bench",
+  "flagged": "2026-11-16T23:55Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto 22:21Z (38.4K)"
+ },
+ {
+  "key": "gta6-weather-channel-rockstar-quote-hit5-bench",
+  "flagged": "2026-11-16T23:55Z",
+  "hit": 5,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:PS5",
+   "reddit-rising:xbox",
+   "x-watch:Dexerto",
+   "x-watch:Okami13_"
+  ],
+  "first": "@weatherchannel 20:40Z (40.8K); r/PS5 2,192 at 2.7h"
+ },
+ {
+  "key": "altman-calls-jensen-hero-gossip-hit5-bench",
+  "flagged": "2026-11-16T23:55Z",
+  "hit": 5,
+  "lane": "scene-named-people",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-lane:L8"
+  ],
+  "first": "x-watch:Pirat_Nation 22:59Z (95)"
+ },
+ {
+  "key": "sacks-sweeney-question-huang-resignation-gossip-hit3-bench",
+  "flagged": "2026-11-16T23:55Z",
+  "hit": 3,
+  "lane": "scene-named-people",
+  "found_via": [
+   "bsky:theverge.com",
+   "x-watch:verge"
+  ],
+  "first": "bsky:theverge.com 23:19Z"
+ },
+ {
+  "key": "california-sues-openai-rogue-agents-hit5-bench",
+  "flagged": "2026-11-16T23:55Z",
+  "hit": 5,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "r/technology 653 at 2.1h (Variety)"
+ },
+ {
+  "key": "microsoft-365-outage-offlane-skip",
+  "flagged": "2026-11-16T23:55Z",
+  "hit": 0,
+  "lane": "none",
+  "found_via": [
+   "reddit-rising:technology",
+   "reddit-new:technology",
+   "hn:front"
+  ],
+  "first": "r/technology 642 at 1.3h"
+ },
+ {
+  "key": "united-airlines-outage-offlane-skip",
+  "flagged": "2026-11-16T23:55Z",
+  "hit": 0,
+  "lane": "none",
+  "found_via": [
+   "reddit-rising:technology",
+   "reddit-new:technology"
+  ],
+  "first": "r/technology 5.6K at 1.4h"
+ },
+ {
+  "key": "ocarina-remake-1m-physical-us-hit4-bench",
+  "flagged": "2026-11-16T23:55Z",
+  "hit": 4,
+  "lane": "nintendo",
+  "found_via": [
+   "x-watch:Okami13_"
+  ],
+  "first": "x-watch:Okami13_ 23:36Z (30)"
  }
 ]
