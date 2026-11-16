@@ -6612,5 +6612,46 @@
    "reddit-rising:pcmasterrace"
   ],
   "first": "reddit-rising:pcmasterrace"
+ },
+ {
+  "key": "chatgpt-wallet-agents-buy-for-you-pirat-recirc-hit6-bench",
+  "flagged": "2026-11-16T03:45Z",
+  "hit": 6,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "gn:adhoc-chatgpt-wallet"
+  ],
+  "first": "openai.com 2026-11-13T15:15Z"
+ },
+ {
+  "key": "intel-sued-shareholders-29pct-plunge-business-hit3-bench",
+  "flagged": "2026-11-16T03:45Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "Reuters via r/technology"
+ },
+ {
+  "key": "ryzen-9850x3d-drops-419-hit5-bench",
+  "flagged": "2026-11-16T03:45Z",
+  "hit": 5,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "reddit-rising:Amd"
+  ],
+  "first": "videocardz"
+ },
+ {
+  "key": "x25-packaging-glows-xbox-hit2-bench",
+  "flagged": "2026-11-16T03:45Z",
+  "hit": 2,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "reddit-rising:xbox"
+  ],
+  "first": "r/xbox"
  }
 ]
