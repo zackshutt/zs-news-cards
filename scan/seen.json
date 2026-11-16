@@ -6653,5 +6653,15 @@
    "reddit-rising:xbox"
   ],
   "first": "r/xbox"
+ },
+ {
+  "key": "gta5-rdr2-leave-psplus-last-call-lab",
+  "flagged": "2026-11-16T03:59Z",
+  "hit": 7,
+  "lane": "engagement",
+  "found_via": [
+   "bench"
+  ],
+  "first": "Push Square Oct 20; PS Plus removals Nov 17"
  }
 ]
