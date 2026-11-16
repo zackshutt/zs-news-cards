@@ -6507,5 +6507,110 @@
    "x-lane:L7"
   ],
   "first": "x-lane:L7"
+ },
+ {
+  "key": "apple-tv-ram-2gb-app-cap-fit7-hit8-bench",
+  "flagged": "2026-11-16T01:45Z",
+  "hit": 8,
+  "lane": "apple-phone",
+  "found_via": [
+   "reddit-rising:apple",
+   "gn:story"
+  ],
+  "first": "reddit-rising:apple"
+ },
+ {
+  "key": "switch2-handheld-boost-psa-old-mar2026-hit6-bench",
+  "flagged": "2026-11-16T01:45Z",
+  "hit": 6,
+  "lane": "nintendo",
+  "found_via": [
+   "reddit-rising:NintendoSwitch",
+   "gn:story"
+  ],
+  "first": "reddit-rising:NintendoSwitch"
+ },
+ {
+  "key": "nvidia-director-1b-stock-sale-business-hit4-bench",
+  "flagged": "2026-11-16T01:45Z",
+  "hit": 4,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology"
+ },
+ {
+  "key": "gta6-never-60fps-ign-editorial-recirc",
+  "flagged": "2026-11-16T01:45Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:IGN"
+  ],
+  "first": "x-watch:IGN"
+ },
+ {
+  "key": "altman-quite-terrible-ram-whales-repost-recirc",
+  "flagged": "2026-11-16T01:45Z",
+  "hit": 5,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales"
+ },
+ {
+  "key": "bessent-nvidia-outside-ceo-politics-skip",
+  "flagged": "2026-11-16T01:45Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales",
+   "reddit-cross:R1"
+  ],
+  "first": "reddit-cross:R1"
+ },
+ {
+  "key": "miyamoto-74th-birthday-celebrity-skip",
+  "flagged": "2026-11-16T01:45Z",
+  "hit": 1,
+  "lane": "nintendo",
+  "found_via": [
+   "x-watch:Genki_JPN"
+  ],
+  "first": "x-watch:Genki_JPN"
+ },
+ {
+  "key": "vulcan-amazon-leo-satellites-offtopic-skip",
+  "flagged": "2026-11-16T01:45Z",
+  "hit": 1,
+  "lane": "none",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology"
+ },
+ {
+  "key": "bitly-links-hijacked-hn-noun-hit2-bench",
+  "flagged": "2026-11-16T01:45Z",
+  "hit": 2,
+  "lane": "breach-hack",
+  "found_via": [
+   "hn:front"
+  ],
+  "first": "hn:front"
+ },
+ {
+  "key": "jensen-comeback-ft-whales-557-gossip-hit4-bench",
+  "flagged": "2026-11-16T01:45Z",
+  "hit": 4,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-watch:unusual_whales",
+   "x-lane:L8",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit-rising:pcmasterrace"
  }
 ]
