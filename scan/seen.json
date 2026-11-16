@@ -7275,5 +7275,125 @@
    "x-story:Pirat_Nation 1,783"
   ],
   "first": "Tom's Hardware Nov 15 14:02Z (via Moneywise); Pirat_Nation 14:17Z"
+ },
+ {
+  "key": "siri-ai-daily-limits-icloud-plus-hit9-pitched",
+  "flagged": "2026-11-16T19:58Z",
+  "hit": 9,
+  "lane": "apple-phone",
+  "found_via": [
+   "x-watch:verge",
+   "bsky:theverge.com",
+   "bsky:tomwarren.co.uk",
+   "gn:adhoc-siri-limits",
+   "x-vel:siri-limits"
+  ],
+  "first": "bsky:theverge.com 19:27Z (MacRumors on X 18:14Z)"
+ },
+ {
+  "key": "kfc-gta6-fake-funeral-quirky-hit5-bench",
+  "flagged": "2026-11-16T19:58Z",
+  "hit": 5,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "ps-employees-sell-psn-accounts-breach-hit2-bench",
+  "flagged": "2026-11-16T19:58Z",
+  "hit": 2,
+  "lane": "breach-hack",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-lane:L6",
+   "yt-topic:PS5 news"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "jensen-hoped-exec-would-die-nypost-gossip-hit3-bench",
+  "flagged": "2026-11-16T19:58Z",
+  "hit": 3,
+  "lane": "scene-named-people",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales"
+ },
+ {
+  "key": "nvidia-board-no-jensen-return-cnbc-gossip-skip",
+  "flagged": "2026-11-16T19:58Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales",
+   "bsky:theverge.com"
+  ],
+  "first": "x-watch:unusual_whales"
+ },
+ {
+  "key": "rtx5060ti-burnt-8pin-cable-hit6-lowvel",
+  "flagged": "2026-11-16T19:58Z",
+  "hit": 6,
+  "lane": "pc-unlock",
+  "found_via": [
+   "x-watch:videocardz"
+  ],
+  "first": "x-watch:videocardz"
+ },
+ {
+  "key": "roblox-20k-refund-refused-niche-hit4-bench",
+  "flagged": "2026-11-16T19:58Z",
+  "hit": 4,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "gta6-second-day1-patch-620mb-logistics-hit2-bench",
+  "flagged": "2026-11-16T19:58Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:IGN"
+  ],
+  "first": "x-watch:IGN"
+ },
+ {
+  "key": "intel-d270-vs-rtx-pro-6000-business-skip",
+  "flagged": "2026-11-16T19:58Z",
+  "hit": 1,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:videocardz",
+   "x-watch:wccftech"
+  ],
+  "first": "x-watch:videocardz"
+ },
+ {
+  "key": "iphone-duo-face-unlock-ios273-hit5-bench",
+  "flagged": "2026-11-16T19:58Z",
+  "hit": 5,
+  "lane": "apple-phone",
+  "found_via": [
+   "x-watch:tomwarren",
+   "bsky:tomwarren.co.uk"
+  ],
+  "first": "x-watch:tomwarren"
+ },
+ {
+  "key": "us-bank-outage-chase-offlane-skip",
+  "flagged": "2026-11-16T19:58Z",
+  "hit": 0,
+  "lane": "none",
+  "found_via": [
+   "x-watch:unusual_whales",
+   "hn:front"
+  ],
+  "first": "hn:front"
  }
 ]
