@@ -7264,5 +7264,16 @@
    "x-lane:L9"
   ],
   "first": "x-lane:L9 @PlayStation 16:21Z (1,357)"
+ },
+ {
+  "key": "nvidia-director-stevens-947m-zack-sent-hit4-pitched",
+  "flagged": "2026-11-16T18:33Z",
+  "hit": 4,
+  "lane": "business-finance",
+  "found_via": [
+   "zack:ufd-tech-fb-screenshot",
+   "x-story:Pirat_Nation 1,783"
+  ],
+  "first": "Tom's Hardware Nov 15 14:02Z (via Moneywise); Pirat_Nation 14:17Z"
  }
 ]
