@@ -7613,5 +7613,70 @@
    "x-watch:Okami13_"
   ],
   "first": "x-watch:Okami13_ 23:36Z (30)"
+ },
+ {
+  "key": "win11-tracks-coding-agents-diag-data-hn-hit6-bench",
+  "hit": 6,
+  "lane": "privacy-default",
+  "found_via": [
+   "hn:front",
+   "x-lane:L4",
+   "gn:adhoc-win11-agents"
+  ],
+  "first": "hn:front 214 at 2.7h (lavx aggregator only; optional diagnostic data, dev tools, X 9 likes)",
+  "flagged": "2026-11-17T01:50Z"
+ },
+ {
+  "key": "xbox-black-friday-sale-nov19-official-skip",
+  "hit": 2,
+  "lane": "none",
+  "found_via": [
+   "x-lane:L9",
+   "reddit-rising:xbox"
+  ],
+  "first": "@XBOX 23:58Z (2.1K)",
+  "flagged": "2026-11-17T01:50Z"
+ },
+ {
+  "key": "cyberpunk-tcg-bot-final-boss-niche-hit3-bench",
+  "hit": 3,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto 01:00Z (1.7K)",
+  "flagged": "2026-11-17T01:50Z"
+ },
+ {
+  "key": "gta6-leaker-kurtaj-guilty-plea-crime-skip",
+  "hit": 0,
+  "lane": "none",
+  "found_via": [
+   "x-watch:IGN",
+   "bsky:theverge.com",
+   "reddit-rising:Games"
+  ],
+  "first": "bsky:theverge.com 23:42Z",
+  "flagged": "2026-11-17T01:50Z"
+ },
+ {
+  "key": "sony-vr-neck-fan-patent-hit3-bench",
+  "hit": 3,
+  "lane": "sony-anti-consumer",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation 00:27Z (121)",
+  "flagged": "2026-11-17T01:50Z"
+ },
+ {
+  "key": "subway-gta6-sandwich-quirky-hit3-bench",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:IGN"
+  ],
+  "first": "x-watch:IGN 01:01Z (179)",
+  "flagged": "2026-11-17T01:50Z"
  }
 ]
