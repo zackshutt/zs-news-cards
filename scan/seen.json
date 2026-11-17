@@ -8214,5 +8214,112 @@
    "github"
   ],
   "first": "github 2,053 stars"
+ },
+ {
+  "key": "dram-conspiracy-lawsuit-moves-forward-techspot-pcmr5698-recirc",
+  "flagged": "2026-11-17T19:50Z",
+  "hit": 6,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit-rising:pcmasterrace"
+ },
+ {
+  "key": "apple-services-outage-internal-update-hit5-bench",
+  "flagged": "2026-11-17T19:50Z",
+  "hit": 5,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "x-watch:unusual_whales",
+   "x-watch:Pirat_Nation",
+   "x-watch:MacRumors",
+   "hn:front"
+  ],
+  "first": "x-watch:MacRumors"
+ },
+ {
+  "key": "lisa-su-tomorrowx-dc-80pct-backs-jensen-hit6-lowvel",
+  "flagged": "2026-11-17T19:50Z",
+  "hit": 6,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-lane:L8",
+   "gn:adhoc-lisa-su"
+  ],
+  "first": "gn:adhoc-lisa-su"
+ },
+ {
+  "key": "sony-no-goty-nom-first-in-12-years-hit4-bench",
+  "flagged": "2026-11-17T19:50Z",
+  "hit": 4,
+  "lane": "ps-scene",
+  "found_via": [
+   "x-watch:Okami13_",
+   "bsky:videogameschronicle.com"
+  ],
+  "first": "x-watch:Okami13_"
+ },
+ {
+  "key": "wow-forever-economy-exploit-niche-hit3-bench",
+  "flagged": "2026-11-17T19:50Z",
+  "hit": 3,
+  "lane": "fandom-outrage",
+  "found_via": [
+   "reddit-rising:gaming"
+  ],
+  "first": "reddit-rising:gaming"
+ },
+ {
+  "key": "gta6-16m-sold-1-5b-business-hit3-bench",
+  "flagged": "2026-11-17T19:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:PS5"
+  ],
+  "first": "reddit-rising:PS5"
+ },
+ {
+  "key": "nvidia-geforce-ai-half-rate-cap-no-outlet-hit5-lowvel",
+  "flagged": "2026-11-17T19:50Z",
+  "hit": 5,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "x-lane:L3"
+  ],
+  "first": "x-lane:L3"
+ },
+ {
+  "key": "us-natsec-network-down-politics-skip",
+  "flagged": "2026-11-17T19:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "reddit-rising:technology",
+   "hn:front"
+  ],
+  "first": "reddit-rising:technology"
+ },
+ {
+  "key": "duolingo-sexy-owl-offlane-skip",
+  "flagged": "2026-11-17T19:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "switch2-emu-lichii-dmca-niche-hit4-bench",
+  "flagged": "2026-11-17T19:50Z",
+  "hit": 4,
+  "lane": "nintendo-takedown",
+  "found_via": [
+   "x-lane:L5",
+   "x-lane:TEST"
+  ],
+  "first": "x-lane:L5"
  }
 ]
