@@ -7813,5 +7813,98 @@
    "hn:front"
   ],
   "first": "hn:front 413 at 6.7h, no new fact"
+ },
+ {
+  "key": "smoovplay-gta6-60fps-ps5-stream-no-outlet-hit7-lowvel",
+  "flagged": "2026-11-17T10:52Z",
+  "hit": 7,
+  "lane": "pc-unlock",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "github"
+  ],
+  "first": "x-watch:Pirat_Nation 10:00Z (630 at 0.8h); repo smoovplay/smoovplay 12 stars, created Nov 15; no outlet in GN or web yet, recheck for outlet pickup"
+ },
+ {
+  "key": "rockstar-gta6-empathy-mechanisms-hit5-bench",
+  "flagged": "2026-11-17T10:52Z",
+  "hit": 5,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:IGN"
+  ],
+  "first": "x-watch:IGN 08:00Z (758)"
+ },
+ {
+  "key": "cod-ai-cheat-tools-activision-hack-hit5-bench",
+  "flagged": "2026-11-17T10:52Z",
+  "hit": 5,
+  "lane": "breach-hack",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation 06:00Z (304)"
+ },
+ {
+  "key": "eu-game-unions-no-genai-noun-hit3-bench",
+  "flagged": "2026-11-17T10:52Z",
+  "hit": 3,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation 09:00Z (564)"
+ },
+ {
+  "key": "gta6-no1-every-region-ps-store-hit4-bench",
+  "flagged": "2026-11-17T10:52Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Okami13_"
+  ],
+  "first": "x-watch:Okami13_ 06:16Z (874)"
+ },
+ {
+  "key": "ps5-security-fw-day-before-gta6-hit5-bench",
+  "flagged": "2026-11-17T10:52Z",
+  "hit": 5,
+  "lane": "ps-scene",
+  "found_via": [
+   "x-watch:IGN"
+  ],
+  "first": "x-watch:IGN 10:33Z (42)"
+ },
+ {
+  "key": "homeview-siri-buggy-tomwarren-review-hit4-bench",
+  "flagged": "2026-11-17T10:52Z",
+  "hit": 4,
+  "lane": "apple-phone",
+  "found_via": [
+   "x-watch:tomwarren",
+   "bsky:tomwarren.co.uk"
+  ],
+  "first": "x-watch:tomwarren 08:44Z (234)"
+ },
+ {
+  "key": "apple-samsung-dram-lta-business-hit4-bench",
+  "flagged": "2026-11-17T10:52Z",
+  "hit": 4,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:MacRumors",
+   "x-lane:L7"
+  ],
+  "first": "x-lane:L7 09:11Z (11)"
+ },
+ {
+  "key": "optimizely-malware-zoom-gitlab-hack-skip",
+  "flagged": "2026-11-17T10:52Z",
+  "hit": 1,
+  "lane": "breach-hack",
+  "found_via": [
+   "hn:front"
+  ],
+  "first": "hn:front 360 at 11.7h"
  }
 ]
