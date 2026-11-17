@@ -31,19 +31,36 @@ R2_A = re.compile(r"price (drop|cut|hike)|restock|msrp|shortage", re.I)
 R2_B = re.compile(r"rtx|gpu|\bram\b|ddr5|ssd|5090|5080", re.I)
 
 
-def get(sub, after, tries=3):
-    q = urllib.parse.urlencode({"subreddit": sub, "after": after, "limit": 100,
-                                "sort": "desc", "fields": FIELDS})
+def get_page(sub, after, before, tries=3):
+    params = {"subreddit": sub, "after": after, "limit": 100, "sort": "desc", "fields": FIELDS}
+    if before:
+        params["before"] = before
+    q = urllib.parse.urlencode(params)
+    err = None
     for i in range(tries):
         try:
             req = urllib.request.Request(f"{API}?{q}", headers={"User-Agent": "zs-news-scan/1.0"})
-            return sub, json.load(urllib.request.urlopen(req, timeout=25)).get("data", []), None
+            return json.load(urllib.request.urlopen(req, timeout=25)).get("data", []), None
         except Exception as e:  # 429/5xx: back off and retry; 4xx other than 429: give up
             err = str(e)
             if "HTTP Error 4" in err and "429" not in err:
                 break
             time.sleep(3 * (i + 1))
-    return sub, [], err
+    return None, err
+
+
+def get(sub, after, max_pages=6):
+    """Walk back from now to `after` in pages of 100 (busy subs post 100+ a day)."""
+    out, before = [], None
+    for _ in range(max_pages):
+        data, err = get_page(sub, after, before)
+        if data is None:
+            return sub, out, err if not out else None
+        out += data
+        if len(data) < 100:
+            break
+        before = min(p["created_utc"] for p in data)
+    return sub, out, None
 
 
 def main():
