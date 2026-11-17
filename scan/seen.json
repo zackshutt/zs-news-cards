@@ -7978,5 +7978,108 @@
    "x-watch:Pirat_Nation"
   ],
   "first": "x-watch:Pirat_Nation 13:03Z (167)"
+ },
+ {
+  "key": "sony-wins-uk-ps-store-class-action-hit8-pitched",
+  "flagged": "2026-11-17T15:55Z",
+  "hit": 8,
+  "lane": "sony-anti-consumer",
+  "found_via": [
+   "bsky:wario64.bsky.social",
+   "x-watch:Wario64",
+   "x-lane:L1",
+   "gn:adhoc-sony-uk-suit"
+  ],
+  "first": "lawnews.co.uk ~10:50Z; X 13:58Z"
+ },
+ {
+  "key": "amd-loves-gamers-above-all-else-respawnfirst-hit7-lowvel",
+  "flagged": "2026-11-17T15:55Z",
+  "hit": 7,
+  "lane": "exec-quote",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit-rising:pcmasterrace (respawnfirst only)"
+ },
+ {
+  "key": "nvidia-circular-financing-gpu-prices-pcgaming-3842-recirc",
+  "flagged": "2026-11-17T15:55Z",
+  "hit": 6,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "reddit-rising:pcgaming"
+  ],
+  "first": "reddit-rising:pcgaming"
+ },
+ {
+  "key": "ps5-fw-1423-blocks-dumping-exploit-gta6-hit5-bench",
+  "flagged": "2026-11-17T15:55Z",
+  "hit": 5,
+  "lane": "ps-scene",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "x-watch:IGN Nov 17 10:52Z"
+ },
+ {
+  "key": "ps6-devkits-2028-ps5-support-2030-prediction-hit6-bench",
+  "flagged": "2026-11-17T15:55Z",
+  "hit": 6,
+  "lane": "sony-anti-consumer",
+  "found_via": [
+   "reddit-rising:gaming"
+  ],
+  "first": "reddit-rising:gaming (gohumanize blog)"
+ },
+ {
+  "key": "ai-music-copyright-claims-musician-noun-hit3-bench",
+  "flagged": "2026-11-17T15:55Z",
+  "hit": 3,
+  "lane": "none",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology"
+ },
+ {
+  "key": "minecraft-bedrock-resource-pack-malware-hack-hit4-bench",
+  "flagged": "2026-11-17T15:55Z",
+  "hit": 4,
+  "lane": "breach-hack",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "nvidia-earnings-today-first-post-jensen-business-hit4-bench",
+  "flagged": "2026-11-17T15:55Z",
+  "hit": 4,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales"
+ },
+ {
+  "key": "amd-taalas-acquisition-business-skip",
+  "flagged": "2026-11-17T15:55Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "x-lane:L9"
+  ],
+  "first": "x-lane:L9 @AMD"
+ },
+ {
+  "key": "steam-deck-fps-histogram-store-hit5-lowvel",
+  "flagged": "2026-11-17T15:55Z",
+  "hit": 5,
+  "lane": "steam-valve",
+  "found_via": [
+   "reddit-rising:pcgaming"
+  ],
+  "first": "reddit-rising:pcgaming (130)"
  }
 ]
