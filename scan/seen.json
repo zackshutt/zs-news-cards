@@ -8321,5 +8321,16 @@
    "x-lane:TEST"
   ],
   "first": "x-lane:L5"
+ },
+ {
+  "key": "jensen-x-statement-honored-return-zack-sent-pitched",
+  "flagged": "2026-11-17T21:32Z",
+  "hit": 4,
+  "lane": "exec-quote",
+  "found_via": [
+   "zack",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "x:JensenHuang"
  }
 ]
