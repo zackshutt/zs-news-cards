@@ -7678,5 +7678,86 @@
   ],
   "first": "x-watch:IGN 01:01Z (179)",
   "flagged": "2026-11-17T01:50Z"
+ },
+ {
+  "key": "yoko-taro-no-choice-buy-ocarina-remake-quote-hit4-bench",
+  "flagged": "2026-11-17T03:45Z",
+  "hit": 4,
+  "lane": "nintendo",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "nhs-gta6-hand-strain-advice-quirky-hit5-bench",
+  "flagged": "2026-11-17T03:45Z",
+  "hit": 5,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:IGN"
+  ],
+  "first": "x-watch:IGN"
+ },
+ {
+  "key": "google-era-autonomous-ai-attacks-hack-skip",
+  "flagged": "2026-11-17T03:45Z",
+  "hit": 0,
+  "lane": "breach-hack",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales"
+ },
+ {
+  "key": "nvidia-employee-warns-board-jensen-wsj-gossip-skip",
+  "flagged": "2026-11-17T03:45Z",
+  "hit": 0,
+  "lane": "business-finance",
+  "found_via": [
+   "x-lane:L8",
+   "reddit-rising:nvidia"
+  ],
+  "first": "x-lane:L8"
+ },
+ {
+  "key": "ps5-nz-gimmick-gta6-banned-user-report-hit5-bench",
+  "flagged": "2026-11-17T03:45Z",
+  "hit": 5,
+  "lane": "sony-anti-consumer",
+  "found_via": [
+   "x-lane:L1"
+  ],
+  "first": "x-lane:L1"
+ },
+ {
+  "key": "palit-5090-melted-rma-cold-solder-update-niche-hit3-bench",
+  "flagged": "2026-11-17T03:45Z",
+  "hit": 3,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit-rising:pcmasterrace"
+ },
+ {
+  "key": "gta6-update-01002001-ps5-logistics-hit2-bench",
+  "flagged": "2026-11-17T03:45Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:PS5"
+  ],
+  "first": "reddit-rising:PS5"
+ },
+ {
+  "key": "schreier-qa-gta6-review-embargo-hint-rumor-hit3-bench",
+  "flagged": "2026-11-17T03:45Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:GamingLeaksAndRumours"
+  ],
+  "first": "reddit-rising:GamingLeaksAndRumours"
  }
 ]
