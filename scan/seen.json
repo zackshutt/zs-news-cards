@@ -7906,5 +7906,77 @@
    "hn:front"
   ],
   "first": "hn:front 360 at 11.7h"
+ },
+ {
+  "key": "youtube-coviews-inflate-view-counts-hit5-bench",
+  "flagged": "2026-11-17T13:50Z",
+  "hit": 5,
+  "lane": "privacy-default",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Pirat_Nation 11:22Z (721 at 2.4h)"
+ },
+ {
+  "key": "nvidia-staff-letter-reinstate-jensen-gossip-hit2-bench",
+  "flagged": "2026-11-17T13:50Z",
+  "hit": 2,
+  "lane": "scene-named-people",
+  "found_via": [
+   "gn:6-nvidia-ceo",
+   "x-lane:L8"
+  ],
+  "first": "WSJ 02:38Z"
+ },
+ {
+  "key": "gta6-birdwatchers-62-species-hit4-bench",
+  "flagged": "2026-11-17T13:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto 11:00Z (9.9K at 2.7h)"
+ },
+ {
+  "key": "ps5-100m-sales-sony-confirms-business-hit3-bench",
+  "flagged": "2026-11-17T13:50Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "x-lane:L1"
+  ],
+  "first": "x-lane:L1 11:19Z (18)"
+ },
+ {
+  "key": "nvidia-no-chips-china-renters-business-hit3-bench",
+  "flagged": "2026-11-17T13:50Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales 12:37Z (377)"
+ },
+ {
+  "key": "wuthering-waves-launcher-review-bomb-niche-hit2-bench",
+  "flagged": "2026-11-17T13:50Z",
+  "hit": 2,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation 11:01Z (2,310)"
+ },
+ {
+  "key": "mihoyo-ai-plays-hsr-niche-hit2-bench",
+  "flagged": "2026-11-17T13:50Z",
+  "hit": 2,
+  "lane": "ai-gaming-experiment",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation 13:03Z (167)"
  }
 ]
