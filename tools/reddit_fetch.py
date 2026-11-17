@@ -7,7 +7,8 @@ returning HTTP 429/403 on the very first call, from the cloud sandbox. Arctic Sh
 keeps updating scores, so we read it instead. Runs in plain bash, no Composio.
 
 Usage:
-  python3 tools/reddit_fetch.py --hours 3 [--subs a,b,c] [--out scan/reddit-latest.json]
+  python3 tools/reddit_fetch.py --hours 3 [--subs a,b,c] [--sort per_h|score] [--out FILE]
+  (top of day: --hours 24 --sort score; lab hot pool: --hours 36 --sort score)
 
 Prints a ranked table (upvotes per hour) and writes JSON rows:
   {sub, id, title, score, comments, age_h, per_h, url, link, flags:[rising|new|R1|R2]}
@@ -51,6 +52,8 @@ def main():
     ap.add_argument("--subs", default=",".join(SUBS))
     ap.add_argument("--out", default="")
     ap.add_argument("--top", type=int, default=40)
+    ap.add_argument("--sort", choices=["per_h", "score"], default="per_h",
+                    help="per_h = rising/velocity; score = top/hot of the window")
     a = ap.parse_args()
     now = time.time()
     after = int(now - a.hours * 3600)
@@ -80,7 +83,7 @@ def main():
                              "per_h": round(sc / age), "link": p.get("url", ""),
                              "url": f"https://www.reddit.com/r/{sub}/comments/{p['id']}/",
                              "flags": flags})
-    rows.sort(key=lambda r: -r["per_h"])
+    rows.sort(key=lambda r: -r[a.sort])
     for r in rows[: a.top]:
         print(f"{r['per_h']:>6}/h {r['score']:>6} {r['age_h']:>4}h r/{r['sub']:<22} "
               f"{','.join(r['flags']):<12} {r['title'][:90]}")
