@@ -8459,5 +8459,121 @@
    "x-watch:Dexerto"
   ],
   "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "gabe-gates-of-hell-petersen-hit7-pitched",
+  "flagged": "2026-11-17T23:50Z",
+  "hit": 7,
+  "lane": "steam-valve",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-lane:L2",
+   "x-lane:L8",
+   "gn:adhoc-petersen"
+  ],
+  "first": "GamesRadar 20:39Z; X Pirat_Nation 22:41Z"
+ },
+ {
+  "key": "nvidia-board-no-reinstate-jensen-earnings-call-gossip-hit4-bench",
+  "flagged": "2026-11-17T23:50Z",
+  "hit": 4,
+  "lane": "scene-named-people",
+  "found_via": [
+   "x-watch:unusual_whales",
+   "x-watch:Pirat_Nation",
+   "x-watch:pcgamer",
+   "x-watch:verge",
+   "x-watch:TechPowerUp",
+   "bsky:pcgamer.com",
+   "bsky:theverge.com"
+  ],
+  "first": "x-watch:unusual_whales 22:05Z (2,856)"
+ },
+ {
+  "key": "tech-outages-apple-ms-faa-banks-ai-blame-hit6-bench",
+  "flagged": "2026-11-17T23:50Z",
+  "hit": 6,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "reddit-rising:technology",
+   "bsky:404media.co",
+   "hn:front"
+  ],
+  "first": "reddit-rising:technology (5,571 at 4.3h)"
+ },
+ {
+  "key": "fbi-ai-tool-cyberattacks-3h-hack-hit2-bench",
+  "flagged": "2026-11-17T23:50Z",
+  "hit": 2,
+  "lane": "breach-hack",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology (8,856)"
+ },
+ {
+  "key": "black-mesa-steam-deck-verified-update-niche-hit4-bench",
+  "flagged": "2026-11-17T23:50Z",
+  "hit": 4,
+  "lane": "steam-valve",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "reddit-rising:pcmasterrace",
+   "x-lane:L2"
+  ],
+  "first": "x-lane:L2 21:43Z"
+ },
+ {
+  "key": "nvidia-q3-115b-data-center-business-hit3-bench",
+  "flagged": "2026-11-17T23:50Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:verge",
+   "x-lane:L7",
+   "bsky:theverge.com"
+  ],
+  "first": "x-watch:verge 21:42Z"
+ },
+ {
+  "key": "win7-wddm2-backport-new-gpus-niche-hit4-bench",
+  "flagged": "2026-11-17T23:50Z",
+  "hit": 4,
+  "lane": "pc-unlock",
+  "found_via": [
+   "x-lane:L3"
+  ],
+  "first": "x-lane:L3 23:19Z (63)"
+ },
+ {
+  "key": "windows-ai-agents-scan-code-davuluri-hit4-bench",
+  "flagged": "2026-11-17T23:50Z",
+  "hit": 4,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "x-watch:tomwarren",
+   "bsky:tomwarren.co.uk"
+  ],
+  "first": "x-watch:tomwarren 22:38Z"
+ },
+ {
+  "key": "waymo-dmv-freeway-ban-offlane-skip",
+  "flagged": "2026-11-17T23:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology"
+ },
+ {
+  "key": "gpt-6-2-astra-sol-hn-hit4-bench",
+  "flagged": "2026-11-17T23:50Z",
+  "hit": 4,
+  "lane": "ai-brain",
+  "found_via": [
+   "hn:front"
+  ],
+  "first": "hn:front"
  }
 ]
