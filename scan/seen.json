@@ -8332,5 +8332,132 @@
    "reddit-rising:pcmasterrace"
   ],
   "first": "x:JensenHuang"
+ },
+ {
+  "key": "altman-everyone-buy-lot-of-ram-pirat-repost-recirc",
+  "flagged": "2026-11-17T21:45Z",
+  "hit": 10,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "meta-ai-agent-baby-mia-fb-pages-disabled-404-hit7-lowvel",
+  "flagged": "2026-11-17T21:45Z",
+  "hit": 7,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "bsky:404media.co",
+   "x-vel:meta-ai"
+  ],
+  "first": "bsky:404media.co"
+ },
+ {
+  "key": "apple-icloud-outage-confirmed-tech4507-hit6-bench",
+  "flagged": "2026-11-17T21:45Z",
+  "hit": 6,
+  "lane": "apple-phone",
+  "found_via": [
+   "reddit-rising:technology",
+   "hn:front"
+  ],
+  "first": "reddit-rising:technology"
+ },
+ {
+  "key": "win11-pro-wallpaper-replaces-bloom-hit5-bench",
+  "flagged": "2026-11-17T21:45Z",
+  "hit": 5,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "x-watch:tomwarren",
+   "bsky:tomwarren.co.uk"
+  ],
+  "first": "x-watch:tomwarren"
+ },
+ {
+  "key": "sec-probes-nvidia-jensen-departure-wsj-gossip-hit3-bench",
+  "flagged": "2026-11-17T21:45Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "x-lane:L8",
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-lane:L8"
+ },
+ {
+  "key": "nvidia-q3-earnings-115b-business-hit3-bench",
+  "flagged": "2026-11-17T21:45Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales"
+ },
+ {
+  "key": "openai-gpt-6-2-sol-astra-launch-hit4-bench",
+  "flagged": "2026-11-17T21:45Z",
+  "hit": 4,
+  "lane": "ai-brain",
+  "found_via": [
+   "hn:front",
+   "x-watch:sama"
+  ],
+  "first": "hn:front"
+ },
+ {
+  "key": "nvidia-stops-singapore-sales-disclosure-business-hit3-bench",
+  "flagged": "2026-11-17T21:45Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "hn:front"
+  ],
+  "first": "hn:front"
+ },
+ {
+  "key": "xbox360-bomb-brazil-repair-shop-crime-skip",
+  "flagged": "2026-11-17T21:45Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "gezine-leaves-ps-scene-niche-hit2-bench",
+  "flagged": "2026-11-17T21:45Z",
+  "hit": 2,
+  "lane": "ps-scene",
+  "found_via": [
+   "x-lane:L1",
+   "x-lane:L5"
+  ],
+  "first": "x-lane:L1"
+ },
+ {
+  "key": "amd-gamers-above-all-else-recheck-single-source-hit7-bench",
+  "flagged": "2026-11-17T21:45Z",
+  "hit": 7,
+  "lane": "exec-quote",
+  "found_via": [
+   "gn:adhoc-amd",
+   "web:archetypeA"
+  ],
+  "first": "reddit-rising:pcmasterrace"
+ },
+ {
+  "key": "gta6-30fps-experts-dexerto-recirc",
+  "flagged": "2026-11-17T21:45Z",
+  "hit": 5,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
  }
 ]
