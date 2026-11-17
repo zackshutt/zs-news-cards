@@ -8081,5 +8081,138 @@
    "reddit-rising:pcgaming"
   ],
   "first": "reddit-rising:pcgaming (130)"
+ },
+ {
+  "key": "jensen-statement-willing-return-ceo-gossip-hit3-bench",
+  "flagged": "2026-11-17T17:47Z",
+  "hit": 3,
+  "lane": "scene-named-people",
+  "found_via": [
+   "x-watch:unusual_whales",
+   "reddit-new:nvidia",
+   "x-lane:L8",
+   "gn:adhoc-jensen-return"
+  ],
+  "first": "x-watch:unusual_whales 16:08Z (1,435)"
+ },
+ {
+  "key": "gabe-newell-superyacht-crew-quirky-hit5-bench",
+  "flagged": "2026-11-17T17:47Z",
+  "hit": 5,
+  "lane": "steam-valve",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto 16:15Z (4,408)"
+ },
+ {
+  "key": "firaxis-cuts-third-of-staff-business-hit2-skip",
+  "flagged": "2026-11-17T17:47Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "bsky:jasonschreier.bsky.social",
+   "bsky:wario64.bsky.social",
+   "x-watch:jasonschreier"
+  ],
+  "first": "Bloomberg via jasonschreier 16:27Z"
+ },
+ {
+  "key": "tga-2026-goty-nominees-gta6-trailer-skip",
+  "flagged": "2026-11-17T17:47Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Wario64",
+   "bsky:wario64.bsky.social",
+   "x-watch:Okami13_",
+   "reddit-new:pcmasterrace"
+  ],
+  "first": "x-watch:Wario64 17:11Z"
+ },
+ {
+  "key": "gta6-lucia-actress-confirmed-hit3-bench",
+  "flagged": "2026-11-17T17:47Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto",
+   "bsky:videogameschronicle.com"
+  ],
+  "first": "x-watch:Dexerto 17:09Z (2,188)"
+ },
+ {
+  "key": "gta6-school-attendance-prize-quirky-hit4-bench",
+  "flagged": "2026-11-17T17:47Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto",
+   "x-watch:IGN"
+  ],
+  "first": "x-watch:Dexerto 16:44Z (3,723)"
+ },
+ {
+  "key": "win11-runs-better-8gb-ram-verge-hit5-lowvel",
+  "flagged": "2026-11-17T17:47Z",
+  "hit": 5,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "x-watch:tomwarren",
+   "bsky:tomwarren.co.uk",
+   "bsky:theverge.com"
+  ],
+  "first": "x-watch:tomwarren 16:44Z (69)"
+ },
+ {
+  "key": "microsoft-outlook-outage-ai-exec-sorry-hit4-bench",
+  "flagged": "2026-11-17T17:47Z",
+  "hit": 4,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "reddit-rising:technology",
+   "bsky:theverge.com"
+  ],
+  "first": "r/technology (95)"
+ },
+ {
+  "key": "sony-blocks-asobi-ps5-cloud-streaming-niche-hit3-bench",
+  "flagged": "2026-11-17T17:47Z",
+  "hit": 3,
+  "lane": "sony-anti-consumer",
+  "found_via": [
+   "x-lane:L2"
+  ],
+  "first": "x-lane:L2 16:25Z (68)"
+ },
+ {
+  "key": "geforce-seasons-of-rtx-promo-skip",
+  "flagged": "2026-11-17T17:47Z",
+  "hit": 1,
+  "lane": "brand-banter",
+  "found_via": [
+   "x-lane:L9"
+  ],
+  "first": "x-lane:L9 @NVIDIAGeForce 16:00Z (1,218)"
+ },
+ {
+  "key": "thank-you-sata-pcmr-meme-skip",
+  "flagged": "2026-11-17T17:47Z",
+  "hit": 1,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "r/pcmasterrace 2,250 at 2.8h"
+ },
+ {
+  "key": "wireless-battery-monitor-github-tool-hit3-bench",
+  "flagged": "2026-11-17T17:47Z",
+  "hit": 3,
+  "lane": "pc-unlock",
+  "found_via": [
+   "github"
+  ],
+  "first": "github 2,053 stars"
  }
 ]
