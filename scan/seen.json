@@ -7763,5 +7763,55 @@
  {
   "key": "gta6-ps5pro-30fps-receipt-lab",
   "flagged": "2026-11-17T03:58Z"
+ },
+ {
+  "key": "win11-on-iphone-duo-windowsios-hit6-lowvel",
+  "flagged": "2026-11-17T05:45Z",
+  "hit": 6,
+  "lane": "pc-unlock",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation 04:04Z (159); story_likes ~234"
+ },
+ {
+  "key": "megaspeed-police-raid-empty-racks-reddit-hit5-bench",
+  "flagged": "2026-11-17T05:45Z",
+  "hit": 5,
+  "lane": "supply-chain",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "r/pcmasterrace 657 at 0.9h"
+ },
+ {
+  "key": "ff14-pay-10-skip-dawntrail-niche-hit3-bench",
+  "flagged": "2026-11-17T05:45Z",
+  "hit": 3,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation 05:05Z (66)"
+ },
+ {
+  "key": "trendforce-cuts-2027-memory-demand-business-hit4-bench",
+  "flagged": "2026-11-17T05:45Z",
+  "hit": 4,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "x-lane:L7"
+  ],
+  "first": "x-lane:L7 05:31Z (23)"
+ },
+ {
+  "key": "win11-tracks-coding-agents-hn-recheck-hit6-bench",
+  "flagged": "2026-11-17T05:45Z",
+  "hit": 6,
+  "lane": "privacy-default",
+  "found_via": [
+   "hn:front"
+  ],
+  "first": "hn:front 413 at 6.7h, no new fact"
  }
 ]
