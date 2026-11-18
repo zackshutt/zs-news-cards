@@ -4,6 +4,8 @@ Zack, Nov 1, 2026: on the Steam warranty card a receipt clip covered Gabe Newell
 
 ## Rules
 
+0. (Zack, Nov 18, 2026, Discord x McDonald's) X image 1 defaulting to the press-release screenshot was "safe but boring". When the story has an iconic product (fries, a console, a GPU), image 1 is a tight, mouthwatering real photo of that product first; the receipt screenshot is the fallback for stories with no product to show. Also: qc's cutout detector false-flags full-bleed photos and rounded screenshot cards; judge those by eye.
+
 1. Before rendering, run the scan on each spec (Facebook 4:5 and X 1:1 separately). The square format shows much less of the photo top to bottom than 4:5, so a background that works on Facebook can lose the face on X.
 2. The scan finds the subject (faces via OpenCV YuNet, grown into a head box with the hair and beard) plus anything listed in the spec's `"protect": [[x,y,w,h]]` (background-image pixels). Use `protect` for any non-face subject: the console, the GPU, the box, the logo, the meme's punchline.
 3. It FAILS when a clip or meme covers the face core (more than 2%) or a protected box (more than 10%), when the subject is cut off by the frame, or when the face sinks into the black fade. Read the `-scan.png` overlay (green = head, cyan = face, red = clips, orange = fade line).
