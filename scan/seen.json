@@ -9125,5 +9125,99 @@
    "x-watch:videocardz"
   ],
   "first": "x-watch:videocardz"
+ },
+ {
+  "key": "discord-mcdonalds-order-activity-hit9-pitched",
+  "flagged": "2026-11-18T17:55Z",
+  "hit": 9,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Dexerto",
+   "gn:discord-mcdonalds",
+   "web:discord-mcdonalds"
+  ],
+  "first": "McDonald's USA press release (PR Newswire) 15:00Z; X: @McDonalds 15:40Z, Dexerto 16:15Z (38.8K)"
+ },
+ {
+  "key": "win11-app-attestation-adobe-battlenet-recheck-hit8-lowvel",
+  "flagged": "2026-11-18T17:55Z",
+  "hit": 8,
+  "lane": "privacy-default",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "Windows Latest (earlier run)"
+ },
+ {
+  "key": "gta6-no-prostitutes-rockstar-confirms-hit6-bench",
+  "flagged": "2026-11-18T17:55Z",
+  "hit": 6,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation 16:28Z"
+ },
+ {
+  "key": "sam-houser-gta6-release-letter-hit6-bench",
+  "flagged": "2026-11-18T17:55Z",
+  "hit": 6,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:PS5"
+  ],
+  "first": "Rockstar Newswire"
+ },
+ {
+  "key": "rockstar-devs-layoff-worry-union-vote-business-hit3-bench",
+  "flagged": "2026-11-18T17:55Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-watch:pcgamer",
+   "bsky:jasonschreier.bsky.social"
+  ],
+  "first": "Pirat_Nation 16:00Z"
+ },
+ {
+  "key": "amd-adrenalin-26-11-1-drive-writes-fix-hit5-bench",
+  "flagged": "2026-11-18T17:55Z",
+  "hit": 5,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "reddit-new:pcmasterrace"
+  ],
+  "first": "r/pcmasterrace"
+ },
+ {
+  "key": "openai-ipo-sometime-business-hit3-bench",
+  "flagged": "2026-11-18T17:55Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "unusual_whales 15:59Z"
+ },
+ {
+  "key": "voyager1-light-day-offlane-skip",
+  "flagged": "2026-11-18T17:55Z",
+  "hit": 0,
+  "lane": "none",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "r/technology"
+ },
+ {
+  "key": "tiktok-star-death-skip",
+  "flagged": "2026-11-18T17:55Z",
+  "hit": 0,
+  "lane": "none",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto"
  }
 ]
