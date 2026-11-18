@@ -8949,5 +8949,75 @@
    "reddit-rising:pcmasterrace"
   ],
   "first": "r/pcmasterrace 2,274 at 3h"
+ },
+ {
+  "key": "nvidia-driver-ssd-writes-621-reddit-hit8-pitched",
+  "flagged": "2026-11-18T13:55Z",
+  "hit": 8,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "reddit-rising:pcmasterrace",
+   "x-story:nvidia-ssd",
+   "gn:nvidia-ssd",
+   "web:nvidia-ssd"
+  ],
+  "first": "@ggsarzi X 08:05Z (5,340 likes, 4,257 bookmarks); TroubleGrid Nov 15; r/pcmasterrace 1,780 at 3.7h"
+ },
+ {
+  "key": "gta6-base-ps5-mid20s-fps-digital-foundry-hit7-bench",
+  "flagged": "2026-11-18T13:55Z",
+  "hit": 7,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto",
+   "x-watch:Pirat_Nation",
+   "x-vel:gta6-ps5-fps"
+  ],
+  "first": "Digital Foundry via Dexerto 11:52Z (10.4K)"
+ },
+ {
+  "key": "gta6-reviews-99-metacritic-skip",
+  "flagged": "2026-11-18T13:55Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:PS5",
+   "reddit-rising:gaming",
+   "reddit-rising:pcmasterrace",
+   "x-watch:Dexerto",
+   "bsky:jasonschreier.bsky.social"
+  ],
+  "first": "x-watch:Dexerto 11:09Z (22.8K)"
+ },
+ {
+  "key": "windows11-checks-ai-coding-tools-diagnostic-hit6-lowvel",
+  "flagged": "2026-11-18T13:55Z",
+  "hit": 6,
+  "lane": "privacy-default",
+  "found_via": [
+   "x-lane:L4"
+  ],
+  "first": "x-lane:L4"
+ },
+ {
+  "key": "nvidia-board-arm-marvell-ceo-candidates-gossip-hit3-bench",
+  "flagged": "2026-11-18T13:55Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "gn:Nvidia CEO"
+  ],
+  "first": "Yahoo Finance"
+ },
+ {
+  "key": "gta6-xbox-series-s-fsr4-720p-hit4-bench",
+  "flagged": "2026-11-18T13:55Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:wccftech",
+   "x-watch:videocardz"
+  ],
+  "first": "x-watch:wccftech 11:32Z"
  }
 ]
