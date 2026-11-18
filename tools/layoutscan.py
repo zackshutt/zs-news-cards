@@ -2,6 +2,15 @@
 """ZS layout scan. Run BEFORE rendering any card (and again on every revision).
 
   python3 layoutscan.py spec.json            -> scan report + <out>-scan.png, exit 1 on FAIL
+  python3 layoutscan.py cutcheck CUTOUT.png
+        -> grades a transparent cutout's edge (holes, jagged outline, leftover hands/background).
+           FAIL = do not use it anywhere; switch image 1 to a primary-source screenshot or a clean photo.
+  python3 layoutscan.py qc FB.png X1.jpg X2.png [--out sheet.png]
+        -> final QC gate after rendering (Nov 18, 2026): checks sizes, flags homemade-cutout
+           edges in X image 1, and writes a contact sheet of how the posts look on a phone
+           (FB feed width, X two-image post with X's center crops, plus 100% crops of edges).
+           Read the sheet; send nothing until every image passes the "would Zack post this
+           as-is?" bar.
   python3 layoutscan.py compose SRC OUT FORMAT SIDE [--take]
         -> writes a background sized to that format's photo area with the detected subject
            placed whole on SIDE (left|right|center) over a blurred fill of the same image, so
@@ -218,7 +227,131 @@ def compose(src, out, fmt_, side, take=True):
     print(f"composed {out} {W}x{ph} subject at x={px} y={py} scale={s:.2f}")
 
 
+def edge_grade(alpha):
+    """Return (verdict, notes) for a cutout alpha mask (uint8 array)."""
+    import numpy as np
+    a = (alpha > 127).astype("uint8") * 255
+    notes = []
+    cs, hier = cv2.findContours(a, cv2.RETR_CCOMP, cv2.CHAIN_APPROX_NONE)
+    if not cs:
+        return "FAIL", ["empty mask"]
+    big = max(cs, key=cv2.contourArea)
+    area = cv2.contourArea(big)
+    hull = cv2.convexHull(big)
+    solidity = area / max(cv2.contourArea(hull), 1)
+    rough = cv2.arcLength(big, True) / max(cv2.arcLength(hull, True), 1)
+    holes = 0
+    if hier is not None:
+        holes = sum(1 for i, h in enumerate(hier[0]) if h[3] != -1 and cv2.contourArea(cs[i]) > area * 0.002)
+    islands = sum(1 for c in cs if c is not big and cv2.contourArea(c) > area * 0.002) - holes
+    c = big[:, 0, :].astype(float)
+    k = 61
+    pad = np.concatenate([c[-k:], c, c[:k]])
+    sm = np.stack([np.convolve(pad[:, i], np.ones(k) / k, "same")[k:-k] for i in range(2)], 1)
+    jag = float((np.linalg.norm(c - sm, axis=1) > 6).mean())  # share of outline that wiggles off a smooth path
+    notes.append(f"solidity {solidity:.2f}, outline/hull {rough:.2f}, jag {jag:.3f}, holes {holes}, islands {max(islands,0)}")
+    bad = rough > 1.30 or holes > 0 or islands > 0 or solidity < 0.80 or jag > 0.03
+    return ("FAIL" if bad else "PASS"), notes
+
+
+def cutcheck(path):
+    import numpy as np
+    im = Image.open(path)
+    if im.mode != "RGBA":
+        print("FAIL | no alpha channel: not a cutout")
+        return 1
+    v, notes = edge_grade(np.array(im.split()[3]))
+    print(f"{v} | {path}: " + "; ".join(notes))
+    if v == "FAIL":
+        print("  -> do not use. Use a primary-source screenshot, a vector logo (npm simple-icons), a product shot "
+              "shot on plain white (Evan-Amos/press kit) run through rembg, or a clean tight photo crop.")
+    return 0 if v == "PASS" else 1
+
+
+def flat_bg_cutout_check(path):
+    """For composed image-1 JPGs (cutout pasted on a gradient): find the subject against the
+    gradient by color distance and grade its outline the same way."""
+    import numpy as np
+    im = np.array(Image.open(path).convert("RGB")).astype("int16")
+    h, w, _ = im.shape
+    # model the background as the per-row median of the outer 6% columns (gradient-safe)
+    edge = np.concatenate([im[:, : int(w * .06)], im[:, -int(w * .06):]], axis=1)
+    bg = np.median(edge, axis=1)[:, None, :]
+    diff = np.abs(im - bg).sum(axis=2)
+    mask = (diff > 60).astype("uint8") * 255
+    mask = cv2.morphologyEx(mask, cv2.MORPH_OPEN, np.ones((5, 5), "uint8"))
+    cover = (mask > 0).mean()
+    if cover < 0.05 or cover > 0.92:
+        return None  # full-bleed photo or nothing found: not a pasted cutout
+    cs, _ = cv2.findContours(mask, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+    big = max(cs, key=cv2.contourArea)
+    if cv2.contourArea(big) / max(cv2.contourArea(cv2.convexHull(big)), 1) > 0.97 and len(cv2.approxPolyDP(big, 0.02 * cv2.arcLength(big, True), True)) <= 8:
+        return None  # a rectangular screenshot/receipt panel on a background, not a cutout
+    return edge_grade(mask)
+
+
+def qc(fb, x1, x2, out=None, cutout_ok=False):
+    import numpy as np
+    fails = []
+    for p, want in [(fb, (1080, 1350)), (x1, (1080, 1080)), (x2, (1080, 1080))]:
+        if p and Path(p).exists():
+            sz = Image.open(p).size
+            if sz != want:
+                fails.append(f"{Path(p).name} is {sz[0]}x{sz[1]}, expected {want[0]}x{want[1]}")
+    if x1 and Path(x1).exists():
+        g = flat_bg_cutout_check(x1)
+        if g:
+            v, notes = g
+            print(f"X image 1 cutout edge: {v} ({'; '.join(notes)})")
+            if v == "FAIL":
+                fails.append("X image 1 is a pasted cutout with a rough/holed outline (homemade look)")
+            elif not cutout_ok:
+                fails.append("X image 1 is a pasted cutout: only allowed from a plain-background product shot or vector "
+                             "logo that passed `cutcheck`; rerun with --cutout-ok once that is true")
+    # contact sheet: FB at feed width, X two-image post as X crops it, 100% crops
+    sheet = Image.new("RGB", (1600, 1500), (24, 24, 28))
+    d = ImageDraw.Draw(sheet)
+    x = 20
+    if fb and Path(fb).exists():
+        f = Image.open(fb).convert("RGB").resize((400, 500))
+        sheet.paste(f, (x, 40)); d.text((x, 12), "FB feed (phone width)", fill="white"); x += 430
+    imgs = [Image.open(p).convert("RGB") for p in (x1, x2) if p and Path(p).exists()]
+    if imgs:
+        d.text((x, 12), "X two-image post (phone, X center-crops each to 7:8)", fill="white")
+        for i, im in enumerate(imgs):
+            cw = int(im.height * 7 / 8)
+            c = im.crop(((im.width - cw) // 2, 0, (im.width + cw) // 2, im.height)).resize((196, 224))
+            sheet.paste(c, (x + i * 200, 40))
+        d.text((x, 280), "Tapped open (full image)", fill="white")
+        for i, im in enumerate(imgs):
+            sheet.paste(im.resize((300, 300)), (x + i * 310, 300))
+        # 100% crops of the busiest edges of image 1, where homemade cutouts show
+        im = imgs[0]
+        g = cv2.Canny(cv2.cvtColor(np.array(im), cv2.COLOR_RGB2GRAY), 80, 160)
+        ys, xs = np.nonzero(g)
+        d.text((x, 620), "X image 1 at 100% (check edges, halos, hands, artifacts)", fill="white")
+        if len(xs):
+            for i, (qx, qy) in enumerate([(np.percentile(xs, 5), np.percentile(ys, 95)), (np.percentile(xs, 95), np.percentile(ys, 5)),
+                                         (np.median(xs), np.percentile(ys, 97))]):
+                cx, cy = int(min(max(qx - 150, 0), im.width - 300)), int(min(max(qy - 150, 0), im.height - 300))
+                sheet.paste(im.crop((cx, cy, cx + 300, cy + 300)), (x + i * 310, 640))
+    out = out or str(Path(x2 or fb).with_name("qc-sheet.png"))
+    sheet.save(out)
+    print("QC sheet:", out)
+    for f in fails:
+        print("FAIL |", f)
+    print("QC", "FAIL" if fails else "AUTO-PASS (now Read the sheet and grade every image by eye)")
+    return 1 if fails else 0
+
+
 if __name__ == "__main__":
+    if sys.argv[1] == "cutcheck":
+        sys.exit(cutcheck(sys.argv[2]))
+    if sys.argv[1] == "qc":
+        a = [x for x in sys.argv[2:] if not x.startswith("--")]
+        o = sys.argv[sys.argv.index("--out") + 1] if "--out" in sys.argv else None
+        if o in a: a.remove(o)
+        sys.exit(qc(*(a + [None] * 3)[:3], out=o, cutout_ok="--cutout-ok" in sys.argv))
     if sys.argv[1] == "compose":
         compose(sys.argv[2], sys.argv[3], sys.argv[4], sys.argv[5], "--notake" not in sys.argv)
     else:
