@@ -9231,5 +9231,112 @@
    "web:discord-mcdonalds"
   ],
   "first": "McDonald's USA press release 15:00Z"
+ },
+ {
+  "key": "tsmc-cash-upfront-ai-startups-wccftech-rated-unlikely-rumor-hit3-bench",
+  "flagged": "2026-11-18T19:50Z",
+  "hit": 3,
+  "lane": "supply-chain",
+  "found_via": [
+   "reddit-rising:pcmasterrace",
+   "web:archetypeA"
+  ],
+  "first": "respawnfirst via wccftech"
+ },
+ {
+  "key": "psn-outage-pre-gta6-unconfirmed-statuspage-clear-hit5-bench",
+  "flagged": "2026-11-18T19:50Z",
+  "hit": 5,
+  "lane": "sony-anti-consumer",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-watch:unusual_whales",
+   "x-lane:L6",
+   "x-vel:psn-outage"
+  ],
+  "first": "x:downdetector-repost 18:27Z"
+ },
+ {
+  "key": "gta6-sick-day-survey-bamboohr-36pct-recirc-hit4-bench",
+  "flagged": "2026-11-18T19:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:technology",
+   "x-watch:unusual_whales"
+  ],
+  "first": "reddit-rising:technology"
+ },
+ {
+  "key": "gta6-devs-working-conditions-oped-hit4-bench",
+  "flagged": "2026-11-18T19:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:Games",
+   "reddit-rising:PS5"
+  ],
+  "first": "reddit-rising:Games"
+ },
+ {
+  "key": "dram-antitrust-dismiss-denied-pymnts-recirc",
+  "flagged": "2026-11-18T19:50Z",
+  "hit": 5,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "pymnts"
+ },
+ {
+  "key": "gta6-twitch-3m-viewers-hit3-bench",
+  "flagged": "2026-11-18T19:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "gta6-ps5-pro-no-60fps-update-recirc",
+  "flagged": "2026-11-18T19:50Z",
+  "hit": 6,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-lane:L1"
+  ],
+  "first": "x-lane:L1"
+ },
+ {
+  "key": "clair-obscur-narrative-lead-leaves-niche-hit1-bench",
+  "flagged": "2026-11-18T19:50Z",
+  "hit": 1,
+  "lane": "indie-oddity",
+  "found_via": [
+   "reddit-rising:Games"
+  ],
+  "first": "reddit-rising:Games"
+ },
+ {
+  "key": "windows-server-2028-offlane-skip",
+  "flagged": "2026-11-18T19:50Z",
+  "hit": 1,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "reddit-rising:technology",
+   "gn:Microsoft Windows"
+  ],
+  "first": "bleepingcomputer"
+ },
+ {
+  "key": "nginx-http2-rce-hack-hit0-bench",
+  "flagged": "2026-11-18T19:50Z",
+  "hit": 0,
+  "lane": "breach-hack",
+  "found_via": [
+   "hn:front"
+  ],
+  "first": "hn:front"
  }
 ]
