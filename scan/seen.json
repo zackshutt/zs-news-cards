@@ -8754,5 +8754,16 @@
    "x-story:amdjapan"
   ],
   "first": "@amdjapan 2026-11-17T05:08Z; RespawnFirst 09:55Z"
+ },
+ {
+  "key": "gabe-newell-superyacht-crew-zack-sent-hit7-pitched",
+  "flagged": "2026-11-18T04:40Z",
+  "hit": 7,
+  "lane": "engagement",
+  "found_via": [
+   "zack-sent:ufdtech",
+   "x-story:Pirat_Nation"
+  ],
+  "first": "SuperYacht Times video; PC Gamer 2026-11-16T22:05Z; Pirat_Nation 21:56Z (111.7K likes)"
  }
 ]
