@@ -9019,5 +9019,15 @@
    "x-watch:videocardz"
   ],
   "first": "x-watch:wccftech 11:32Z"
+ },
+ {
+  "key": "nvidia-driver-ssd-writes-621-posted",
+  "flagged": "2026-11-18T15:30Z",
+  "hit": 8,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "@ggsarzi X 08:05Z"
  }
 ]
