@@ -9478,5 +9478,107 @@
    "x-watch:Pirat_Nation"
   ],
   "first": "Windows Latest"
+ },
+ {
+  "key": "maxwell-frost-protect-our-games-act-ownership-hit6-lowvel",
+  "flagged": "2026-11-18T23:50Z",
+  "hit": 6,
+  "lane": "ownership-rights",
+  "found_via": [
+   "reddit-new:technology",
+   "gn:adhoc",
+   "web:archetypeA"
+  ],
+  "first": "Floridian Press 20:16Z"
+ },
+ {
+  "key": "nvidia-exec-wife-chip-smuggling-gossip-hit1-bench",
+  "flagged": "2026-11-18T23:50Z",
+  "hit": 1,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit-rising:pcmasterrace"
+ },
+ {
+  "key": "gta6-furry-illegal-leonida-quirky-hit5-bench",
+  "flagged": "2026-11-18T23:50Z",
+  "hit": 5,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "gta6-ned-luke-female-lead-culture-skip",
+  "flagged": "2026-11-18T23:50Z",
+  "hit": 0,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "meta-ai-filed-lawsuit-banned-user-quirky-hit3-bench",
+  "flagged": "2026-11-18T23:50Z",
+  "hit": 3,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "ltt-linus-employee-drama-niche-hit2-bench",
+  "flagged": "2026-11-18T23:50Z",
+  "hit": 2,
+  "lane": "creator-drama-pc",
+  "found_via": [
+   "reddit-rising:LinusTechTips"
+  ],
+  "first": "reddit-rising:LinusTechTips"
+ },
+ {
+  "key": "microsoft-python-agent-framework-malware-hack-hit2-bench",
+  "flagged": "2026-11-18T23:50Z",
+  "hit": 2,
+  "lane": "breach-hack",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology"
+ },
+ {
+  "key": "bestbuy-blurays-return-offlane-hit3-bench",
+  "flagged": "2026-11-18T23:50Z",
+  "hit": 3,
+  "lane": "ownership-rights",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology"
+ },
+ {
+  "key": "ico-gta6-phishing-warning-hack-hit3-bench",
+  "flagged": "2026-11-18T23:50Z",
+  "hit": 3,
+  "lane": "breach-hack",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "musk-jensen-spacex-chips-gossip-hit3-bench",
+  "flagged": "2026-11-18T23:50Z",
+  "hit": 3,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-lane:L8"
+  ],
+  "first": "x-lane:L8"
  }
 ]
