@@ -8575,5 +8575,88 @@
    "hn:front"
   ],
   "first": "hn:front"
+ },
+ {
+  "key": "win11-bitlocker-backup-prompt-local-account-hit7-lowvel",
+  "flagged": "2026-11-18T01:50Z",
+  "hit": 7,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "x-lane:L4",
+   "gn:adhoc-bitlocker"
+  ],
+  "first": "Windows Latest 17:18Z"
+ },
+ {
+  "key": "copilot-fix-pc-pulls-system-data-hit5-lowvel",
+  "flagged": "2026-11-18T01:50Z",
+  "hit": 5,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit:pcmasterrace"
+ },
+ {
+  "key": "amd-paid-software-cut-memory-costs-hit5-lowvel",
+  "flagged": "2026-11-18T01:50Z",
+  "hit": 5,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit:pcmasterrace"
+ },
+ {
+  "key": "google-autonomous-attacks-era-hack-hit2-bench",
+  "flagged": "2026-11-18T01:50Z",
+  "hit": 2,
+  "lane": "breach-hack",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit:technology"
+ },
+ {
+  "key": "gta6-review-embargo-3am-pt-logistics-hit3-bench",
+  "flagged": "2026-11-18T01:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:PS5",
+   "reddit-rising:GamingLeaksAndRumours",
+   "reddit-rising:xbox"
+  ],
+  "first": "Insider Gaming"
+ },
+ {
+  "key": "cs2-singapore-stickers-fixed-price-niche-hit2-bench",
+  "flagged": "2026-11-18T01:50Z",
+  "hit": 2,
+  "lane": "steam-valve",
+  "found_via": [
+   "x-lane:L2"
+  ],
+  "first": "x-lane:L2"
+ },
+ {
+  "key": "valve-amdgpu-linux-stutter-patches-niche-hit4-bench",
+  "flagged": "2026-11-18T01:50Z",
+  "hit": 4,
+  "lane": "linux-escape",
+  "found_via": [
+   "reddit-rising:linux"
+  ],
+  "first": "Phoronix"
+ },
+ {
+  "key": "disney-hulu-merge-offlane-skip",
+  "flagged": "2026-11-18T01:50Z",
+  "hit": 0,
+  "lane": "offlane",
+  "found_via": [
+   "x-watch:MacRumors"
+  ],
+  "first": "MacRumors"
  }
 ]
