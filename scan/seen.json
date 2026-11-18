@@ -9338,5 +9338,17 @@
    "hn:front"
   ],
   "first": "hn:front"
+ },
+ {
+  "key": "discord-mcdonalds-x-posted",
+  "flagged": "2026-11-18T19:48Z",
+  "hit": 9,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Dexerto",
+   "gn:discord-mcdonalds",
+   "web:discord-mcdonalds"
+  ],
+  "first": "McDonald's USA press release 15:00Z"
  }
 ]
