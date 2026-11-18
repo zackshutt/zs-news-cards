@@ -8765,5 +8765,81 @@
    "x-story:Pirat_Nation"
   ],
   "first": "SuperYacht Times video; PC Gamer 2026-11-16T22:05Z; Pirat_Nation 21:56Z (111.7K likes)"
+ },
+ {
+  "key": "steam-916-vs-136k-epic-tiny-terraces-hit8-pitched",
+  "hit": 8,
+  "lane": "steam-valve",
+  "found_via": [
+   "reddit-rising:pcgaming",
+   "x-vel:tiny-terraces",
+   "web:gamepressure"
+  ],
+  "first": "@IncVuvuu on X Nov 17 04:06Z",
+  "flagged": "2026-11-18T05:50Z"
+ },
+ {
+  "key": "ai-patches-behind-outages-nsa-bank-ceos-congress-hit6-bench",
+  "hit": 6,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "reddit-rising:technology",
+   "gn:adhoc-outages",
+   "bsky:polygon.com",
+   "x-lane:L4"
+  ],
+  "first": "NOTUS",
+  "flagged": "2026-11-18T05:50Z"
+ },
+ {
+  "key": "rtx5060ti-burnt-8pin-user-report-hit5-bench",
+  "hit": 5,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "x-watch:videocardz",
+   "x-lane:L3"
+  ],
+  "first": "x-watch",
+  "flagged": "2026-11-18T05:50Z"
+ },
+ {
+  "key": "firaxis-layoffs-60-business-hit2-bench",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch",
+  "flagged": "2026-11-18T05:50Z"
+ },
+ {
+  "key": "sweeney-ai-unfair-to-devs-recirc-hit5-bench",
+  "hit": 5,
+  "lane": "exec-quote",
+  "found_via": [
+   "gn:Tim Sweeney Epic"
+  ],
+  "first": "MIXED News",
+  "flagged": "2026-11-18T05:50Z"
+ },
+ {
+  "key": "microsoft-onnx-runtime-gone-github-niche-hit3-bench",
+  "hit": 3,
+  "lane": "niche",
+  "found_via": [
+   "hn:front"
+  ],
+  "first": "hn",
+  "flagged": "2026-11-18T05:50Z"
+ },
+ {
+  "key": "gta6-ps5-required-update-recheck-logistics-hit4-bench",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:PS5"
+  ],
+  "first": "PlayStation Support US",
+  "flagged": "2026-11-18T05:50Z"
  }
 ]
