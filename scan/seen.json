@@ -8658,5 +8658,79 @@
    "x-watch:MacRumors"
   ],
   "first": "MacRumors"
+ },
+ {
+  "key": "win11-app-attestation-adobe-battlenet-hit8-lowvel",
+  "flagged": "2026-11-18T03:50Z",
+  "hit": 8,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "reddit:pcmasterrace",
+   "gn:adhoc-attestation"
+  ],
+  "first": "Windows Latest 23:17Z"
+ },
+ {
+  "key": "ps5-gta6-required-system-update-logistics-hit4-bench",
+  "flagged": "2026-11-18T03:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-lane:L9",
+   "x-watch:Kotaku",
+   "reddit:PS5"
+  ],
+  "first": "@PS_Support_US 01:25Z"
+ },
+ {
+  "key": "nvidia-singapore-sales-disclosure-ft-business-hit3-bench",
+  "flagged": "2026-11-18T03:50Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "hn:front"
+  ],
+  "first": "FT via hn:front"
+ },
+ {
+  "key": "steam-community-servers-down-meme-hit3-bench",
+  "flagged": "2026-11-18T03:50Z",
+  "hit": 3,
+  "lane": "steam-valve",
+  "found_via": [
+   "reddit-rising:Steam"
+  ],
+  "first": "reddit:Steam"
+ },
+ {
+  "key": "crystal-dynamics-layoffs-niche-hit2-bench",
+  "flagged": "2026-11-18T03:50Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-watch:TechPowerUp"
+  ],
+  "first": "x-watch:Pirat_Nation 02:02Z"
+ },
+ {
+  "key": "ets2-player-record-niche-hit2-bench",
+  "flagged": "2026-11-18T03:50Z",
+  "hit": 2,
+  "lane": "indie-oddity",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation 03:01Z"
+ },
+ {
+  "key": "java4shell-openjdk-rce-hack-hit1-bench",
+  "flagged": "2026-11-18T03:50Z",
+  "hit": 1,
+  "lane": "breach-hack",
+  "found_via": [
+   "hn:front"
+  ],
+  "first": "hn:front"
  }
 ]
