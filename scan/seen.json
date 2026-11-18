@@ -8841,5 +8841,113 @@
   ],
   "first": "PlayStation Support US",
   "flagged": "2026-11-18T05:50Z"
+ },
+ {
+  "key": "nvidia-driver-ssd-idle-writes-user-reports-no-outlet-hit7-bench",
+  "flagged": "2026-11-18T10:50Z",
+  "hit": 7,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "x-lane:L3",
+   "x-vel:nvidia-ssd",
+   "gn:adhoc-nvidia-ssd",
+   "web:nvidia-ssd"
+  ],
+  "first": "@ggsarzi 08:05Z (815 likes, 750 bookmarks at 2.7h); Nvidia no comment, no outlet"
+ },
+ {
+  "key": "xbox-nz-region-trick-ban-fud-tomwarren-logistics-hit4-bench",
+  "flagged": "2026-11-18T10:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:tomwarren",
+   "web:xbox-nz"
+  ],
+  "first": "x-watch:tomwarren"
+ },
+ {
+  "key": "infinity-nikki-maye-musk-boycott-niche-hit2-bench",
+  "flagged": "2026-11-18T10:50Z",
+  "hit": 2,
+  "lane": "fandom-outrage",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch"
+ },
+ {
+  "key": "gta6-china-douyin-promo-no-approval-hit2-bench",
+  "flagged": "2026-11-18T10:50Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch"
+ },
+ {
+  "key": "gta6-custom-ps5-pro-miami-heat-collectible-hit3-bench",
+  "flagged": "2026-11-18T10:50Z",
+  "hit": 3,
+  "lane": "collectibles",
+  "found_via": [
+   "reddit-rising:PS5"
+  ],
+  "first": "reddit-rising:PS5"
+ },
+ {
+  "key": "nvidia-alibaba-alice-huang-export-controls-business-hit3-bench",
+  "flagged": "2026-11-18T10:50Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-rising:technology",
+   "reddit-new:pcmasterrace"
+  ],
+  "first": "The Information"
+ },
+ {
+  "key": "ps5-third-firmware-update-month-security-hit4-bench",
+  "flagged": "2026-11-18T10:50Z",
+  "hit": 4,
+  "lane": "sony-anti-consumer",
+  "found_via": [
+   "x-watch:VGC_News",
+   "bsky:videogameschronicle.com",
+   "x-lane:L1"
+  ],
+  "first": "VGC 10:07Z"
+ },
+ {
+  "key": "nintendo-picofly-dmca-github-niche-hit4-bench",
+  "flagged": "2026-11-18T10:50Z",
+  "hit": 4,
+  "lane": "nintendo-takedown",
+  "found_via": [
+   "x-lane:L5",
+   "x-lane:TEST"
+  ],
+  "first": "x-lane:L5"
+ },
+ {
+  "key": "google-ai-answers-cut-search-traffic-40-hn-hit3-bench",
+  "flagged": "2026-11-18T10:50Z",
+  "hit": 3,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "hn:front"
+  ],
+  "first": "hn:front"
+ },
+ {
+  "key": "pcmr-fluffy-disk-meme-skip",
+  "flagged": "2026-11-18T10:50Z",
+  "hit": 1,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "r/pcmasterrace 2,274 at 3h"
  }
 ]
