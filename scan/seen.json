@@ -8732,5 +8732,16 @@
    "hn:front"
   ],
   "first": "hn:front"
+ },
+ {
+  "key": "jensen-story-of-past-vs-gpu-price-report-lab",
+  "flagged": "2026-11-18T03:59Z",
+  "hit": 7,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-hot:pcgaming"
+  ],
+  "first": "r/pcgaming 17.0K at 15h (TechSpot)",
+  "posted": "656551117547269_122206110020913141"
  }
 ]
