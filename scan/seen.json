@@ -9350,5 +9350,123 @@
    "web:discord-mcdonalds"
   ],
   "first": "McDonald's USA press release 15:00Z"
+ },
+ {
+  "key": "win11-baseline-protection-pirat-885-hit8-pitched",
+  "flagged": "2026-11-18T21:55Z",
+  "hit": 8,
+  "lane": "privacy-default",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-lane:L4",
+   "reddit-new:linux_gaming",
+   "gn:adhoc-baseline",
+   "seen:win11-app-attestation-adobe-battlenet-recheck-hit8-lowvel"
+  ],
+  "first": "Windows Latest 2026-11-17 23:17Z"
+ },
+ {
+  "key": "gta6-no-prostitution-dexerto-16k-recheck-hit6-bench",
+  "flagged": "2026-11-18T21:55Z",
+  "hit": 6,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto 20:30Z"
+ },
+ {
+  "key": "gta6-cat-in-car-dexerto-quirky-hit4-bench",
+  "flagged": "2026-11-18T21:55Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto 19:52Z"
+ },
+ {
+  "key": "gta6-phone-driving-schreier-quirky-hit4-bench",
+  "flagged": "2026-11-18T21:55Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:jasonschreier"
+  ],
+  "first": "jasonschreier 20:10Z"
+ },
+ {
+  "key": "gta6-congressman-burchett-politics-skip",
+  "flagged": "2026-11-18T21:55Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-watch:VGC_News",
+   "bsky:videogameschronicle.com"
+  ],
+  "first": "VGC 20:54Z"
+ },
+ {
+  "key": "nvidia-post-jensen-pay-raises-wired-business-hit3-bench",
+  "flagged": "2026-11-18T21:55Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales",
+   "reddit:nvidia"
+  ],
+  "first": "WIRED"
+ },
+ {
+  "key": "nvidia-43b-chips-china-gamersnexus-business-hit4-bench",
+  "flagged": "2026-11-18T21:55Z",
+  "hit": 4,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit:pcmasterrace"
+  ],
+  "first": "Gamers Nexus"
+ },
+ {
+  "key": "nand-spot-drop-20-wccftech-recirc",
+  "flagged": "2026-11-18T21:55Z",
+  "hit": 5,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "x-watch:wccftech",
+   "reddit-cross:R2"
+  ],
+  "first": "BofA via Tom's Hardware"
+ },
+ {
+  "key": "hershey-1900-prices-offlane-skip",
+  "flagged": "2026-11-18T21:55Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto 20:03Z"
+ },
+ {
+  "key": "clair-obscur-writer-leaves-niche-recirc",
+  "flagged": "2026-11-18T21:55Z",
+  "hit": 1,
+  "lane": "skip",
+  "found_via": [
+   "reddit-rising:gaming"
+  ],
+  "first": "recirc"
+ },
+ {
+  "key": "jedec-ddr6-spec-niche-hit3-bench",
+  "flagged": "2026-11-18T21:55Z",
+  "hit": 3,
+  "lane": "supply-chain",
+  "found_via": [
+   "x-watch:wccftech"
+  ],
+  "first": "JEDEC"
  }
 ]
