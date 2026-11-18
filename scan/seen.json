@@ -9029,5 +9029,101 @@
    "reddit-rising:pcmasterrace"
   ],
   "first": "@ggsarzi X 08:05Z"
+ },
+ {
+  "key": "gta6-base-ps5-mid20s-rockstar-33ms-hit10-pitched",
+  "flagged": "2026-11-18T15:52Z",
+  "hit": 10,
+  "lane": "spec-confirmed",
+  "found_via": [
+   "reddit-rising:pcmasterrace",
+   "reddit-rising:PS5",
+   "reddit-rising:xbox",
+   "bsky:videogameschronicle.com",
+   "x-watch:VGC_News",
+   "x-vel:gta6-ps5-fps",
+   "gn:adhoc-gta6-fps"
+  ],
+  "first": "Digital Foundry; Dexerto X 11:52Z (18.5K)"
+ },
+ {
+  "key": "nvidia-ransomware-gentlemen-leak-claim-hack-hit2-bench",
+  "flagged": "2026-11-18T15:52Z",
+  "hit": 2,
+  "lane": "breach-hack",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales"
+ },
+ {
+  "key": "gta6-sprint-control-default-change-hit4-bench",
+  "flagged": "2026-11-18T15:52Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "gta6-ultimate-edition-content-chapters-hit5-bench",
+  "flagged": "2026-11-18T15:52Z",
+  "hit": 5,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:PS5"
+  ],
+  "first": "IGN"
+ },
+ {
+  "key": "nand-spot-price-drop-20-bofa-hit5-bench",
+  "flagged": "2026-11-18T15:52Z",
+  "hit": 5,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "reddit-cross:R2"
+  ],
+  "first": "Tom's Hardware"
+ },
+ {
+  "key": "openai-agents-hugging-face-hack-ars-hit2-bench",
+  "flagged": "2026-11-18T15:52Z",
+  "hit": 2,
+  "lane": "breach-hack",
+  "found_via": [
+   "bsky:arstechnica.com"
+  ],
+  "first": "Ars Technica"
+ },
+ {
+  "key": "mihoyo-gamer-ai-plays-games-niche-hit3-bench",
+  "flagged": "2026-11-18T15:52Z",
+  "hit": 3,
+  "lane": "ai-gaming-experiment",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "gta6-cheat-codes-return-hit3-bench",
+  "flagged": "2026-11-18T15:52Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "win7-dx12-rtx50-modders-niche-hit4-bench",
+  "flagged": "2026-11-18T15:52Z",
+  "hit": 4,
+  "lane": "pc-unlock",
+  "found_via": [
+   "x-watch:videocardz"
+  ],
+  "first": "x-watch:videocardz"
  }
 ]
