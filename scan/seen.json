@@ -9468,5 +9468,15 @@
    "x-watch:wccftech"
   ],
   "first": "JEDEC"
+ },
+ {
+  "key": "win11-baseline-protection-posted",
+  "flagged": "2026-11-18T22:46Z",
+  "hit": 8,
+  "lane": "privacy-default",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Windows Latest"
  }
 ]
