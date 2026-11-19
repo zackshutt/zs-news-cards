@@ -10011,5 +10011,153 @@
    "x-watch:Pirat_Nation"
   ],
   "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "apple-iphone-repair-trial-france-hop-hit7-lowvel",
+  "flagged": "2026-11-19T13:50Z",
+  "hit": 7,
+  "lane": "ownership-rights",
+  "found_via": [
+   "x-watch:MacRumors",
+   "gn:adhoc-apple-trial"
+  ],
+  "first": "AFP Nov 17 07:02Z"
+ },
+ {
+  "key": "win11-coding-agents-dll-recheck-hit6-bench",
+  "flagged": "2026-11-19T13:50Z",
+  "hit": 6,
+  "lane": "privacy-default",
+  "found_via": [
+   "x-lane:L4",
+   "x-vel:win11agents"
+  ],
+  "first": "Xusheng Li blog Nov 16"
+ },
+ {
+  "key": "nand-spot-prices-fall-20pct-ssd-2027-hit5-bench",
+  "flagged": "2026-11-19T13:50Z",
+  "hit": 5,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "reddit-hot:hardware",
+   "hn:front"
+  ],
+  "first": "reddit:hardware"
+ },
+ {
+  "key": "nadella-60k-employees-quit-business-hit4-bench",
+  "flagged": "2026-11-19T13:50Z",
+  "hit": 4,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-hot:technology"
+  ],
+  "first": "reddit:technology"
+ },
+ {
+  "key": "gta6-devs-layoff-worries-uriarte-dexerto-hit4-bench",
+  "flagged": "2026-11-19T13:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "gta6-ps5pro-cpu-no-60fps-chambers-recirc",
+  "flagged": "2026-11-19T13:50Z",
+  "hit": null,
+  "lane": "spec-confirmed",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "reddit-rising:Games"
+  ],
+  "first": "reddit-rising:Games"
+ },
+ {
+  "key": "jedec-ddr6-pcmr-551-recirc",
+  "flagged": "2026-11-19T13:50Z",
+  "hit": null,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "reddit-rising:pcmasterrace",
+   "x-watch:pcgamer"
+  ],
+  "first": "reddit-rising:pcmasterrace"
+ },
+ {
+  "key": "eu-pay-to-win-minors-crackdown-dexerto-hit3-bench",
+  "flagged": "2026-11-19T13:50Z",
+  "hit": 3,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "palworld-bucky-crimson-desert-tga-pirat-hit3-bench",
+  "flagged": "2026-11-19T13:50Z",
+  "hit": 3,
+  "lane": "fandom-outrage",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "rockstar-fired-union-informants-pirat-hit3-bench",
+  "flagged": "2026-11-19T13:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "jensen-reinstate-petition-200k-gossip-hit3-bench",
+  "flagged": "2026-11-19T13:50Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales",
+   "yt-name:Nvidia Jensen Huang",
+   "gn:Nvidia CEO"
+  ],
+  "first": "x-watch:unusual_whales"
+ },
+ {
+  "key": "anthropic-ipo-trading-day-business-hit2-bench",
+  "flagged": "2026-11-19T13:50Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales"
+ },
+ {
+  "key": "eu-commission-cyberattack-hack-hit1-bench",
+  "flagged": "2026-11-19T13:50Z",
+  "hit": 1,
+  "lane": "breach-hack",
+  "found_via": [
+   "x-watch:unusual_whales",
+   "hn:front"
+  ],
+  "first": "x-watch:unusual_whales"
+ },
+ {
+  "key": "apple-oled-imac-cancel-rumor-skip",
+  "flagged": "2026-11-19T13:50Z",
+  "hit": null,
+  "lane": "apple-phone",
+  "found_via": [
+   "x-watch:MacRumors"
+  ],
+  "first": "x-watch:MacRumors"
  }
 ]
