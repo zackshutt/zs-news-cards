@@ -9782,5 +9782,112 @@
  {
   "key": "gta6-seagull-pier-lab",
   "flagged": "2026-11-19T04:02Z"
+ },
+ {
+  "key": "msft-todo-killed-pcmr-625-hit6-fit7-bench",
+  "flagged": "2026-11-19T05:50Z",
+  "hit": 6,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "reddit-rising:pcmasterrace",
+   "x-vel:todo",
+   "gn:adhoc-todo",
+   "seen:msft-todo-killed-2027-windowslatest-hit6-lowvel"
+  ],
+  "first": "WindowsLatest 01:27Z"
+ },
+ {
+  "key": "humble-bundle-untrustworthy-pcgaming-728-noun-hit5-bench",
+  "flagged": "2026-11-19T05:50Z",
+  "hit": 5,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "reddit-rising:pcgaming"
+  ],
+  "first": "reddit-rising:pcgaming"
+ },
+ {
+  "key": "nvidia-billionaires-lose-third-jensen-scandal-gossip-hit3-bench",
+  "flagged": "2026-11-19T05:50Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology"
+ },
+ {
+  "key": "russian-spy-laptop-palo-alto-offlane-skip",
+  "flagged": "2026-11-19T05:50Z",
+  "hit": 0,
+  "lane": "none",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology"
+ },
+ {
+  "key": "gta6-out-now-launch-post-skip",
+  "flagged": "2026-11-19T05:50Z",
+  "hit": 0,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-lane:L9",
+   "x-watch:wA"
+  ],
+  "first": "x-lane:L9"
+ },
+ {
+  "key": "gta6-launch-psn-ce100005-user-reports-hit5-bench",
+  "flagged": "2026-11-19T05:50Z",
+  "hit": 5,
+  "lane": "sony-anti-consumer",
+  "found_via": [
+   "x-lane:L1",
+   "x-lane:L6",
+   "x-vel:gta6psn",
+   "web:archetypeA"
+  ],
+  "first": "x-lane:L1"
+ },
+ {
+  "key": "gta6-open-ended-missions-rockstar-vp-hit4-bench",
+  "flagged": "2026-11-19T05:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:wA"
+  ],
+  "first": "x-watch:wA"
+ },
+ {
+  "key": "anthropic-ipo-83-business-hit2-bench",
+  "flagged": "2026-11-19T05:50Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales"
+ },
+ {
+  "key": "kraken-mount-ps5-pkg-mounter-github-niche-hit4-bench",
+  "flagged": "2026-11-19T05:50Z",
+  "hit": 4,
+  "lane": "ps-scene",
+  "found_via": [
+   "github"
+  ],
+  "first": "github"
+ },
+ {
+  "key": "pc-makers-memory-price-hikes-old-recirc",
+  "flagged": "2026-11-19T05:50Z",
+  "hit": 0,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "web:archetypeA"
+  ],
+  "first": "web:archetypeA"
  }
 ]
