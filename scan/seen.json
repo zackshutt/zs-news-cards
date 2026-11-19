@@ -9580,5 +9580,130 @@
    "x-lane:L8"
   ],
   "first": "x-lane:L8"
+ },
+ {
+  "key": "ps5-gta6-launch-download-issues-polygon-hit6-lowvel",
+  "flagged": "2026-11-19T01:50Z",
+  "hit": 6,
+  "lane": "sony-anti-consumer",
+  "found_via": [
+   "bsky:polygon.com",
+   "reddit:PS5",
+   "x-velocity:ps5gta"
+  ],
+  "first": "x:Pirat-style PSN down post 11-18 19:11Z"
+ },
+ {
+  "key": "msft-todo-killed-2027-windowslatest-hit6-lowvel",
+  "flagged": "2026-11-19T01:50Z",
+  "hit": 6,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "x-watch:WindowsLatest",
+   "reddit:Windows11"
+  ],
+  "first": "x-watch:WindowsLatest"
+ },
+ {
+  "key": "xbox360-xcloud-homebrew-hit6-lowvel",
+  "flagged": "2026-11-19T01:50Z",
+  "hit": 6,
+  "lane": "pc-unlock",
+  "found_via": [
+   "reddit:gaming"
+  ],
+  "first": "reddit:gaming"
+ },
+ {
+  "key": "gta6-uk-launch-dexerto-hit4-bench",
+  "flagged": "2026-11-19T01:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "gta6-drug-trafficking-system-pirat-quirky-hit4-bench",
+  "flagged": "2026-11-19T01:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "nvidia-sec-probe-wsj-business-hit3-bench",
+  "flagged": "2026-11-19T01:50Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit:technology"
+ },
+ {
+  "key": "cnn-bbc-sites-hijacked-hack-hit1-bench",
+  "flagged": "2026-11-19T01:50Z",
+  "hit": 1,
+  "lane": "breach-hack",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit:technology"
+ },
+ {
+  "key": "ps5-pro-walmart-899-drop-deal-skip",
+  "flagged": "2026-11-19T01:50Z",
+  "hit": 0,
+  "lane": "deals",
+  "found_via": [
+   "x-watch:Wario64",
+   "bsky:wario64.bsky.social",
+   "x-lane:L1"
+  ],
+  "first": "x-watch:Wario64"
+ },
+ {
+  "key": "amd-we-love-gamers-techpowerup-recirc",
+  "flagged": "2026-11-19T01:50Z",
+  "hit": 5,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-watch:TechPowerUp"
+  ],
+  "first": "x-watch:TechPowerUp"
+ },
+ {
+  "key": "gemini-4-neon-genie-4-offlane-skip",
+  "flagged": "2026-11-19T01:50Z",
+  "hit": 0,
+  "lane": "none",
+  "found_via": [
+   "hn:front"
+  ],
+  "first": "hn:front"
+ },
+ {
+  "key": "ps5-30day-drm-gta6-old-apr2026-recirc",
+  "flagged": "2026-11-19T01:50Z",
+  "hit": 5,
+  "lane": "ownership-rights",
+  "found_via": [
+   "web:archetypeA"
+  ],
+  "first": "web"
+ },
+ {
+  "key": "ukraine-bridge-starlink-politics-skip",
+  "flagged": "2026-11-19T01:50Z",
+  "hit": 0,
+  "lane": "none",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit:technology"
  }
 ]
