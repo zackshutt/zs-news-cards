@@ -10388,5 +10388,162 @@
    "reddit-rising:technology"
   ],
   "first": "bsky:404media.co"
+ },
+ {
+  "key": "steam-machine-memory-costs-valve-price-unknown-hit10-pitched",
+  "flagged": "2026-11-19T19:50Z",
+  "hit": 10,
+  "lane": "steam-valve",
+  "found_via": [
+   "x-watch:Wario64",
+   "bsky:wario64.bsky.social",
+   "x-lane:L2",
+   "gn:adhoc-steam-machine"
+  ],
+  "first": "official:steam_hardware announcement ~19:00Z; X Wario64 19:05Z"
+ },
+ {
+  "key": "xbox-nz-trick-2m-gta6-early-reportedly-hit5-bench",
+  "flagged": "2026-11-19T19:50Z",
+  "hit": 5,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:xbox"
+  ],
+  "first": "reddit-rising:xbox"
+ },
+ {
+  "key": "powershell7-default-replaces-51-hit6-lowvel",
+  "flagged": "2026-11-19T19:50Z",
+  "hit": 6,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "reddit-rising:pcmasterrace",
+   "gn:Microsoft Windows"
+  ],
+  "first": "gn:The Register"
+ },
+ {
+  "key": "meta-muse-encrypted-messages-ars-recirc-hit6-lowvel",
+  "flagged": "2026-11-19T19:50Z",
+  "hit": 6,
+  "lane": "privacy-default",
+  "found_via": [
+   "bsky:arstechnica.com"
+  ],
+  "first": "bsky:arstechnica.com"
+ },
+ {
+  "key": "arizona-criminal-probe-openai-rogue-agents-banks-hit4-bench",
+  "flagged": "2026-11-19T19:50Z",
+  "hit": 4,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales"
+ },
+ {
+  "key": "ackman-nvidia-board-governance-gossip-hit2-bench",
+  "flagged": "2026-11-19T19:50Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales"
+ },
+ {
+  "key": "musk-jensen-michael-jordan-gossip-hit3-bench",
+  "flagged": "2026-11-19T19:50Z",
+  "hit": 3,
+  "lane": "scene-named-people",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales"
+ },
+ {
+  "key": "gta6-decix-traffic-record-pirat-quirky-hit4-bench",
+  "flagged": "2026-11-19T19:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "ssd-prices-cheaper-2027-pirat-recirc",
+  "flagged": "2026-11-19T19:50Z",
+  "hit": 5,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "hn:front"
+  ],
+  "first": "hn:front"
+ },
+ {
+  "key": "starlink-pilots-lost-1000-customers-hit3-bench",
+  "flagged": "2026-11-19T19:50Z",
+  "hit": 3,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology"
+ },
+ {
+  "key": "iran-us-tech-outages-politics-skip",
+  "flagged": "2026-11-19T19:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology"
+ },
+ {
+  "key": "gta6-dualsense-limited-edition-product-skip",
+  "flagged": "2026-11-19T19:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "x-lane:L9"
+  ],
+  "first": "x-lane:L9"
+ },
+ {
+  "key": "gta6-actors-joint-statement-celebrity-skip",
+  "flagged": "2026-11-19T19:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "x-watch:Dexerto",
+   "reddit-rising:PS5"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "anthropic-2t-nasdaq-business-hit2-bench",
+  "flagged": "2026-11-19T19:50Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "hn:front",
+   "reddit-rising:technology"
+  ],
+  "first": "hn:front"
+ },
+ {
+  "key": "amd-zen6-delayed-rumor-hit3-bench",
+  "flagged": "2026-11-19T19:50Z",
+  "hit": 3,
+  "lane": "supply-chain",
+  "found_via": [
+   "reddit:Amd"
+  ],
+  "first": "reddit:Amd"
  }
 ]
