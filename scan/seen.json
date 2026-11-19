@@ -10285,5 +10285,108 @@
    "reddit-rising:pcmasterrace"
   ],
   "first": "reddit-rising:pcmasterrace"
+ },
+ {
+  "key": "steam-dead-gta6-steamdb-meme-15k-skip",
+  "flagged": "2026-11-19T17:45Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "reddit-rising:Steam"
+  ],
+  "first": "reddit-rising:Steam"
+ },
+ {
+  "key": "gta6-pc-recomp-pcmr-7938-unverified-hit6-bench",
+  "flagged": "2026-11-19T17:45Z",
+  "hit": 6,
+  "lane": "pc-unlock",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "x:recompdev"
+ },
+ {
+  "key": "gta6-dexter-apartment-quirky-dexerto-hit4-bench",
+  "flagged": "2026-11-19T17:45Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "amd-stock-crash-hunterbrook-china-business-hit2-bench",
+  "flagged": "2026-11-19T17:45Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales",
+   "x-lane:L8",
+   "x-lane:L7"
+  ],
+  "first": "x-watch:unusual_whales"
+ },
+ {
+  "key": "proshop-rtx5090fe-destroyed-rma-gripe-hit4-bench",
+  "flagged": "2026-11-19T17:45Z",
+  "hit": 4,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit-rising:pcmasterrace"
+ },
+ {
+  "key": "valve-steam-drowning-releases-yt-238k-hit5-bench",
+  "flagged": "2026-11-19T17:45Z",
+  "hit": 5,
+  "lane": "steam-valve",
+  "found_via": [
+   "yt-topic:Steam news",
+   "gn:Valve Steam"
+  ],
+  "first": "gn:GamingOnLinux"
+ },
+ {
+  "key": "zelda-oot-remake-recomp-github-hit5-bench",
+  "flagged": "2026-11-19T17:45Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "github"
+  ],
+  "first": "github"
+ },
+ {
+  "key": "ubisoft-genai-subsidiary-hit4-bench",
+  "flagged": "2026-11-19T17:45Z",
+  "hit": 4,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "x-watch:Nibellion"
+  ],
+  "first": "x-watch:Nibellion"
+ },
+ {
+  "key": "just-eat-cheat-controller-quirky-hit2-bench",
+  "flagged": "2026-11-19T17:45Z",
+  "hit": 2,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "ice-att-call-records-politics-skip",
+  "flagged": "2026-11-19T17:45Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "bsky:404media.co"
  }
 ]
