@@ -10159,5 +10159,131 @@
    "x-watch:MacRumors"
   ],
   "first": "x-watch:MacRumors"
+ },
+ {
+  "key": "gta6-pc-recomp-recompdev-menu-unverified-hit6-bench",
+  "flagged": "2026-11-19T15:50Z",
+  "hit": 6,
+  "lane": "pc-unlock",
+  "found_via": [
+   "reddit-rising:pcmasterrace",
+   "x-velocity:gta6-recomp",
+   "web:gta6-recomp",
+   "gn:adhoc"
+  ],
+  "first": "x:recompdev 04:34Z (26.3K likes)"
+ },
+ {
+  "key": "gta6-19m-copies-184b-sensortower-business-hit2-bench",
+  "flagged": "2026-11-19T15:50Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:Dexerto",
+   "x-watch:Okami13_"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "gamestop-cohen-digital-only-gta6-unconfirmed-hit5-bench",
+  "flagged": "2026-11-19T15:50Z",
+  "hit": 5,
+  "lane": "ownership-rights",
+  "found_via": [
+   "x-lane:L6",
+   "web:cohen-digital"
+  ],
+  "first": "x-lane:L6"
+ },
+ {
+  "key": "gta6-furry-chase-quirky-dexerto-hit3-bench",
+  "flagged": "2026-11-19T15:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "whatsapp-whatup-gta6-rebrand-quirky-hit4-bench",
+  "flagged": "2026-11-19T15:50Z",
+  "hit": 4,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "schreier-gta6-incels-commentary-skip",
+  "flagged": "2026-11-19T15:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "x-watch:jasonschreier"
+  ],
+  "first": "x-watch:jasonschreier"
+ },
+ {
+  "key": "anthropic-nasdaq-debut-business-hit2-bench",
+  "flagged": "2026-11-19T15:50Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales"
+ },
+ {
+  "key": "jpmorgan-vendor-breach-hack-hit1-bench",
+  "flagged": "2026-11-19T15:50Z",
+  "hit": 1,
+  "lane": "breach-hack",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales"
+ },
+ {
+  "key": "ubisoft-166-layoffs-montreal-business-hit2-bench",
+  "flagged": "2026-11-19T15:50Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "bsky:videogameschronicle.com"
+  ],
+  "first": "bsky:videogameschronicle.com"
+ },
+ {
+  "key": "nand-ssd-prices-fall-2h2027-hn-hit5-bench",
+  "flagged": "2026-11-19T15:50Z",
+  "hit": 5,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "hn:front",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "pcmasterrace"
+ },
+ {
+  "key": "nvroot-nvidia-linux-driver-cve-hack-hit2-bench",
+  "flagged": "2026-11-19T15:50Z",
+  "hit": 2,
+  "lane": "breach-hack",
+  "found_via": [
+   "reddit:linux"
+  ],
+  "first": "reddit:linux"
+ },
+ {
+  "key": "pc-checked-baggage-meme-pcmr-3958-skip",
+  "flagged": "2026-11-19T15:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit-rising:pcmasterrace"
  }
 ]
