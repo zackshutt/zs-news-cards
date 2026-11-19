@@ -9889,5 +9889,127 @@
    "web:archetypeA"
   ],
   "first": "web:archetypeA"
+ },
+ {
+  "key": "sony-blocks-asobi-pirat-661-recheck-hit6-lowvel",
+  "flagged": "2026-11-19T10:50Z",
+  "hit": 6,
+  "lane": "sony-anti-consumer",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "msft-todo-killed-pcmr-1516-hit6-fit7-bench",
+  "flagged": "2026-11-19T10:50Z",
+  "hit": 6,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit-rising:pcmasterrace"
+ },
+ {
+  "key": "gta6-ps5pro-never-60fps-games-766-recirc",
+  "flagged": "2026-11-19T10:50Z",
+  "hit": 7,
+  "lane": "spec-confirmed",
+  "found_via": [
+   "reddit-rising:Games"
+  ],
+  "first": "reddit-rising:Games"
+ },
+ {
+  "key": "gta6-dlss5-fg-via-remote-play-videocardz-hit6-lowvel",
+  "flagged": "2026-11-19T10:50Z",
+  "hit": 6,
+  "lane": "pc-unlock",
+  "found_via": [
+   "x-watch:videocardz"
+  ],
+  "first": "x-watch:videocardz"
+ },
+ {
+  "key": "warren-spector-gta6-1b-cost-pirat-hit4-bench",
+  "flagged": "2026-11-19T10:50Z",
+  "hit": 4,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "gta6-17m-launch-day-sony-shares-business-hit2-bench",
+  "flagged": "2026-11-19T10:50Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "claude-make-it-120fps-meme-pcmr-2342-skip",
+  "flagged": "2026-11-19T10:50Z",
+  "hit": 3,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit-rising:pcmasterrace"
+ },
+ {
+  "key": "nvidia-h200-china-halt-business-hit2-bench",
+  "flagged": "2026-11-19T10:50Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit:technology",
+   "reddit:nvidia"
+  ],
+  "first": "reddit:technology"
+ },
+ {
+  "key": "nvidia-driver-ssd-writes-pcmr-143-recirc",
+  "flagged": "2026-11-19T10:50Z",
+  "hit": 8,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "reddit:pcmasterrace"
+  ],
+  "first": "reddit:pcmasterrace"
+ },
+ {
+  "key": "gta6-series-s-tomwarren-impressions-skip",
+  "flagged": "2026-11-19T10:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:tomwarren",
+   "bsky:tomwarren.co.uk"
+  ],
+  "first": "bsky:tomwarren.co.uk"
+ },
+ {
+  "key": "gta6-devs-unionize-plea-polygon-hit3-bench",
+  "flagged": "2026-11-19T10:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "bsky:polygon.com"
+  ],
+  "first": "bsky:polygon.com"
+ },
+ {
+  "key": "gta6-japan-censored-pirat-recirc",
+  "flagged": "2026-11-19T10:50Z",
+  "hit": 5,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
  }
 ]
