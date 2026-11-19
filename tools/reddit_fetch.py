@@ -31,7 +31,7 @@ R2_A = re.compile(r"price (drop|cut|hike)|restock|msrp|shortage", re.I)
 R2_B = re.compile(r"rtx|gpu|\bram\b|ddr5|ssd|5090|5080", re.I)
 
 
-def get_page(sub, after, before, tries=3):
+def get_page(sub, after, before, tries=5):
     params = {"subreddit": sub, "after": after, "limit": 100, "sort": "desc", "fields": FIELDS}
     if before:
         params["before"] = before
@@ -41,11 +41,14 @@ def get_page(sub, after, before, tries=3):
         try:
             req = urllib.request.Request(f"{API}?{q}", headers={"User-Agent": "zs-news-scan/1.0"})
             return json.load(urllib.request.urlopen(req, timeout=25)).get("data", []), None
-        except Exception as e:  # 429/5xx: back off and retry; 4xx other than 429: give up
+        except Exception as e:
+            # Arctic Shift answers a slow query with 422 {"error": "Timeout. Maybe slow down a bit"}
+            # (seen Nov 19 on pcgaming/pcmasterrace). 422, 429 and 5xx are transient: back off and
+            # retry. Other 4xx (400 bad field, 404) are real errors: give up.
             err = str(e)
-            if "HTTP Error 4" in err and "429" not in err:
+            if "HTTP Error 4" in err and not any(c in err for c in ("422", "429")):
                 break
-            time.sleep(3 * (i + 1))
+            time.sleep(4 * (i + 1))
     return None, err
 
 
@@ -55,7 +58,7 @@ def get(sub, after, max_pages=6):
     for _ in range(max_pages):
         data, err = get_page(sub, after, before)
         if data is None:
-            return sub, out, err if not out else None
+            return sub, out, err if not out else f"partial ({len(out)} posts): {err}"
         out += data
         if len(data) < 100:
             break
@@ -76,7 +79,7 @@ def main():
     after = int(now - a.hours * 3600)
     subs = [s for s in a.subs.split(",") if s]
     rows, errs = [], []
-    with ThreadPoolExecutor(4) as ex:
+    with ThreadPoolExecutor(3) as ex:  # 4 parallel tripped Arctic Shift timeouts
         for sub, data, err in ex.map(lambda s: get(s, after), subs):
             if err:
                 errs.append(f"{sub}: {err}")
