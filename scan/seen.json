@@ -9717,5 +9717,66 @@
    "gn:adhoc"
   ],
   "first": "JEDEC PR via TechPowerUp 11-18 17:33Z; VideoCardz X 19:40Z"
+ },
+ {
+  "key": "maxwell-frost-protect-our-games-act-ownership-hit6-lowvel",
+  "flagged": "2026-11-19T03:50Z",
+  "hit": 6,
+  "lane": "ownership-rights",
+  "found_via": [
+   "reddit:technology"
+  ],
+  "first": "reddit:technology"
+ },
+ {
+  "key": "gta6-launch-defranco-controversial-hit4-bench",
+  "flagged": "2026-11-19T03:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "yt-topic:gaming news"
+  ],
+  "first": "yt-topic:gaming news"
+ },
+ {
+  "key": "mlid-nvidia-amd-ai-crash-leak-hit2-bench",
+  "flagged": "2026-11-19T03:50Z",
+  "hit": 2,
+  "lane": "supply-chain",
+  "found_via": [
+   "yt-topic:PC hardware news"
+  ],
+  "first": "yt-topic:PC hardware news"
+ },
+ {
+  "key": "ff7-tifa-counterfeit-figures-arrest-skip",
+  "flagged": "2026-11-19T03:50Z",
+  "hit": 0,
+  "lane": "collectibles",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "ps-plus-death-stranding-2-catalog-update-skip",
+  "flagged": "2026-11-19T03:50Z",
+  "hit": 0,
+  "lane": "update-posts",
+  "found_via": [
+   "x-lane:L9"
+  ],
+  "first": "x-lane:L9"
+ },
+ {
+  "key": "gemini-4-neon-hn-offlane-skip",
+  "flagged": "2026-11-19T03:50Z",
+  "hit": 0,
+  "lane": "offlane",
+  "found_via": [
+   "hn:front",
+   "yt-name:Google AI"
+  ],
+  "first": "hn:front"
  }
 ]
