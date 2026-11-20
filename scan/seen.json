@@ -10940,5 +10940,16 @@
    "reddit:NintendoSwitch"
   ],
   "first": "reddit:NintendoSwitch"
+ },
+ {
+  "key": "cdpr-rockstar-night-city-vice-city-lab",
+  "flagged": "2026-11-20T03:59Z",
+  "hit": null,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-hot:PS5",
+   "x:CyberpunkGame"
+  ],
+  "first": "x:CyberpunkGame"
  }
 ]
