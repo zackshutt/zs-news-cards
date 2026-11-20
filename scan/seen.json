@@ -11525,5 +11525,142 @@
    "x-lane:L4"
   ],
   "first": "x-lane:L4"
+ },
+ {
+  "key": "gta6-3-79bn-32-5m-official-record-business-hit6-bench",
+  "flagged": "2026-11-20T19:50Z",
+  "hit": 6,
+  "lane": "gta6-watch",
+  "found_via": [
+   "bsky:jasonschreier.bsky.social",
+   "x-watch:jasonschreier",
+   "x-watch:Wario64",
+   "bsky:wario64.bsky.social",
+   "x-watch:Dexerto",
+   "x-watch:Pirat_Nation",
+   "reddit-rising:PS5"
+  ],
+  "first": "bsky:jasonschreier 19:25Z (Take-Two IR)"
+ },
+ {
+  "key": "gta6-alien-abduction-dexerto-4737-quirky-hit5-bench",
+  "flagged": "2026-11-20T19:50Z",
+  "hit": 5,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "amd-26-11-2-ssd-fix-rx5000-6000-win10-update-hit5-lowvel",
+  "flagged": "2026-11-20T19:50Z",
+  "hit": 5,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "reddit-new:pcgaming"
+  ],
+  "first": "reddit-new:pcgaming"
+ },
+ {
+  "key": "win11-26h2-auto-install-unmanaged-routine-update-hit5-bench",
+  "flagged": "2026-11-20T19:50Z",
+  "hit": 5,
+  "lane": "privacy-default",
+  "found_via": [
+   "gn:Microsoft Windows",
+   "web:archetypeA"
+  ],
+  "first": "gn:BleepingComputer"
+ },
+ {
+  "key": "win11-pc-optimizer-webview2-windowslatest-hit6-lowvel",
+  "flagged": "2026-11-20T19:50Z",
+  "hit": 6,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "reddit-cross:pcmasterrace"
+  ],
+  "first": "reddit:pcmasterrace (Windows Latest)"
+ },
+ {
+  "key": "nvidia-sec-accounting-probe-business-hit3-bench",
+  "flagged": "2026-11-20T19:50Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales"
+ },
+ {
+  "key": "discord-kitten-ai-gf-bot-dexerto-quirky-hit4-bench",
+  "flagged": "2026-11-20T19:50Z",
+  "hit": 4,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "phison-npu-ssd-pirat-niche-hit3-bench",
+  "flagged": "2026-11-20T19:50Z",
+  "hit": 3,
+  "lane": "supply-chain",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "gta6-pc-reqs-leak-l3-leak-hit3-bench",
+  "flagged": "2026-11-20T19:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-lane:L3"
+  ],
+  "first": "x-lane:L3"
+ },
+ {
+  "key": "google-pixel-exclusive-oem-sabotage-linux-niche-hit4-bench",
+  "flagged": "2026-11-20T19:50Z",
+  "hit": 4,
+  "lane": "apple-phone",
+  "found_via": [
+   "reddit-rising:linux"
+  ],
+  "first": "reddit-rising:linux"
+ },
+ {
+  "key": "ubisoft-166-layoffs-genai-studio-business-hit3-bench",
+  "flagged": "2026-11-20T19:50Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit:technology"
+ },
+ {
+  "key": "jensen-nyt-abuse-technology-9128-recirc",
+  "flagged": "2026-11-20T19:50Z",
+  "hit": null,
+  "lane": "scene-named-people",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology"
+ },
+ {
+  "key": "gabe-realism-old-clip-pcmr-recirc",
+  "flagged": "2026-11-20T19:50Z",
+  "hit": null,
+  "lane": "steam-valve",
+  "found_via": [
+   "reddit-new:pcmasterrace"
+  ],
+  "first": "reddit-new:pcmasterrace"
  }
 ]
