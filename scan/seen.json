@@ -10730,5 +10730,112 @@
    "bsky:theverge.com"
   ],
   "first": "bsky:theverge.com"
+ },
+ {
+  "key": "kytyps5-gta5-ps5-60fps-pc-techpowerup-sept-recirc",
+  "flagged": "2026-11-20T01:50Z",
+  "hit": 6,
+  "lane": "pc-unlock",
+  "found_via": [
+   "reddit-rising:pcmasterrace",
+   "gn:story"
+  ],
+  "first": "TechPowerUp 2026-09-06 (reposted to pcmr today)"
+ },
+ {
+  "key": "gta6-exe-cyberleek-nov23-leak-hit2-bench",
+  "flagged": "2026-11-20T01:50Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit:pcmasterrace"
+ },
+ {
+  "key": "ps5-noupdate-payload-zer0day-scene-hit5-bench",
+  "flagged": "2026-11-20T01:50Z",
+  "hit": 5,
+  "lane": "ps-scene",
+  "found_via": [
+   "x-lane:L1"
+  ],
+  "first": "x"
+ },
+ {
+  "key": "nintendo-music-mario-kart-ds-ost-hit3-bench",
+  "flagged": "2026-11-20T01:50Z",
+  "hit": 3,
+  "lane": "nintendo",
+  "found_via": [
+   "x-watch:Wario64",
+   "bsky:wario64.bsky.social"
+  ],
+  "first": "x-watch:Wario64"
+ },
+ {
+  "key": "schreier-gta6-two-games-impressions-review-skip",
+  "flagged": "2026-11-20T01:50Z",
+  "hit": 0,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:jasonschreier",
+   "bsky:jasonschreier.bsky.social"
+  ],
+  "first": "bsky:jasonschreier"
+ },
+ {
+  "key": "jpmorgan-hackers-16k-emails-breach-hit2-bench",
+  "flagged": "2026-11-20T01:50Z",
+  "hit": 2,
+  "lane": "breach-hack",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit:technology"
+ },
+ {
+  "key": "ubisoft-black-flag-outperformed-layoffs-recirc",
+  "flagged": "2026-11-20T01:50Z",
+  "hit": 4,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-rising:gaming",
+   "reddit-rising:technology",
+   "x-watch:TechPowerUp"
+  ],
+  "first": "reddit"
+ },
+ {
+  "key": "anthropic-nasdaq-debut-hn-business-hit2-bench",
+  "flagged": "2026-11-20T01:50Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "hn:front"
+  ],
+  "first": "hn"
+ },
+ {
+  "key": "xbox-black-friday-3000-deals-hit3-bench",
+  "flagged": "2026-11-20T01:50Z",
+  "hit": 3,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "reddit-rising:xbox"
+  ],
+  "first": "reddit:xbox"
+ },
+ {
+  "key": "gta6-veyra-stream-console-to-pc-hit4-bench",
+  "flagged": "2026-11-20T01:50Z",
+  "hit": 4,
+  "lane": "pc-unlock",
+  "found_via": [
+   "x-lane:L7",
+   "x-lane:L4",
+   "x-lane:L3"
+  ],
+  "first": "x"
  }
 ]
