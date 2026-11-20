@@ -11409,5 +11409,121 @@
    "bsky:wario64.bsky.social"
   ],
   "first": "x-watch:Wario64"
+ },
+ {
+  "key": "zelnick-gta7-still-nov19-dexerto-33k-fitfail-hit7-bench",
+  "flagged": "2026-11-20T17:50Z",
+  "hit": 7,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "gta6-russian-ps5-remote-rental-pcmr-2185-quirky-hit5-bench",
+  "flagged": "2026-11-20T17:50Z",
+  "hit": 5,
+  "lane": "quirky-product",
+  "found_via": [
+   "reddit-rising:pcmasterrace",
+   "web:gta6-cloud"
+  ],
+  "first": "reddit-rising:pcmasterrace"
+ },
+ {
+  "key": "gta6-modders-pc-week-pcgamer-2210-leak-hit4-bench",
+  "flagged": "2026-11-20T17:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:pcgaming",
+   "yt-topic:Steam news"
+  ],
+  "first": "reddit-rising:pcgaming"
+ },
+ {
+  "key": "moore-threads-most-vram-consumer-gpu-tease-niche-hit3-bench",
+  "flagged": "2026-11-20T17:50Z",
+  "hit": 3,
+  "lane": "quirky-product",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit-rising:pcmasterrace"
+ },
+ {
+  "key": "valve-steam-machine-no-waitlists-memory-gamesradar-1493-recirc",
+  "flagged": "2026-11-20T17:50Z",
+  "hit": 0,
+  "lane": "steam-valve",
+  "found_via": [
+   "reddit-rising:Steam",
+   "x-lane:L2",
+   "gn:Valve Steam"
+  ],
+  "first": "reddit-rising:Steam"
+ },
+ {
+  "key": "jensen-humiliation-nyt-unusualwhales-recirc",
+  "flagged": "2026-11-20T17:50Z",
+  "hit": 0,
+  "lane": "exec-quote",
+  "found_via": [
+   "reddit-rising:technology",
+   "x-watch:unusual_whales",
+   "x-lane:L8"
+  ],
+  "first": "reddit-rising:technology"
+ },
+ {
+  "key": "rockstar-21pct-staff-10yrs-schreier-hit5-bench",
+  "flagged": "2026-11-20T17:50Z",
+  "hit": 5,
+  "lane": "good-guy-company",
+  "found_via": [
+   "bsky:jasonschreier"
+  ],
+  "first": "bsky:jasonschreier"
+ },
+ {
+  "key": "gta6-crashes-ps5-xbox-dexerto-1036-recheck-hit6-lowvel",
+  "flagged": "2026-11-20T17:50Z",
+  "hit": 6,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "one-armed-robber-steam-api-key-hack-niche-hit2-bench",
+  "flagged": "2026-11-20T17:50Z",
+  "hit": 2,
+  "lane": "breach-hack",
+  "found_via": [
+   "x-lane:L2"
+  ],
+  "first": "x-lane:L2"
+ },
+ {
+  "key": "framework-never-buy-again-hn-niche-hit3-bench",
+  "flagged": "2026-11-20T17:50Z",
+  "hit": 3,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "hn:front"
+  ],
+  "first": "hn:front"
+ },
+ {
+  "key": "win-server-2028-32bit-removed-hit3-bench",
+  "flagged": "2026-11-20T17:50Z",
+  "hit": 3,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "x-lane:L4"
+  ],
+  "first": "x-lane:L4"
  }
 ]
