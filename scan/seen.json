@@ -11011,5 +11011,77 @@
    "x-watch:Pirat_Nation"
   ],
   "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "xbox-gta6-clip-autoupload-ai-ban-user-reports-hit7-lowvel",
+  "flagged": "2026-11-20T10:50Z",
+  "hit": 7,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "reddit:xbox",
+   "x-velocity"
+  ],
+  "first": "reddit:xbox"
+ },
+ {
+  "key": "gta6-xbox-xvc-pc-port-pcmr-1970-unverified-hit4-bench",
+  "flagged": "2026-11-20T10:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:pcmasterrace",
+   "github"
+  ],
+  "first": "reddit-rising:pcmasterrace"
+ },
+ {
+  "key": "white-house-cyber-director-outages-politics-skip",
+  "flagged": "2026-11-20T10:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology"
+ },
+ {
+  "key": "meta-whatsapp-canada-threat-politics-skip",
+  "flagged": "2026-11-20T10:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology"
+ },
+ {
+  "key": "gamersnexus-ram-altman-yt-634k-recirc",
+  "flagged": "2026-11-20T10:50Z",
+  "hit": null,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "yt-name:Sam Altman OpenAI"
+  ],
+  "first": "yt-name:Sam Altman OpenAI"
+ },
+ {
+  "key": "win11-missioncontrolaggregator-tracks-ai-agents-unconfirmed-hit6-lowvel",
+  "flagged": "2026-11-20T10:50Z",
+  "hit": 6,
+  "lane": "privacy-default",
+  "found_via": [
+   "x-lane:L4"
+  ],
+  "first": "x-lane:L4"
+ },
+ {
+  "key": "gta6-weight-limits-dexerto-quirky-hit3-bench",
+  "flagged": "2026-11-20T10:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
  }
 ]
