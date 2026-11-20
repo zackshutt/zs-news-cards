@@ -11787,7 +11787,7 @@
   "first": "r/technology"
  },
  {
-  "key": "nvidia-621-35-hotfix-ssd-writes-nvidiacc-3866-hit7-pitched",
+  "key": "nvidia-621-35-hotfix-ssd-writes-nvidiacc-3866-hit7-posted",
   "hit": 7,
   "lane": "windows-tweak-psa",
   "found_via": [
@@ -11798,7 +11798,7 @@
   ],
   "first": "@nvidiacc 22:01Z",
   "flagged": "2026-11-20T23:50Z",
-  "outcome": "pitched"
+  "outcome": "posted"
  },
  {
   "key": "gta6-3-79bn-houser-quote-r-gaming-21k-business-hit6-bench",
