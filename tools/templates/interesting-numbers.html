@@ -1,33 +1,45 @@
 <!doctype html><html><head><meta charset="utf-8"><style>
 *{margin:0;padding:0;box-sizing:border-box}
-body{width:1080px;height:1080px;background:#0d0f14;font-family:Inter,sans-serif;color:#fff;overflow:hidden}
-.wrap{padding:64px 64px 0}
-.kick{font:700 26px Inter;letter-spacing:.14em;color:#f2b84b;text-transform:uppercase}
-h1{font:800 68px/1.04 'Inter Display',Inter;margin-top:14px;letter-spacing:-.02em}
-h1 span{color:#f2b84b}
-.rows{margin-top:56px}
-.row{margin-bottom:38px}
-.lab{display:flex;justify-content:space-between;align-items:baseline;font:600 27px Inter;color:#c9ced8;margin-bottom:10px}
-.lab b{font:800 38px 'Inter Display';color:#fff}
-.yr{display:inline-block;font:700 21px Inter;color:#0d0f14;background:#c9ced8;border-radius:6px;padding:3px 9px;margin-right:12px;vertical-align:3px}
-.track{height:34px;background:#1c2029;border-radius:8px;overflow:hidden}
-.bar{height:100%;border-radius:8px}
-.g{background:#5b6273}.r{background:#e5484d}.y{background:linear-gradient(90deg,#f2b84b,#ffd77a)}
-.note{font:500 22px/1.35 Inter;color:#9aa1ae;margin-top:6px}
-.take{position:absolute;left:0;right:0;bottom:0;height:130px;background:#161922;border-top:2px solid #262a35;display:flex;align-items:center;padding:0 64px;gap:22px}
-.take img{width:78px;height:78px;border-radius:50%;object-fit:cover;border:3px solid #f2b84b}
-.take p{font:800 38px 'Inter Display';letter-spacing:-.01em}
-.take small{display:block;font:600 20px Inter;color:#9aa1ae;letter-spacing:.06em;margin-bottom:4px}
-</style></head><body><div class="wrap">
-<div class="kick">Interesting</div>
-<h1>What SBF's $500M Anthropic bet <span>turned into</span></h1>
-<div class="rows">
-<div class="row"><div class="lab"><span><i class="yr">2022</i>Alameda buys ~7.8% of Anthropic</span><b>$500M</b></div><div class="track"><div class="bar g" style="width:1.35%"></div></div></div>
-<div class="row"><div class="lab"><span><i class="yr">2022</i>What FTX customers lost</span><b>$8B</b></div><div class="track"><div class="bar r" style="width:21.6%"></div></div></div>
-<div class="row"><div class="lab"><span><i class="yr">2024</i>FTX estate sells the whole stake</span><b>$1.34B</b></div><div class="track"><div class="bar g" style="width:3.6%"></div></div></div>
-<div class="row"><div class="lab"><span><i class="yr">NOW</i>Same stake at the $83 IPO price</span><b>$37B</b></div><div class="track"><div class="bar y" style="width:100%"></div></div></div>
+body{width:1080px;height:1080px;background:#ECE5D6;color:#141210;font-family:Inter,sans-serif;position:relative;overflow:hidden}
+.grain{position:absolute;inset:0;opacity:.28;mix-blend-mode:multiply;pointer-events:none}
+.stamp{position:absolute;left:60px;top:54px;font:400 30px Anton;letter-spacing:.12em;color:#C8322B;border:4px solid #C8322B;padding:4px 14px 2px;transform:rotate(-3deg);border-radius:4px}
+h1{position:absolute;left:60px;top:118px;width:960px;font:400 86px/0.98 Anton;text-transform:uppercase;letter-spacing:-.005em}
+h1 em{font-style:normal;color:#1E6B3A}
+.sub{position:absolute;left:60px;top:330px;font:600 22px Inter;color:#5a554b}
+.sq{position:absolute;left:60px;bottom:70px}
+.s{position:absolute;left:0;bottom:0}
+.s37{width:600px;height:600px;background:#1E6B3A}
+.s8{width:279px;height:279px;background:#C8322B}
+.s134{width:114px;height:114px;background:#141210}
+.s05{width:70px;height:70px;background:#ECE5D6;border:3px solid #141210}
+.big{position:absolute;right:26px;top:14px;font:400 150px/1 Anton;color:#ECE5D6}
+.bigl{position:absolute;right:30px;top:170px;font:700 22px Inter;color:#cfe3d4;text-align:right;letter-spacing:.04em}
+.mid{position:absolute;right:16px;top:12px;font:400 64px/1 Anton;color:#ECE5D6}
+.leg{position:absolute;left:700px;top:400px;width:320px}
+.it{display:flex;gap:14px;align-items:flex-start;margin-bottom:26px}
+.ch{flex:none;width:26px;height:26px;margin-top:8px}
+.v{font:400 44px/1 Anton}
+.d{font:600 19px/1.3 Inter;color:#4a463e;margin-top:4px}
+.d b{color:#141210}
+.take{position:absolute;left:700px;bottom:70px;width:320px;background:#141210;color:#ECE5D6;padding:18px 18px 18px 18px;display:flex;gap:14px;align-items:center}
+.take img{width:64px;height:64px;border-radius:50%;object-fit:cover;flex:none;border:3px solid #ECE5D6}
+.take small{display:block;font:700 14px Inter;letter-spacing:.14em;color:#b9b2a3;margin-bottom:4px}
+.take p{font:400 27px/1.08 Anton;text-transform:uppercase;letter-spacing:.01em}
+</style></head><body>
+<svg class="grain" width="1080" height="1080"><filter id="n"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="3" stitchTiles="stitch"/><feColorMatrix values="0 0 0 0 .3  0 0 0 0 .28  0 0 0 0 .24  0 0 0 .55 0"/></filter><rect width="100%" height="100%" filter="url(#n)"/></svg>
+<div class="stamp">INTERESTING</div>
+<h1>SBF's $500M Anthropic bet<br>is now worth <em>$37 billion</em></h1>
+<div class="sub">Every square is to scale.</div>
+<div class="sq" style="width:600px;height:600px">
+ <div class="s s37"><div class="big">$37B</div><div class="bigl">HIS OLD STAKE<br>AT THE $83 IPO</div></div>
+ <div class="s s8"><div class="mid">$8B</div></div>
+ <div class="s s134"></div>
+ <div class="s s05"></div>
 </div>
-<p class="note">Customers have been repaid 105 to 120% of claims, valued at Nov 2022 prices.<br>~445M shares x $83. Sources: court filings, Anthropic IPO prospectus.</p>
+<div class="leg">
+ <div class="it"><div class="ch" style="background:#ECE5D6;border:3px solid #141210"></div><div><div class="v">$500M</div><div class="d"><b>2022</b> Alameda buys about 7.8% of Anthropic</div></div></div>
+ <div class="it"><div class="ch" style="background:#141210"></div><div><div class="v">$1.34B</div><div class="d"><b>2024</b> FTX estate sells the whole stake</div></div></div>
+ <div class="it"><div class="ch" style="background:#C8322B"></div><div><div class="v">$8B</div><div class="d"><b>2022</b> FTX customer losses (since repaid 105 to 120% at 2022 prices)</div></div></div>
 </div>
 <div class="take"><img src="../../assets/zs-avatar.jpg"><div><small>ZACK'S TAKE</small><p>His best bet ever. Cashed by everyone else.</p></div></div>
 </body></html>
