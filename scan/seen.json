@@ -11315,5 +11315,99 @@
    "zack-sent"
   ],
   "first": "x:Pirat_Nation"
+ },
+ {
+  "key": "gta6-pc-port-cyberleek-xbox-dump-pcgamer-5540-leak-hit4-bench",
+  "flagged": "2026-11-20T15:55Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:pcmasterrace",
+   "reddit-rising:pcgaming",
+   "github",
+   "web:archetypeA"
+  ],
+  "first": "pcgamer 10:33Z"
+ },
+ {
+  "key": "rtx5090fe-destroyed-warranty-claim-videocardz-hit6-lowvel",
+  "flagged": "2026-11-20T15:55Z",
+  "hit": 6,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "x-watch:videocardz"
+  ],
+  "first": "x-watch:videocardz"
+ },
+ {
+  "key": "gta6-fake-steam-listing-pirat-scam-hit4-bench",
+  "flagged": "2026-11-20T15:55Z",
+  "hit": 4,
+  "lane": "steam-valve",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "gta6-uk-school-minibus-truants-dexerto-quirky-hit4-bench",
+  "flagged": "2026-11-20T15:55Z",
+  "hit": 4,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "google-android-dev-verification-forging-ahead-ars-hit6-lowvel",
+  "flagged": "2026-11-20T15:55Z",
+  "hit": 6,
+  "lane": "privacy-default",
+  "found_via": [
+   "bsky:arstechnica.com"
+  ],
+  "first": "bsky:arstechnica.com"
+ },
+ {
+  "key": "mhgu-unofficial-native-pc-port-240fps-wccftech-niche-hit3-bench",
+  "flagged": "2026-11-20T15:55Z",
+  "hit": 3,
+  "lane": "pc-unlock",
+  "found_via": [
+   "x-watch:wccftech"
+  ],
+  "first": "x-watch:wccftech"
+ },
+ {
+  "key": "gta6-gamers-girlfriend-rollingstone-culturewar-skip",
+  "flagged": "2026-11-20T15:55Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology"
+ },
+ {
+  "key": "pichai-ai-primitive-3-years-business-hit3-bench",
+  "flagged": "2026-11-20T15:55Z",
+  "hit": 3,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales"
+ },
+ {
+  "key": "nintendo-eu-ocarina-invite-only-collectible-hit3-bench",
+  "flagged": "2026-11-20T15:55Z",
+  "hit": 3,
+  "lane": "collectibles",
+  "found_via": [
+   "x-watch:Wario64",
+   "bsky:wario64.bsky.social"
+  ],
+  "first": "x-watch:Wario64"
  }
 ]
