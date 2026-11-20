@@ -11305,5 +11305,15 @@
    "zack-sent"
   ],
   "first": "Cointelegraph"
+ },
+ {
+  "key": "ssd-nand-prices-fall-20-bofa-posted",
+  "flagged": "2026-11-20T14:50Z",
+  "hit": 7,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "zack-sent"
+  ],
+  "first": "x:Pirat_Nation"
  }
 ]
