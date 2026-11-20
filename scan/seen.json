@@ -11295,5 +11295,15 @@
    "x-lane:L7"
   ],
   "first": "x-lane:L7"
+ },
+ {
+  "key": "sbf-anthropic-37b-interesting-posted",
+  "flagged": "2026-11-20T14:12Z",
+  "hit": null,
+  "lane": "interesting",
+  "found_via": [
+   "zack-sent"
+  ],
+  "first": "Cointelegraph"
  }
 ]
