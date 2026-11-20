@@ -11662,5 +11662,128 @@
    "reddit-new:pcmasterrace"
   ],
   "first": "reddit-new:pcmasterrace"
+ },
+ {
+  "key": "nadella-ai-why-60k-buyouts-business-hit5-bench",
+  "flagged": "2026-11-20T21:50Z",
+  "hit": 5,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "unusual_whales 20:17Z"
+ },
+ {
+  "key": "gamestop-boss-physical-discs-gta6-pcgamer-297-hit7-lowvel",
+  "flagged": "2026-11-20T21:50Z",
+  "hit": 7,
+  "lane": "ownership-rights",
+  "found_via": [
+   "reddit-rising:technology",
+   "x-lane:L6"
+  ],
+  "first": "PC Gamer"
+ },
+ {
+  "key": "gabe-wisdom-gta6-old-clip-steam-3037-recirc",
+  "flagged": "2026-11-20T21:50Z",
+  "hit": 0,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-rising:Steam"
+  ],
+  "first": "r/Steam"
+ },
+ {
+  "key": "gta6-pc-port-xbox-meme-video-pcmr-3825-recirc",
+  "flagged": "2026-11-20T21:50Z",
+  "hit": 0,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "r/pcmasterrace"
+ },
+ {
+  "key": "nvidia-stock-17mo-low-136-pcmr-1980-business-hit3-bench",
+  "flagged": "2026-11-20T21:50Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-rising:pcmasterrace",
+   "x-lane:L8"
+  ],
+  "first": "r/pcmasterrace"
+ },
+ {
+  "key": "circana-61pct-ps5-played-gta6-business-hit4-bench",
+  "flagged": "2026-11-20T21:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:PS5"
+  ],
+  "first": "Mat Piscatella bsky"
+ },
+ {
+  "key": "gta6-too-demanding-some-ps5-30fps-techpowerup-hit6-lowvel",
+  "flagged": "2026-11-20T21:50Z",
+  "hit": 6,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:TechPowerUp"
+  ],
+  "first": "TechPowerUp 21:11Z"
+ },
+ {
+  "key": "win11-android-phone-second-monitor-windowslatest-hit7-lowvel",
+  "flagged": "2026-11-20T21:50Z",
+  "hit": 7,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "x-watch:WindowsLatest"
+  ],
+  "first": "WindowsLatest 20:43Z"
+ },
+ {
+  "key": "ai-server-boards-drain-pcb-supply-techpowerup-hit5-bench",
+  "flagged": "2026-11-20T21:50Z",
+  "hit": 5,
+  "lane": "supply-chain",
+  "found_via": [
+   "x-watch:TechPowerUp"
+  ],
+  "first": "TechPowerUp 20:19Z"
+ },
+ {
+  "key": "gta6-vicki-goth-girl-dexerto-5050-quirky-hit4-bench",
+  "flagged": "2026-11-20T21:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto 20:22Z"
+ },
+ {
+  "key": "gta6-metacritic-user-score-reviews-skip",
+  "flagged": "2026-11-20T21:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "x-lane:L6",
+   "reddit-new:pcmasterrace"
+  ],
+  "first": "x"
+ },
+ {
+  "key": "amazon-ny-delivery-hike-labor-bill-politics-skip",
+  "flagged": "2026-11-20T21:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "r/technology"
  }
 ]
