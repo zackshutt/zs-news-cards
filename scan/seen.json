@@ -11785,5 +11785,125 @@
    "reddit-rising:technology"
   ],
   "first": "r/technology"
+ },
+ {
+  "key": "nvidia-621-35-hotfix-ssd-writes-nvidiacc-3866-hit7-pitched",
+  "hit": 7,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "x-watch:videocardz",
+   "x-lane:L3",
+   "x-vel:nvidia-hotfix",
+   "gn:nvidia-hotfix"
+  ],
+  "first": "@nvidiacc 22:01Z",
+  "flagged": "2026-11-20T23:50Z",
+  "outcome": "pitched"
+ },
+ {
+  "key": "gta6-3-79bn-houser-quote-r-gaming-21k-business-hit6-bench",
+  "hit": 6,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-rising:gaming",
+   "reddit-rising:PS5",
+   "reddit-rising:Games",
+   "reddit-rising:technology",
+   "x-lane:L9"
+  ],
+  "first": "Take-Two PR",
+  "flagged": "2026-11-20T23:50Z",
+  "outcome": "bench"
+ },
+ {
+  "key": "nvidia-stock-12pct-sec-probe-business-hit3-bench",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-rising:technology",
+   "reddit-rising:pcmasterrace",
+   "hn:front"
+  ],
+  "first": "Reuters",
+  "flagged": "2026-11-20T23:50Z",
+  "outcome": "bench"
+ },
+ {
+  "key": "anthropic-ipo-ai-wipeout-business-hit2-bench",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "Bloomberg",
+  "flagged": "2026-11-20T23:50Z",
+  "outcome": "bench"
+ },
+ {
+  "key": "gta6-metacritic-user-bomb-pirat-skip",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-lane:L6"
+  ],
+  "first": "Pirat_Nation",
+  "flagged": "2026-11-20T23:50Z",
+  "outcome": "skip"
+ },
+ {
+  "key": "gta6-fursuit-dexerto-1537-quirky-hit4-bench",
+  "hit": 4,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto",
+  "flagged": "2026-11-20T23:50Z",
+  "outcome": "bench"
+ },
+ {
+  "key": "jensen-wsj-parody-l8-skip",
+  "hit": 1,
+  "lane": "scene-named-people",
+  "found_via": [
+   "x-lane:L8"
+  ],
+  "first": "parody accounts",
+  "flagged": "2026-11-20T23:50Z",
+  "outcome": "skip"
+ },
+ {
+  "key": "grapheneos-google-bootloader-niche-hit4-bench",
+  "hit": 4,
+  "lane": "privacy-default",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "r/technology",
+  "flagged": "2026-11-20T23:50Z",
+  "outcome": "bench"
+ },
+ {
+  "key": "etsy-genai-policy-pcgamer-niche-hit2-bench",
+  "hit": 2,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "bsky:pcgamer.com"
+  ],
+  "first": "pcgamer",
+  "flagged": "2026-11-20T23:50Z",
+  "outcome": "bench"
+ },
+ {
+  "key": "wireless-battery-monitor-github-niche-hit3-bench",
+  "hit": 3,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "github"
+  ],
+  "first": "github",
+  "flagged": "2026-11-20T23:50Z",
+  "outcome": "bench"
  }
 ]
