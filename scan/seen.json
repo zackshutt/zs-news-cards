@@ -11123,5 +11123,177 @@
    "reddit-hot:videogames (29K, Zack-asked rescan 30h)"
   ],
   "first": "reddit:videogames 2026-11-19 ~07:30Z; PC Gamer ~23:30Z"
+ },
+ {
+  "key": "gta6-ps5-ce108255-liquid-metal-wccftech-fitfail-hit6-lowvel",
+  "flagged": "2026-11-20T13:50Z",
+  "hit": 6,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:wccftech",
+   "x-vel:gta6-ps5-crash",
+   "web:ce-108255-1"
+  ],
+  "first": "x-watch:wccftech"
+ },
+ {
+  "key": "steam-machine-buy-now-memory-costs-pcmr-2828-recirc",
+  "flagged": "2026-11-20T13:50Z",
+  "hit": 9,
+  "lane": "steam-valve",
+  "found_via": [
+   "reddit-rising:pcmasterrace",
+   "reddit-rising:technology",
+   "x-lane:L2",
+   "x-lane:L6"
+  ],
+  "first": "reddit-rising:pcmasterrace"
+ },
+ {
+  "key": "gta6-ps5pro-60fps-chambers-technology-1517-recirc",
+  "flagged": "2026-11-20T13:50Z",
+  "hit": 7,
+  "lane": "spec-confirmed",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology"
+ },
+ {
+  "key": "win11-baseline-protection-games-lockout-recirc",
+  "flagged": "2026-11-20T13:50Z",
+  "hit": 8,
+  "lane": "privacy-default",
+  "found_via": [
+   "reddit:pcgaming",
+   "reddit:pcmasterrace",
+   "web:baseline-protection"
+  ],
+  "first": "reddit:pcgaming"
+ },
+ {
+  "key": "steam-beta-offline-mode-easier-hit7-lowvel",
+  "flagged": "2026-11-20T13:50Z",
+  "hit": 7,
+  "lane": "steam-valve",
+  "found_via": [
+   "reddit:pcgaming",
+   "x-vel:steam-offline"
+  ],
+  "first": "reddit:pcgaming"
+ },
+ {
+  "key": "xbox-gta6-clip-autoupload-ban-recheck-hit7-lowvel",
+  "flagged": "2026-11-20T13:50Z",
+  "hit": 7,
+  "lane": "privacy-default",
+  "found_via": [
+   "x-vel:xbox-gta6-clip"
+  ],
+  "first": "x"
+ },
+ {
+  "key": "turkey-antitrust-playstation-probe-business-hit3-bench",
+  "flagged": "2026-11-20T13:50Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "x-lane:L6"
+  ],
+  "first": "x-lane:L6"
+ },
+ {
+  "key": "anthropic-staff-millionaires-ipo-business-hit2-bench",
+  "flagged": "2026-11-20T13:50Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "gta6-sa-remake-house-clue-dexerto-quirky-hit4-bench",
+  "flagged": "2026-11-20T13:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "gta6-sales-2-3bn-record-business-hit4-bench",
+  "flagged": "2026-11-20T13:50Z",
+  "hit": 4,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-rising:PS5",
+   "reddit:xbox",
+   "reddit:Games"
+  ],
+  "first": "reddit-rising:PS5"
+ },
+ {
+  "key": "micron-ceo-nvidia-2027-warning-gn-hit5-bench",
+  "flagged": "2026-11-20T13:50Z",
+  "hit": 5,
+  "lane": "supply-chain",
+  "found_via": [
+   "gn:Nvidia CEO"
+  ],
+  "first": "gn:Nvidia CEO"
+ },
+ {
+  "key": "signal-blocks-ai-agent-screenshots-verge-niche-hit4-bench",
+  "flagged": "2026-11-20T13:50Z",
+  "hit": 4,
+  "lane": "privacy-default",
+  "found_via": [
+   "bsky:theverge.com",
+   "x-lane:L4"
+  ],
+  "first": "bsky:theverge.com"
+ },
+ {
+  "key": "second-gpu-driver-ssd-writes-pcgamer-recirc",
+  "flagged": "2026-11-20T13:50Z",
+  "hit": 7,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "x-lane:L3",
+   "reddit:pcmasterrace"
+  ],
+  "first": "x-lane:L3"
+ },
+ {
+  "key": "frostbite-ai-designed-cpu-hn-niche-hit3-bench",
+  "flagged": "2026-11-20T13:50Z",
+  "hit": 3,
+  "lane": "ai-brain",
+  "found_via": [
+   "hn:front"
+  ],
+  "first": "hn:front"
+ },
+ {
+  "key": "fastunlock-narrator-lockscreen-0day-github-hack-hit3-bench",
+  "flagged": "2026-11-20T13:50Z",
+  "hit": 3,
+  "lane": "breach-hack",
+  "found_via": [
+   "github"
+  ],
+  "first": "github"
+ },
+ {
+  "key": "ps5-gta6-120fps-veyra-app-l7-niche-hit4-bench",
+  "flagged": "2026-11-20T13:50Z",
+  "hit": 4,
+  "lane": "pc-unlock",
+  "found_via": [
+   "x-lane:L7"
+  ],
+  "first": "x-lane:L7"
  }
 ]
