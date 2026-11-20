@@ -10837,5 +10837,108 @@
    "x-lane:L3"
   ],
   "first": "x"
+ },
+ {
+  "key": "win11-lockscreen-winu-bitlocker-zeroday-hack-hit4-bench",
+  "flagged": "2026-11-20T03:50Z",
+  "hit": 4,
+  "lane": "breach-hack",
+  "found_via": [
+   "reddit:technology"
+  ],
+  "first": "reddit:technology"
+ },
+ {
+  "key": "gabe-gta-design-review-old-quote-no-new-fact-hit6-recirc",
+  "flagged": "2026-11-20T03:50Z",
+  "hit": 6,
+  "lane": "steam-valve",
+  "found_via": [
+   "x-lane:L8"
+  ],
+  "first": "x-lane:L8"
+ },
+ {
+  "key": "xbox-nz-region-2m-ampere-pirat-logistics-hit4-bench",
+  "flagged": "2026-11-20T03:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "steam-machine-2tb-reservations-closed-pirat-recirc",
+  "flagged": "2026-11-20T03:50Z",
+  "hit": 7,
+  "lane": "steam-valve",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-lane:L2"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "win11-kb5132057-native-search-run-sticky-keys-hit7-lowvel",
+  "flagged": "2026-11-20T03:50Z",
+  "hit": 7,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "reddit-rising:Windows11"
+  ],
+  "first": "reddit-rising:Windows11"
+ },
+ {
+  "key": "lutnick-nvidia-democrats-family-business-politics-skip",
+  "flagged": "2026-11-20T03:50Z",
+  "hit": 0,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology"
+ },
+ {
+  "key": "ca-ag-nvidia-subpoena-china-diversion-business-hit2-bench",
+  "flagged": "2026-11-20T03:50Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit:technology",
+   "x-lane:L8"
+  ],
+  "first": "reddit:technology"
+ },
+ {
+  "key": "gamestop-cohen-digital-only-gta6-recheck-hit5-bench",
+  "flagged": "2026-11-20T03:50Z",
+  "hit": 5,
+  "lane": "ownership-rights",
+  "found_via": [
+   "x-lane:L6"
+  ],
+  "first": "x-lane:L6"
+ },
+ {
+  "key": "gemini-4-neon-google-ai-hn-hit3-bench",
+  "flagged": "2026-11-20T03:50Z",
+  "hit": 3,
+  "lane": "ai-brain",
+  "found_via": [
+   "hn:front",
+   "yt-name:Google AI"
+  ],
+  "first": "hn:front"
+ },
+ {
+  "key": "xenoblade3-switch2-update-niche-hit3-bench",
+  "flagged": "2026-11-20T03:50Z",
+  "hit": 3,
+  "lane": "nintendo",
+  "found_via": [
+   "reddit:NintendoSwitch"
+  ],
+  "first": "reddit:NintendoSwitch"
  }
 ]
