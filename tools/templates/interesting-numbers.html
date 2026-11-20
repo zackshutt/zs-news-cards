@@ -1,17 +1,18 @@
 <!doctype html><html><head><meta charset="utf-8"><style>
 *{margin:0;padding:0;box-sizing:border-box}
-body{width:1080px;height:1080px;background:#ECE5D6;color:#141210;font-family:Inter,sans-serif;position:relative;overflow:hidden}
-.grain{position:absolute;inset:0;opacity:.28;mix-blend-mode:multiply;pointer-events:none}
-.stamp{position:absolute;left:60px;top:54px;font:400 30px Anton;letter-spacing:.12em;color:#C8322B;border:4px solid #C8322B;padding:4px 14px 2px;transform:rotate(-3deg);border-radius:4px}
+body{width:1080px;height:1080px;background:#0e0d0c;color:#ECE5D6;font-family:Inter,sans-serif;position:relative;overflow:hidden}
+.stage{position:absolute;inset:0;transform:scale(.92);transform-origin:50% 50%}
+.grain{position:absolute;inset:0;opacity:.16;mix-blend-mode:screen;pointer-events:none}
+.stamp{position:absolute;left:60px;top:54px;font:400 30px Anton;letter-spacing:.12em;color:#E5483E;border:4px solid #E5483E;padding:4px 14px 2px;transform:rotate(-3deg);border-radius:4px}
 h1{position:absolute;left:60px;top:118px;width:960px;font:400 86px/0.98 Anton;text-transform:uppercase;letter-spacing:-.005em}
-h1 em{font-style:normal;color:#1E6B3A}
-.sub{position:absolute;left:60px;top:330px;font:600 22px Inter;color:#5a554b}
+h1 em{font-style:normal;color:#3DBE6E}
+.sub{position:absolute;left:60px;top:330px;font:600 22px Inter;color:#8f897d}
 .sq{position:absolute;left:60px;bottom:70px}
 .s{position:absolute;left:0;bottom:0}
-.s37{width:600px;height:600px;background:#1E6B3A}
-.s8{width:279px;height:279px;background:#C8322B}
-.s134{width:114px;height:114px;background:#141210}
-.s05{width:70px;height:70px;background:#ECE5D6;border:3px solid #141210}
+.s37{width:600px;height:600px;background:#1F7A44}
+.s8{width:279px;height:279px;background:#D63A30}
+.s134{width:114px;height:114px;background:#5f5a51}
+.s05{width:70px;height:70px;background:#ECE5D6;border:3px solid #0e0d0c}
 .big{position:absolute;right:26px;top:14px;font:400 150px/1 Anton;color:#ECE5D6}
 .bigl{position:absolute;right:30px;top:170px;font:700 22px Inter;color:#cfe3d4;text-align:right;letter-spacing:.04em}
 .mid{position:absolute;right:16px;top:12px;font:400 64px/1 Anton;color:#ECE5D6}
@@ -19,15 +20,15 @@ h1 em{font-style:normal;color:#1E6B3A}
 .it{display:flex;gap:14px;align-items:flex-start;margin-bottom:26px}
 .ch{flex:none;width:26px;height:26px;margin-top:8px}
 .v{font:400 44px/1 Anton}
-.d{font:600 19px/1.3 Inter;color:#4a463e;margin-top:4px}
-.d b{color:#141210}
-.take{position:absolute;left:700px;bottom:70px;width:320px;background:#141210;color:#ECE5D6;padding:18px 18px 18px 18px;display:flex;gap:14px;align-items:center}
-.take img{width:64px;height:64px;border-radius:50%;object-fit:cover;flex:none;border:3px solid #ECE5D6}
-.take small{display:block;font:700 14px Inter;letter-spacing:.14em;color:#b9b2a3;margin-bottom:4px}
+.d{font:600 19px/1.3 Inter;color:#a59f92;margin-top:4px}
+.d b{color:#ECE5D6}
+.take{position:absolute;left:700px;bottom:70px;width:320px;background:#ECE5D6;color:#0e0d0c;padding:18px 18px 18px 18px;display:flex;gap:14px;align-items:center}
+.take img{width:64px;height:64px;border-radius:50%;object-fit:cover;flex:none;border:3px solid #0e0d0c}
+.take small{display:block;font:700 14px Inter;letter-spacing:.14em;color:#6b665c;margin-bottom:4px}
 .take p{font:400 27px/1.08 Anton;text-transform:uppercase;letter-spacing:.01em}
 </style></head><body>
-<svg class="grain" width="1080" height="1080"><filter id="n"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="3" stitchTiles="stitch"/><feColorMatrix values="0 0 0 0 .3  0 0 0 0 .28  0 0 0 0 .24  0 0 0 .55 0"/></filter><rect width="100%" height="100%" filter="url(#n)"/></svg>
-<div class="stamp">INTERESTING</div>
+<svg class="grain" width="1080" height="1080"><filter id="n"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="3" stitchTiles="stitch"/><feColorMatrix values="0 0 0 0 .55  0 0 0 0 .52  0 0 0 0 .48  0 0 0 .4 0"/></filter><rect width="100%" height="100%" filter="url(#n)"/></svg>
+<div class="stage"><div class="stamp">INTERESTING</div>
 <h1>SBF's $500M Anthropic bet<br>is now worth <em>$37 billion</em></h1>
 <div class="sub">Every square is to scale.</div>
 <div class="sq" style="width:600px;height:600px">
@@ -37,9 +38,9 @@ h1 em{font-style:normal;color:#1E6B3A}
  <div class="s s05"></div>
 </div>
 <div class="leg">
- <div class="it"><div class="ch" style="background:#ECE5D6;border:3px solid #141210"></div><div><div class="v">$500M</div><div class="d"><b>2022</b> Alameda buys about 7.8% of Anthropic</div></div></div>
- <div class="it"><div class="ch" style="background:#141210"></div><div><div class="v">$1.34B</div><div class="d"><b>2024</b> FTX estate sells the whole stake</div></div></div>
- <div class="it"><div class="ch" style="background:#C8322B"></div><div><div class="v">$8B</div><div class="d"><b>2022</b> FTX customer losses (since repaid 105 to 120% at 2022 prices)</div></div></div>
+ <div class="it"><div class="ch" style="background:#ECE5D6"></div><div><div class="v">$500M</div><div class="d"><b>2022</b> Alameda buys about 7.8% of Anthropic</div></div></div>
+ <div class="it"><div class="ch" style="background:#5f5a51"></div><div><div class="v">$1.34B</div><div class="d"><b>2024</b> FTX estate sells the whole stake</div></div></div>
+ <div class="it"><div class="ch" style="background:#D63A30"></div><div><div class="v">$8B</div><div class="d"><b>2022</b> FTX customer losses (since repaid 105 to 120% at 2022 prices)</div></div></div>
 </div>
 <div class="take"><img src="../../assets/zs-avatar.jpg"><div><small>ZACK'S TAKE</small><p>His best bet ever. Cashed by everyone else.</p></div></div>
-</body></html>
+</div></body></html>
