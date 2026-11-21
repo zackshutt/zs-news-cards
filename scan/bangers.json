@@ -1,0 +1,19 @@
+{
+ "updated": "2026-11-21",
+ "note": "Reference set for the banger QC check. The weekly optimizer refreshes this every Sunday: top 6 per platform by 14-day ratio over the trailing 30 days (current design only), with real metrics. Paths are repo-root files.",
+ "fb": [
+  {"file": "2026-11-16-kfc-gta6-funeral-fb.png", "metric": "2.12M views", "why": "real absurd scene full-bleed (coffin), brand logo badge, one fake-obituary clip"},
+  {"file": "2026-11-17-gabe-gates-of-hell-fb.png", "metric": "1.52M views", "why": "famous face fills frame, one quote clip with highlighted words, villain/hero framing"},
+  {"file": "2026-11-05-discord-rust-fb.png", "metric": "1.33M views", "why": "giant brand logo on brand color, one UI receipt with the number boxed"},
+  {"file": "2026-11-18-nvidia-ssd-writes-fb.png", "metric": "1.27M views", "why": "the hardware itself full-bleed, one dark receipt with the number highlighted"},
+  {"file": "2026-11-16-nvidia-director-sold-fb.png", "metric": "1.19M views", "why": "famous face close-up, chart receipt with the sell marked, dollar figure in accent"},
+  {"file": "2026-11-04-altman-so-much-ram-v3-fb.png", "metric": "990K views", "why": "meme-able face close-up, recreated quote, said-vs-said headline"}
+ ],
+ "x": [
+  {"file": "2026-11-06-amd-dc-first-x2.png", "image1": "2026-11-06-amd-dc-first-xr.jpg", "metric": "2,709 likes", "why": "famous CEO quote as image 1, admission headline"},
+  {"file": "2026-11-07-ea-vault-x2.png", "image1": "2026-11-07-ea-vault-v2-xr.jpg", "metric": "1,714 likes", "why": "real photo of the find as image 1, nostalgia"},
+  {"file": "2026-11-09-amd-ssd-bug-x2.png", "image1": "2026-11-09-amd-ssd-bug-xr.jpg", "metric": "1,709 likes", "why": "your hardware as image 1, PSA with a check-yours step"},
+  {"file": "2026-11-04-altman-so-much-ram-v3-x2.png", "image1": "2026-11-04-altman-so-much-ram-v3-xr.jpg", "metric": "1,377 likes", "why": "face + quote, villain framing"},
+  {"file": "2026-11-18-nvidia-ssd-writes-x2.png", "image1": "2026-11-18-nvidia-ssd-writes-v2-xr.jpg", "metric": "2,757 likes", "why": "hardware + receipt, long detailed caption"}
+ ]
+}
