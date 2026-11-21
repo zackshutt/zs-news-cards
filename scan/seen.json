@@ -12513,5 +12513,16 @@
   ],
   "first": "github",
   "heat": null
+ },
+ {
+  "key": "gta6-120fps-smoovplay-ps5-stream-zack-sent-hit7-pitched",
+  "flagged": "2026-11-21T16:40Z",
+  "hit": 7,
+  "lane": "pc-unlock",
+  "found_via": [
+   "zack-sent:fb-videogamemes"
+  ],
+  "first": "wccftech Nov 17 16:10Z; Pirat_Nation",
+  "heat": null
  }
 ]
