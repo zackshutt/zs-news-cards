@@ -12631,5 +12631,100 @@
   ],
   "first": "x-lane:L9",
   "heat": null
+ },
+ {
+  "key": "gta6-ps5-too-demanding-ce108255-breakout-4606-mega-hit8-fitfail-lowvel",
+  "flagged": "2026-11-21T19:50Z",
+  "hit": 8,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-heat:HEATING",
+   "reddit-rising:technology",
+   "reddit-rising:PS5",
+   "gn:story"
+  ],
+  "first": "TechPowerUp Nov 20 21:10Z",
+  "heat": 6996
+ },
+ {
+  "key": "ms-patent-ai-rewrites-livestream-speech-lips-unusualwhales-653-patent-hit4-bench",
+  "flagged": "2026-11-21T19:50Z",
+  "hit": 4,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales",
+  "heat": null
+ },
+ {
+  "key": "gta6-traced-furry-artist-decal-dexerto-2281-hit4-bench",
+  "flagged": "2026-11-21T19:50Z",
+  "hit": 4,
+  "lane": "fandom-outrage",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto",
+  "heat": null
+ },
+ {
+  "key": "binding-of-isaac-dlc-ai-songs-review-bomb-dexerto-555-niche-hit3-bench",
+  "flagged": "2026-11-21T19:50Z",
+  "hit": 3,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto",
+  "heat": null
+ },
+ {
+  "key": "github-leonida-gta6-xbox-pc-recomp-1914-unverified-hit5-bench",
+  "flagged": "2026-11-21T19:50Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "github",
+   "x-lane:L4"
+  ],
+  "first": "github",
+  "heat": null
+ },
+ {
+  "key": "gta6-pc-port-hackers-cyberleek-pcmr-8229-heating-leak-hit3-bench",
+  "flagged": "2026-11-21T19:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit:pcmasterrace",
+  "heat": 5215
+ },
+ {
+  "key": "playstation-deep-discounts-steam-3327-heating-meme-hit5-bench",
+  "flagged": "2026-11-21T19:50Z",
+  "hit": 5,
+  "lane": "sony-anti-consumer",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:Steam"
+  ],
+  "first": "reddit:Steam",
+  "heat": 1952
+ },
+ {
+  "key": "gta6-cyguns-nonbinary-unkillable-pirat-culture-skip",
+  "flagged": "2026-11-21T19:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
  }
 ]
