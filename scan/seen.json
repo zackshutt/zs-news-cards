@@ -12524,5 +12524,112 @@
   ],
   "first": "wccftech Nov 17 16:10Z; Pirat_Nation",
   "heat": null
+ },
+ {
+  "key": "gta6-ps5-too-demanding-liquid-metal-tpu-breakout-2273-fitfail-hit6-lowvel",
+  "flagged": "2026-11-21T17:50Z",
+  "hit": 6,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-heat:HEATING",
+   "reddit-rising:PS5",
+   "reddit-rising:technology",
+   "gn:story"
+  ],
+  "first": "TechPowerUp Nov 20 21:10Z",
+  "heat": 3636
+ },
+ {
+  "key": "samsung-memory-booked-through-2029-wccftech-pirat-230-hit6-bench",
+  "flagged": "2026-11-21T17:50Z",
+  "hit": 6,
+  "lane": "supply-chain",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "gn:story"
+  ],
+  "first": "Wccftech Nov 21 12:34Z",
+  "heat": null
+ },
+ {
+  "key": "xbox2windows-series-x-static-recomp-github-578-hit5-bench",
+  "flagged": "2026-11-21T17:50Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "github"
+  ],
+  "first": "github",
+  "heat": null
+ },
+ {
+  "key": "gta6-cops-scare-players-heating-10335-hit4-bench",
+  "flagged": "2026-11-21T17:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:PS5"
+  ],
+  "first": "reddit",
+  "heat": 10335
+ },
+ {
+  "key": "la-noire-2-zodiac-leak-dexerto-1557-leak-hit2-bench",
+  "flagged": "2026-11-21T17:50Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto",
+  "heat": null
+ },
+ {
+  "key": "amd-zen6-desktop-computex-2027-rumor-pcmr-323-hit3-bench",
+  "flagged": "2026-11-21T17:50Z",
+  "hit": 3,
+  "lane": "supply-chain",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit",
+  "heat": 224
+ },
+ {
+  "key": "steam-deck-bricked-posts-meme-473-hit3-bench",
+  "flagged": "2026-11-21T17:50Z",
+  "hit": 3,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:SteamDeck"
+  ],
+  "first": "reddit",
+  "heat": 296
+ },
+ {
+  "key": "trump-jensen-apology-politics-skip",
+  "flagged": "2026-11-21T17:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "x-lane:L8"
+  ],
+  "first": "x-lane:L8",
+  "heat": null
+ },
+ {
+  "key": "ps-plus-black-friday-l9-403-deal-hit3-bench",
+  "flagged": "2026-11-21T17:50Z",
+  "hit": 3,
+  "lane": "engagement",
+  "found_via": [
+   "x-lane:L9"
+  ],
+  "first": "x-lane:L9",
+  "heat": null
  }
 ]
