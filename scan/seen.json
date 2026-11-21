@@ -12402,5 +12402,116 @@
    "x-watch:Pirat_Nation"
   ],
   "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "gta6-ps5-ce108255-tomwarren-2330-plays-best-hit6-lowvel",
+  "flagged": "2026-11-21T15:50Z",
+  "hit": 6,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:tomwarren",
+   "web:ce-108255-1"
+  ],
+  "first": "wccftech Nov 20",
+  "heat": null
+ },
+ {
+  "key": "gta6-zelda-oot-review-bomb-each-other-4356-hit4-bench",
+  "flagged": "2026-11-21T15:50Z",
+  "hit": 4,
+  "lane": "fandom-outrage",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch",
+  "heat": null
+ },
+ {
+  "key": "gta6-psych-profiles-anon-ex-rockstar-rumor-hit2-bench",
+  "flagged": "2026-11-21T15:50Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch",
+  "heat": null
+ },
+ {
+  "key": "ishowspeed-gta6-52h-stream-celebrity-skip",
+  "flagged": "2026-11-21T15:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch",
+  "heat": null
+ },
+ {
+  "key": "gta6-jjk-gojo-va-unaware-gta6-hit3-bench",
+  "flagged": "2026-11-21T15:50Z",
+  "hit": 3,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch",
+  "heat": null
+ },
+ {
+  "key": "gta6-xbox-quick-resume-60fps-1212-recheck-hit7-lowvel",
+  "flagged": "2026-11-21T15:50Z",
+  "hit": 7,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:wccftech"
+  ],
+  "first": "wccftech Nov 21",
+  "heat": null
+ },
+ {
+  "key": "playstation-steam-deeper-discounts-steam-1375-fitfail-hit6-bench",
+  "flagged": "2026-11-21T15:50Z",
+  "hit": 6,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "reddit-rising:Steam"
+  ],
+  "first": "reddit-rising:Steam",
+  "heat": null
+ },
+ {
+  "key": "tf2-prop-hunt-revisionist-l2-351-hit3-bench",
+  "flagged": "2026-11-21T15:50Z",
+  "hit": 3,
+  "lane": "steam-valve",
+  "found_via": [
+   "x-lane:L2"
+  ],
+  "first": "x-lane:L2",
+  "heat": null
+ },
+ {
+  "key": "hn-monitor-cut-download-75pct-hit2-bench",
+  "flagged": "2026-11-21T15:50Z",
+  "hit": 2,
+  "lane": "niche",
+  "found_via": [
+   "hn:front"
+  ],
+  "first": "hn",
+  "heat": null
+ },
+ {
+  "key": "github-wireless-battery-monitor-5676-niche-hit3-bench",
+  "flagged": "2026-11-21T15:50Z",
+  "hit": 3,
+  "lane": "niche",
+  "found_via": [
+   "github"
+  ],
+  "first": "github",
+  "heat": null
  }
 ]
