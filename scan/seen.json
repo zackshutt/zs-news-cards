@@ -12834,5 +12834,113 @@
   ],
   "first": "pcgamer",
   "heat": null
+ },
+ {
+  "key": "naughty-dog-gta6-bugatti-victorian-quote-ps5-5553-heating-fitfail-hit6-bench",
+  "flagged": "2026-11-21T23:50Z",
+  "hit": 6,
+  "lane": "exec-quote",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:PS5",
+   "gn:finalist"
+  ],
+  "first": "GamesRadar Nov 20 16:35Z",
+  "heat": 5358
+ },
+ {
+  "key": "gta6-ps5-crashes-block-progress-l1-260-hit6-lowvel",
+  "flagged": "2026-11-21T23:50Z",
+  "hit": 6,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "x-lane:L1",
+   "x-lane:L6"
+  ],
+  "first": "tomwarren Nov 20",
+  "heat": null
+ },
+ {
+  "key": "nintendo-no-switch2-price-hike-furukawa-old-nov5-recirc",
+  "flagged": "2026-11-21T23:50Z",
+  "hit": 7,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "x-lane:L5",
+   "gn:finalist"
+  ],
+  "first": "KitGuru Nov 5",
+  "heat": null
+ },
+ {
+  "key": "fsr41-gta6-xbox-year-wait-breakout-311-hit4-bench",
+  "flagged": "2026-11-21T23:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-rising:pcgaming"
+  ],
+  "first": "reddit",
+  "heat": 499
+ },
+ {
+  "key": "ubisoft-layoffs-166-despite-427m-business-hit2-bench",
+  "flagged": "2026-11-21T23:50Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit",
+  "heat": 703
+ },
+ {
+  "key": "jensen-lying-alarmed-board-resignation-gossip-hit1-bench",
+  "flagged": "2026-11-21T23:50Z",
+  "hit": 1,
+  "lane": "exec-gossip",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology",
+   "x-lane:L8"
+  ],
+  "first": "reddit:technology",
+  "heat": 257
+ },
+ {
+  "key": "gta6-burger-minigame-pirat-396-quirky-hit3-bench",
+  "flagged": "2026-11-21T23:50Z",
+  "hit": 3,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "comcast-gta6-quarter-internet-traffic-pcgamer-hit4-bench",
+  "flagged": "2026-11-21T23:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:pcgamer"
+  ],
+  "first": "x-watch:pcgamer",
+  "heat": null
+ },
+ {
+  "key": "riemann-ai-proof-technology-offtopic-skip",
+  "flagged": "2026-11-21T23:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "reddit",
+  "heat": 1099
  }
 ]
