@@ -12090,5 +12090,11 @@
    "reddit:Windows11"
   ],
   "first": "reddit:Windows11"
+ },
+ {
+  "key": "riot-valorant-twitch-record-gta6-lab",
+  "flagged": "2026-11-21T03:58Z",
+  "lane": "engagement",
+  "outcome": "lab"
  }
 ]
