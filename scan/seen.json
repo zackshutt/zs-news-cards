@@ -12146,5 +12146,145 @@
    "reddit-rising:technology"
   ],
   "first": "reddit-rising:technology"
+ },
+ {
+  "key": "rtx5090-defect-buffer-til-pcmr-537-fit-fail-hit6-bench",
+  "flagged": "2026-11-21T10:50Z",
+  "hit": 6,
+  "lane": "gpu",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit-rising:pcmasterrace"
+ },
+ {
+  "key": "nvidia-app-ugctracker-hdd-writes-forum-hit7-lowvel",
+  "flagged": "2026-11-21T10:50Z",
+  "hit": 7,
+  "lane": "privacy-default",
+  "found_via": [
+   "reddit:nvidia"
+  ],
+  "first": "nvidia-forums"
+ },
+ {
+  "key": "xbox-bans-gta6-auto-uploaded-clips-l4-hit7-lowvel",
+  "flagged": "2026-11-21T10:50Z",
+  "hit": 7,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "x-lane:L4"
+  ],
+  "first": "x-lane:L4"
+ },
+ {
+  "key": "dlss5-amd-mod-60pct-faster-videocardz-hit6-lowvel",
+  "flagged": "2026-11-21T10:50Z",
+  "hit": 6,
+  "lane": "pc-unlock",
+  "found_via": [
+   "x-watch:videocardz"
+  ],
+  "first": "x-watch:videocardz"
+ },
+ {
+  "key": "unreal-engine-6-drops-blueprints-verse-hit5-bench",
+  "flagged": "2026-11-21T10:50Z",
+  "hit": 5,
+  "lane": "indie-oddity",
+  "found_via": [
+   "x-watch:A"
+  ],
+  "first": "x-watch:A"
+ },
+ {
+  "key": "micron-cant-support-every-customer-recirc",
+  "flagged": "2026-11-21T10:50Z",
+  "hit": 5,
+  "lane": "supply-chain",
+  "found_via": [
+   "x-watch:A"
+  ],
+  "first": "x-watch:A"
+ },
+ {
+  "key": "gta6-no-60fps-any-console-ps5-pro-l1-recirc",
+  "flagged": "2026-11-21T10:50Z",
+  "hit": 6,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-lane:L1"
+  ],
+  "first": "x-lane:L1"
+ },
+ {
+  "key": "ff7-tifa-counterfeit-figures-arrests-hit2-bench",
+  "flagged": "2026-11-21T10:50Z",
+  "hit": 2,
+  "lane": "collectibles",
+  "found_via": [
+   "x-watch:A"
+  ],
+  "first": "x-watch:A"
+ },
+ {
+  "key": "ai-stock-selloff-nov20-business-hit1-bench",
+  "flagged": "2026-11-21T10:50Z",
+  "hit": 1,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:A"
+  ],
+  "first": "x-watch:A"
+ },
+ {
+  "key": "jensen-senate-testimony-business-hit3-bench",
+  "flagged": "2026-11-21T10:50Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "x-lane:L8"
+  ],
+  "first": "x-lane:L8"
+ },
+ {
+  "key": "fbi-crime-database-hacked-reddit-420-breach-skip",
+  "flagged": "2026-11-21T10:50Z",
+  "hit": 1,
+  "lane": "breach-hack",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology"
+ },
+ {
+  "key": "spain-datacenters-80pct-green-hit3-bench",
+  "flagged": "2026-11-21T10:50Z",
+  "hit": 3,
+  "lane": "supply-chain",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology"
+ },
+ {
+  "key": "gaming-game-within-game-5468-meme-hit1-bench",
+  "flagged": "2026-11-21T10:50Z",
+  "hit": 1,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-rising:gaming"
+  ],
+  "first": "reddit-rising:gaming"
+ },
+ {
+  "key": "github-fastunlock-narrator-0day-hack-skip",
+  "flagged": "2026-11-21T10:50Z",
+  "hit": 0,
+  "lane": "breach-hack",
+  "found_via": [
+   "github"
+  ],
+  "first": "github"
  }
 ]
