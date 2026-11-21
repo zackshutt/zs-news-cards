@@ -11905,5 +11905,110 @@
   "first": "github",
   "flagged": "2026-11-20T23:50Z",
   "outcome": "bench"
+ },
+ {
+  "key": "micron-cant-support-every-customer-apple-samsung-dram-hit5-bench",
+  "flagged": "2026-11-21T01:50Z",
+  "hit": 5,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "reddit-rising:hardware",
+   "reddit-rising:technology",
+   "web:archetypeA"
+  ],
+  "first": "reddit-rising:hardware"
+ },
+ {
+  "key": "gta6-infinite-money-glitch-dexerto-230-quirky-hit4-bench",
+  "flagged": "2026-11-21T01:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "gta6-xbox-new-zealand-region-trick-l6-hit5-lowvel",
+  "flagged": "2026-11-21T01:50Z",
+  "hit": 5,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-lane:L6"
+  ],
+  "first": "x-lane:L6"
+ },
+ {
+  "key": "steam-errands-weekend-banter-l9-2699-skip",
+  "flagged": "2026-11-21T01:50Z",
+  "hit": 2,
+  "lane": "brand-banter",
+  "found_via": [
+   "x-lane:L9"
+  ],
+  "first": "x-lane:L9"
+ },
+ {
+  "key": "inkling-2-mini-local-llm-hn-niche-hit3-bench",
+  "flagged": "2026-11-21T01:50Z",
+  "hit": 3,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "hn:front",
+   "x-lane:L7"
+  ],
+  "first": "hn:front"
+ },
+ {
+  "key": "crowdstrike-zscaler-talks-business-hit1-bench",
+  "flagged": "2026-11-21T01:50Z",
+  "hit": 1,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales"
+ },
+ {
+  "key": "powershell7-default-replaces-5-1-hit3-bench",
+  "flagged": "2026-11-21T01:50Z",
+  "hit": 3,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology"
+ },
+ {
+  "key": "nvidia-621-35-hotfix-reddit-pcgaming-614-recirc",
+  "flagged": "2026-11-21T01:50Z",
+  "hit": 7,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "reddit-rising:pcgaming",
+   "x-lane:L3",
+   "x-watch:TechPowerUp"
+  ],
+  "first": "reddit-rising:pcgaming"
+ },
+ {
+  "key": "jensen-exit-investors-fear-pcmr-386-business-recirc",
+  "flagged": "2026-11-21T01:50Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit-rising:pcmasterrace"
+ },
+ {
+  "key": "trump-ai-datacentres-overseas-ban-politics-skip",
+  "flagged": "2026-11-21T01:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology"
  }
 ]
