@@ -12096,5 +12096,55 @@
   "flagged": "2026-11-21T03:58Z",
   "lane": "engagement",
   "outcome": "lab"
+ },
+ {
+  "key": "neuralink-gta6-thoughts-pirat-597-hit5-bench",
+  "flagged": "2026-11-21T05:50Z",
+  "hit": 5,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "switch2-warranty-refused-youtuber-49k-hit4-bench",
+  "flagged": "2026-11-21T05:50Z",
+  "hit": 4,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "yt-topic:Nintendo Switch 2 news"
+  ],
+  "first": "yt-topic:Nintendo Switch 2 news"
+ },
+ {
+  "key": "gta6-pc-files-leak-200gb-gamestar-hit3-bench",
+  "flagged": "2026-11-21T05:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "yt-topic:Steam news"
+  ],
+  "first": "yt-topic:Steam news"
+ },
+ {
+  "key": "tesla-fsd-china-laptop-spoof-hit3-bench",
+  "flagged": "2026-11-21T05:50Z",
+  "hit": 3,
+  "lane": "pc-unlock",
+  "found_via": [
+   "x-lane:L7"
+  ],
+  "first": "x-lane:L7"
+ },
+ {
+  "key": "technology-ai-everything-falling-apart-2995-hit2-bench",
+  "flagged": "2026-11-21T05:50Z",
+  "hit": 2,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology"
  }
 ]
