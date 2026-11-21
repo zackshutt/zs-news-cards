@@ -12726,5 +12726,113 @@
   ],
   "first": "x-watch:Pirat_Nation",
   "heat": null
+ },
+ {
+  "key": "gta6-leicester-five-copies-code-in-box-bbc-breakout-3316-hit8-pitched",
+  "flagged": "2026-11-21T21:56Z",
+  "hit": 8,
+  "lane": "ownership-rights",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-heat:HEATING",
+   "reddit-rising:technology",
+   "reddit-rising:PS5",
+   "reddit-rising:gaming",
+   "gn:finalist"
+  ],
+  "first": "BBC Nov 20 06:30Z",
+  "heat": 6999
+ },
+ {
+  "key": "psn-gta6-nudist-photo-30day-chat-ban-dexerto-871-userreport-hit6-fitfail-bench",
+  "flagged": "2026-11-21T21:56Z",
+  "hit": 6,
+  "lane": "sony-anti-consumer",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto 20:30Z",
+  "heat": null
+ },
+ {
+  "key": "google-android-dev-verification-jan2027-pirat-769-old-nov19-hit6-bench",
+  "flagged": "2026-11-21T21:56Z",
+  "hit": 6,
+  "lane": "ownership-rights",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "gn:finalist"
+  ],
+  "first": "Ars Nov 19 18:00Z",
+  "heat": null
+ },
+ {
+  "key": "jensen-nyt-berated-employees-technology-850-gossip-hit2-bench",
+  "flagged": "2026-11-21T21:56Z",
+  "hit": 2,
+  "lane": "exec-gossip",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "NYT",
+  "heat": 1018
+ },
+ {
+  "key": "xbox-series-emulator-gta6-omonkeyz-pcmr-2164-heating-hit5-bench",
+  "flagged": "2026-11-21T21:56Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace",
+   "github"
+  ],
+  "first": "github omonkeyz",
+  "heat": 1792
+ },
+ {
+  "key": "leonida-gta6-xbox-pc-recomp-github-3542-unverified-hit5-bench",
+  "flagged": "2026-11-21T21:56Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "github"
+  ],
+  "first": "github ItsNotRexed",
+  "heat": null
+ },
+ {
+  "key": "gta6-82yo-retirement-home-drug-run-dexerto-695-quirky-hit4-bench",
+  "flagged": "2026-11-21T21:56Z",
+  "hit": 4,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto",
+  "heat": null
+ },
+ {
+  "key": "anthropic-meta-carlson-books-lawsuit-pirat-146-hit2-bench",
+  "flagged": "2026-11-21T21:56Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "ubisoft-motherbrain-ai-subsidiary-pcgamer-hit3-bench",
+  "flagged": "2026-11-21T21:56Z",
+  "hit": 3,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "x-watch:pcgamer"
+  ],
+  "first": "pcgamer",
+  "heat": null
  }
 ]
