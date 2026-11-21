@@ -12286,5 +12286,121 @@
    "github"
   ],
   "first": "github"
+ },
+ {
+  "key": "gta6-ultimate-locked-shops-ign-pirat-hit8-pitched",
+  "flagged": "2026-11-21T13:50Z",
+  "hit": 8,
+  "lane": "ownership-rights",
+  "found_via": [
+   "gn:story",
+   "x-watch:Pirat_Nation",
+   "x-lane:L6"
+  ],
+  "first": "IGN"
+ },
+ {
+  "key": "gta6-xbox-quick-resume-60fps-double-speed-wccftech-1689-hit7-lowvel",
+  "flagged": "2026-11-21T13:50Z",
+  "hit": 7,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:wccftech",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "wccftech"
+ },
+ {
+  "key": "xbox-psn-gta6-clip-suspensions-pirat-402-hit7-lowvel",
+  "flagged": "2026-11-21T13:50Z",
+  "hit": 7,
+  "lane": "privacy-default",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "reddit-new:Games"
+  ],
+  "first": "x-watch:Pirat_Nation"
+ },
+ {
+  "key": "kfc-spain-gta6-chicken-disc-dexerto-845-quirky-hit5-bench",
+  "flagged": "2026-11-21T13:50Z",
+  "hit": 5,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Dexerto",
+   "x-lane:L6"
+  ],
+  "first": "x-watch:Dexerto"
+ },
+ {
+  "key": "ram-dramatic-drop-mid-2027-pcmr-1722-recirc",
+  "flagged": "2026-11-21T13:50Z",
+  "hit": 6,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit-rising:pcmasterrace"
+ },
+ {
+  "key": "indie-more-players-than-gta6-pcmr-6641-recirc",
+  "flagged": "2026-11-21T13:50Z",
+  "hit": 3,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit-rising:pcmasterrace"
+ },
+ {
+  "key": "gta6-cops-scare-players-technology-1773-hit4-bench",
+  "flagged": "2026-11-21T13:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology"
+ },
+ {
+  "key": "gta6-apartment-complex-videogames-4016-meme-hit2-bench",
+  "flagged": "2026-11-21T13:50Z",
+  "hit": 2,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-rising:videogames"
+  ],
+  "first": "reddit-rising:videogames"
+ },
+ {
+  "key": "gta6-exe-leak-cyberleek-pcmr-1439-leak-hit2-bench",
+  "flagged": "2026-11-21T13:50Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit-rising:pcmasterrace"
+ },
+ {
+  "key": "nvidia-sec-accounting-stock-l8-business-hit1-bench",
+  "flagged": "2026-11-21T13:50Z",
+  "hit": 1,
+  "lane": "business-finance",
+  "found_via": [
+   "x-lane:L8",
+   "yt-name:Nvidia Jensen Huang"
+  ],
+  "first": "x-lane:L8"
+ },
+ {
+  "key": "apex-legends-1000-false-bans-pirat-124-hit3-bench",
+  "flagged": "2026-11-21T13:50Z",
+  "hit": 3,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation"
  }
 ]
