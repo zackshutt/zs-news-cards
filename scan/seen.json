@@ -13024,5 +13024,99 @@
   ],
   "first": "reddit:gaming",
   "heat": 1297
+ },
+ {
+  "key": "proshop-rtx5090fe-disposed-pirat-1039-old-nov19-gripe-hit6-lowvel",
+  "flagged": "2026-11-22T03:45Z",
+  "hit": 6,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:videocardz",
+  "heat": null
+ },
+ {
+  "key": "comcast-gta6-quarter-internet-traffic-heating-2025-logistics-hit4-bench",
+  "flagged": "2026-11-22T03:45Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "x-watch:pcgamer",
+  "heat": 1629
+ },
+ {
+  "key": "naughty-dog-gta6-quote-heating-10131-recheck-hit6-bench",
+  "flagged": "2026-11-22T03:45Z",
+  "hit": 6,
+  "lane": "scene-named-people",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:Games",
+   "reddit-rising:PS5"
+  ],
+  "first": "reddit-rising:PS5",
+  "heat": 6077
+ },
+ {
+  "key": "gta6-album-biggest-opening-day-heating-1296-hit3-bench",
+  "flagged": "2026-11-22T03:45Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:PS5"
+  ],
+  "first": "reddit-rising:PS5",
+  "heat": 1563
+ },
+ {
+  "key": "intel-nova-lake-28core-breakout-93-leak-hit2-bench",
+  "flagged": "2026-11-22T03:45Z",
+  "hit": 2,
+  "lane": "supply-chain",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-rising:hardware"
+  ],
+  "first": "reddit-rising:hardware",
+  "heat": 203
+ },
+ {
+  "key": "steam-refund-gta-pc-quote-meme-l2-1331-hit2-bench",
+  "flagged": "2026-11-22T03:45Z",
+  "hit": 2,
+  "lane": "steam-valve",
+  "found_via": [
+   "x-lane:L2"
+  ],
+  "first": "x-lane:L2",
+  "heat": null
+ },
+ {
+  "key": "japan-nokia-dumbphone-dexerto-227-niche-hit2-bench",
+  "flagged": "2026-11-22T03:45Z",
+  "hit": 2,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto",
+  "heat": null
+ },
+ {
+  "key": "prisons-jam-phones-ctia-heating-430-offtopic-skip",
+  "flagged": "2026-11-22T03:45Z",
+  "hit": 0,
+  "lane": "none",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology",
+  "heat": 514
  }
 ]
