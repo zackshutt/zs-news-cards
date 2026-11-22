@@ -13213,5 +13213,94 @@
   ],
   "first": "reddit:pcmasterrace",
   "heat": 351
+ },
+ {
+  "key": "gta6-data-collection-whistleblower-pcmr-626-unverified-hit3-bench",
+  "flagged": "2026-11-22T10:50Z",
+  "hit": 3,
+  "lane": "privacy-default",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit:pcmasterrace",
+  "heat": 208
+ },
+ {
+  "key": "amd-rx9070-chrome-youtube-driver-timeouts-l3-28-hit5-bench",
+  "flagged": "2026-11-22T10:50Z",
+  "hit": 5,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "x-lane:L3"
+  ],
+  "first": "x-lane:L3",
+  "heat": null
+ },
+ {
+  "key": "eu-adviser-facebook-not-free-data-technology-585-offtopic-hit3-bench",
+  "flagged": "2026-11-22T10:50Z",
+  "hit": 3,
+  "lane": "privacy-default",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit:technology",
+  "heat": 232
+ },
+ {
+  "key": "gattuso-gta6-quote-l1-245-celebrity-skip",
+  "flagged": "2026-11-22T10:50Z",
+  "hit": 1,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-lane:L1"
+  ],
+  "first": "x-lane:L1",
+  "heat": null
+ },
+ {
+  "key": "comcast-gta6-quarter-internet-traffic-heating-4932-recheck-logistics-hit4-bench",
+  "flagged": "2026-11-22T10:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "pcgamer",
+  "heat": 703
+ },
+ {
+  "key": "leonida-gta6-xbox-pc-recomp-github-8959-recheck-unverified-hit5-bench",
+  "flagged": "2026-11-22T10:50Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "github"
+  ],
+  "first": "github",
+  "heat": null
+ },
+ {
+  "key": "fastunlock-windows-narrator-lockscreen-0day-github-662-hack-hit4-bench",
+  "flagged": "2026-11-22T10:50Z",
+  "hit": 4,
+  "lane": "breach-hack",
+  "found_via": [
+   "github"
+  ],
+  "first": "github",
+  "heat": null
+ },
+ {
+  "key": "bethesda-wasteland-cats-hidden-object-dexerto-121-niche-hit2-bench",
+  "flagged": "2026-11-22T10:50Z",
+  "hit": 2,
+  "lane": "indie-oddity",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto",
+  "heat": null
  }
 ]
