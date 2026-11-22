@@ -13302,5 +13302,88 @@
   ],
   "first": "x-watch:Dexerto",
   "heat": null
+ },
+ {
+  "key": "nvidia-621-35-hotfix-still-writes-36gb-pirat-401-hit8-pitched",
+  "flagged": "2026-11-22T13:50Z",
+  "hit": 8,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-lane:L3",
+   "x-watch:wccftech",
+   "x-vel:nvidia-hotfix-ssd",
+   "gn:nvidia-hotfix-ssd"
+  ],
+  "first": "joho_no_todai (JP) 09:37Z; Neowin 11:48Z; wccftech 12:39Z; Pirat 13:03Z",
+  "heat": null
+ },
+ {
+  "key": "witcher4-physical-release-cdpr-ceo-ps5-320-hit6-lowvel",
+  "flagged": "2026-11-22T13:50Z",
+  "hit": 6,
+  "lane": "ownership-rights",
+  "found_via": [
+   "reddit-rising:PS5",
+   "reddit-heat:none"
+  ],
+  "first": "reddit:PS5",
+  "heat": 151
+ },
+ {
+  "key": "microsoft-killing-apps-windowscentral-w11-96-hit5-bench",
+  "flagged": "2026-11-22T13:50Z",
+  "hit": 5,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "reddit-new:Windows11"
+  ],
+  "first": "reddit:Windows11",
+  "heat": 67
+ },
+ {
+  "key": "activision-ai-npc-trashtalk-patent-pirat-252-hit3-bench",
+  "flagged": "2026-11-22T13:50Z",
+  "hit": 3,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "umamusume-ramen-tsujita-dexerto-2002-niche-hit1-bench",
+  "flagged": "2026-11-22T13:50Z",
+  "hit": 1,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto",
+  "heat": null
+ },
+ {
+  "key": "gta6-xbox-emulation-pc-videocardz-154-recheck-unverified-hit5-bench",
+  "flagged": "2026-11-22T13:50Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "x-watch:videocardz",
+   "x-lane:L4"
+  ],
+  "first": "x-watch:videocardz",
+  "heat": null
+ },
+ {
+  "key": "meta-carbon-emissions-45pct-ai-technology-119-offtopic-hit2-bench",
+  "flagged": "2026-11-22T13:50Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit:technology",
+  "heat": 40
  }
 ]
