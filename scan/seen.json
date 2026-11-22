@@ -13131,5 +13131,87 @@
   "heat": null,
   "posted_by": "lab",
   "id": "656551117547269_122206819052913141"
+ },
+ {
+  "key": "rockstar-donkin-stop-checklist-gta6-pirat-453-quote-hit5-bench",
+  "flagged": "2026-11-22T05:45Z",
+  "hit": 5,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "alice-huang-spying-jensen-china-technology-357-gossip-hit2-bench",
+  "flagged": "2026-11-22T05:45Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "reddit:technology",
+  "heat": 269
+ },
+ {
+  "key": "china-gta6-not-sold-gamers-try-technology-329-hit3-bench",
+  "flagged": "2026-11-22T05:45Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "reddit:technology",
+  "heat": 313
+ },
+ {
+  "key": "steam-controller-rc-car-pcmr-339-quirky-hit3-bench",
+  "flagged": "2026-11-22T05:45Z",
+  "hit": 3,
+  "lane": "quirky-product",
+  "found_via": [
+   "reddit-heat:HEATING"
+  ],
+  "first": "reddit:pcmasterrace",
+  "heat": 250
+ },
+ {
+  "key": "musk-starlink-ukraine-democrats-politics-skip",
+  "flagged": "2026-11-22T05:45Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "reddit:technology",
+  "heat": 2398
+ },
+ {
+  "key": "switch2-mkw-bundle-499-walmart-deal-wario-70-hit3-bench",
+  "flagged": "2026-11-22T05:45Z",
+  "hit": 3,
+  "lane": "nintendo",
+  "found_via": [
+   "x-watch:Wario64",
+   "x-lane:L5",
+   "bsky:wario64"
+  ],
+  "first": "Wario64",
+  "heat": null
+ },
+ {
+  "key": "one-byte-ram-1946-pcmr-540-meme-hit2-bench",
+  "flagged": "2026-11-22T05:45Z",
+  "hit": 2,
+  "lane": "retro-find",
+  "found_via": [
+   "reddit-heat:HEATING"
+  ],
+  "first": "reddit:pcmasterrace",
+  "heat": 351
  }
 ]
