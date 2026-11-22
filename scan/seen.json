@@ -13726,5 +13726,90 @@
   ],
   "first": "Bloomberg",
   "heat": 7399
+ },
+ {
+  "key": "rtx5090-scalper-ca9500-pcmr-3089-heating-hit8-pitched",
+  "flagged": "2026-11-22T21:50Z",
+  "hit": 8,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace",
+   "x-watch:videocardz",
+   "gn:finalist"
+  ],
+  "first": "GameGPU_com X 13:29Z",
+  "heat": 2501
+ },
+ {
+  "key": "amodei-video-games-pacify-technology-2336-gate-hit6-bench",
+  "flagged": "2026-11-22T21:50Z",
+  "hit": 6,
+  "lane": "exec-quote",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology",
+   "x-lane:L8",
+   "gn:finalist"
+  ],
+  "first": "WSJ Nov 21 02:00Z",
+  "heat": 2327
+ },
+ {
+  "key": "leonida-gta6-recomp-github-14086-recheck-unverified-hit5-bench",
+  "flagged": "2026-11-22T21:50Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "github",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "github",
+  "heat": null
+ },
+ {
+  "key": "switch2-mkw-bundle-50-off-bf-official-838-deal-hit5-bench",
+  "flagged": "2026-11-22T21:50Z",
+  "hit": 5,
+  "lane": "nintendo",
+  "found_via": [
+   "x-lane:L5"
+  ],
+  "first": "NintendoAmerica X",
+  "heat": null
+ },
+ {
+  "key": "win7-dx12-vulkan-rtx50-unofficial-l7-24-hit6-lowvel",
+  "flagged": "2026-11-22T21:50Z",
+  "hit": 6,
+  "lane": "pc-unlock",
+  "found_via": [
+   "x-lane:L7"
+  ],
+  "first": "tomshardware",
+  "heat": null
+ },
+ {
+  "key": "pcmr-either-way-screwed-meme-4485-heating-hit1-bench",
+  "flagged": "2026-11-22T21:50Z",
+  "hit": 1,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit",
+  "heat": 2388
+ },
+ {
+  "key": "model-collapse-technology-2409-heating-offtopic-skip",
+  "flagged": "2026-11-22T21:50Z",
+  "hit": 2,
+  "lane": null,
+  "found_via": [
+   "reddit-heat:HEATING"
+  ],
+  "first": "reddit",
+  "heat": 2078
  }
 ]
