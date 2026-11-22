@@ -13397,5 +13397,107 @@
   ],
   "first": "The Game Business Aug 2026",
   "heat": 151
+ },
+ {
+  "key": "gta6-dev-memorial-mother-dexerto-10263-deaths-hit5-bench",
+  "flagged": "2026-11-22T15:50Z",
+  "hit": 5,
+  "lane": "engagement",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto (dev's Instagram)",
+  "heat": null
+ },
+ {
+  "key": "gta6-xbox-quick-resume-uncapped-tomwarren-466-fitfail-hit7-bench",
+  "flagged": "2026-11-22T15:50Z",
+  "hit": 7,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:tomwarren"
+  ],
+  "first": "tomwarren",
+  "heat": null
+ },
+ {
+  "key": "gta6-metacritic-user-5-6-pirat-1972-reviews-skip",
+  "flagged": "2026-11-22T15:50Z",
+  "hit": 4,
+  "lane": "fandom-outrage",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "jordan-block-gta6-trc-pirat-197-politics-hit4-bench",
+  "flagged": "2026-11-22T15:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Roya News",
+  "heat": null
+ },
+ {
+  "key": "steam-vpn-blocks-refund-til-heating-230-hit5-bench",
+  "flagged": "2026-11-22T15:50Z",
+  "hit": 5,
+  "lane": "steam-valve",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:Steam"
+  ],
+  "first": "r/Steam",
+  "heat": 274
+ },
+ {
+  "key": "win11-coding-agents-telemetry-l4-36-recheck-hit6-bench",
+  "flagged": "2026-11-22T15:50Z",
+  "hit": 6,
+  "lane": "privacy-default",
+  "found_via": [
+   "x-lane:L4"
+  ],
+  "first": "researcher",
+  "heat": null
+ },
+ {
+  "key": "eu-adviser-facebook-not-free-heating-1896-recheck-offtopic-hit3-bench",
+  "flagged": "2026-11-22T15:50Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "r/technology",
+  "heat": 1312
+ },
+ {
+  "key": "rockstar-gta6-xbox-series-s-runs-well-heating-318-hit3-bench",
+  "flagged": "2026-11-22T15:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:xbox"
+  ],
+  "first": "r/xbox",
+  "heat": 390
+ },
+ {
+  "key": "leonida-gta6-recomp-github-11442-recheck-unverified-hit5-bench",
+  "flagged": "2026-11-22T15:50Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "github"
+  ],
+  "first": "github",
+  "heat": null
  }
 ]
