@@ -48,7 +48,7 @@ W = 1080
 
 def geom(spec):
     square = spec.get("format") == "square"
-    H = 1080 if square else 1350
+    H = 1080 if square else (1536 if spec.get("format") == "tall" else 1350)
     has_take = bool(spec.get("take"))
     pe = spec.get("photo_end") or ((0.55 if has_take else 0.64) if square else (0.63 if has_take else 0.70))
     return H, pe, H * pe
@@ -296,7 +296,7 @@ def qc(fb, x1, x2, out=None, cutout_ok=False):
     for p, want in [(fb, (1080, 1350)), (x1, (1080, 1080)), (x2, (1080, 1080))]:
         if p and Path(p).exists():
             sz = Image.open(p).size
-            if sz != want:
+            if sz != want and not (want == (1080, 1080) and sz == (1080, 1536)):  # tall X arm (x-tall-vs-square, Nov 22)
                 fails.append(f"{Path(p).name} is {sz[0]}x{sz[1]}, expected {want[0]}x{want[1]}")
     if x1 and Path(x1).exists():
         g = flat_bg_cutout_check(x1)
