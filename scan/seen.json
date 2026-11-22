@@ -13385,5 +13385,17 @@
   ],
   "first": "reddit:technology",
   "heat": 40
+ },
+ {
+  "key": "witcher4-physical-box-cdpr-ceo-aug-recirc-hit6-posted",
+  "flagged": "2026-11-22T14:20Z",
+  "hit": 6,
+  "lane": "ownership-rights",
+  "found_via": [
+   "reddit-rising:PS5",
+   "morning-board"
+  ],
+  "first": "The Game Business Aug 2026",
+  "heat": 151
  }
 ]
