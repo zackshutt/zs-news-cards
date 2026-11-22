@@ -12942,5 +12942,87 @@
   ],
   "first": "reddit",
   "heat": 1099
+ },
+ {
+  "key": "rockstar-gta6-narrative-lead-bad-luck-quote-pirat-219-hit4-bench",
+  "flagged": "2026-11-22T01:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "leonida-gta6-xbox-pc-recomp-github-5888-unverified-hit5-bench",
+  "flagged": "2026-11-22T01:50Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "github",
+   "x-lane:L3"
+  ],
+  "first": "github",
+  "heat": null
+ },
+ {
+  "key": "df-why-no-fsr4-series-x-gta6-xbox-219-hit4-bench",
+  "flagged": "2026-11-22T01:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:xbox"
+  ],
+  "first": "reddit:xbox",
+  "heat": 109
+ },
+ {
+  "key": "anyps5-github-ps5-games-windows-claim-l6-unverified-hit2-bench",
+  "flagged": "2026-11-22T01:50Z",
+  "hit": 2,
+  "lane": "pc-unlock",
+  "found_via": [
+   "x-lane:L6"
+  ],
+  "first": "x-lane:L6",
+  "heat": null
+ },
+ {
+  "key": "aisin-ai-chip-no-dram-technology-537-offtopic-hit2-bench",
+  "flagged": "2026-11-22T01:50Z",
+  "hit": 2,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "reddit:technology",
+  "heat": 336
+ },
+ {
+  "key": "doritos-ai-gun-alert-lawsuit-technology-2321-offtopic-skip",
+  "flagged": "2026-11-22T01:50Z",
+  "hit": 0,
+  "lane": "none",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "reddit:technology",
+  "heat": 1308
+ },
+ {
+  "key": "90s-online-gaming-designer-gaming-3186-meme-hit1-bench",
+  "flagged": "2026-11-22T01:50Z",
+  "hit": 1,
+  "lane": "none",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:gaming"
+  ],
+  "first": "reddit:gaming",
+  "heat": 1297
  }
 ]
