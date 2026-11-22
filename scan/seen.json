@@ -13499,5 +13499,145 @@
   ],
   "first": "github",
   "heat": null
+ },
+ {
+  "key": "microsoft-killing-apps-heating-2421-cards-built-recirc",
+  "flagged": "2026-11-22T17:50Z",
+  "hit": 5,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace",
+   "reddit-rising:Windows11"
+  ],
+  "first": "reddit-rising:Windows11",
+  "heat": 2304
+ },
+ {
+  "key": "gta6-no-darts-bowling-rockstar-nelson-pirat-1392-hit4-bench",
+  "flagged": "2026-11-22T17:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "steam-machine-waitlists-closed-l2-14-old-nov20-recirc",
+  "flagged": "2026-11-22T17:50Z",
+  "hit": 7,
+  "lane": "steam-valve",
+  "found_via": [
+   "x-lane:L2",
+   "web:archetypeA"
+  ],
+  "first": "gamesradar Nov 20",
+  "heat": null
+ },
+ {
+  "key": "rtx5090-scalper-140k-prices-fall-videocardz-84-hit5-bench",
+  "flagged": "2026-11-22T17:50Z",
+  "hit": 5,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "x-watch:videocardz"
+  ],
+  "first": "x-watch:videocardz",
+  "heat": null
+ },
+ {
+  "key": "openai-pretraining-transparency-sama-1630-business-hit2-bench",
+  "flagged": "2026-11-22T17:50Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:sama"
+  ],
+  "first": "x-watch:sama",
+  "heat": null
+ },
+ {
+  "key": "clash-royale-hires-cheat-dev-dexerto-1225-niche-hit3-bench",
+  "flagged": "2026-11-22T17:50Z",
+  "hit": 3,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto",
+  "heat": null
+ },
+ {
+  "key": "china-spy-ai-chip-smuggling-nyt-l8-politics-skip",
+  "flagged": "2026-11-22T17:50Z",
+  "hit": 1,
+  "lane": "business-finance",
+  "found_via": [
+   "x-lane:L8"
+  ],
+  "first": "x-lane:L8",
+  "heat": null
+ },
+ {
+  "key": "binding-isaac-ai-music-mcmillen-verge-hit4-bench",
+  "flagged": "2026-11-22T17:50Z",
+  "hit": 4,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "x-watch:verge",
+   "bsky:theverge.com"
+  ],
+  "first": "bsky:theverge.com",
+  "heat": null
+ },
+ {
+  "key": "gta6-lucia-samus-meme-videogames-6646-heating-meme-hit1-bench",
+  "flagged": "2026-11-22T17:50Z",
+  "hit": 1,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:videogames"
+  ],
+  "first": "reddit-rising:videogames",
+  "heat": 7975
+ },
+ {
+  "key": "ssd-nvidia-amd-drivers-meme-pcmr-2084-heating-hit2-bench",
+  "flagged": "2026-11-22T17:50Z",
+  "hit": 2,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit-rising:pcmasterrace",
+  "heat": 1803
+ },
+ {
+  "key": "cachyos-eac-linux-v2-heating-310-niche-hit4-bench",
+  "flagged": "2026-11-22T17:50Z",
+  "hit": 4,
+  "lane": "linux-escape",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:linux_gaming"
+  ],
+  "first": "reddit-rising:linux_gaming",
+  "heat": 348
+ },
+ {
+  "key": "galactic-racer-biddy-blas-games-999-hit2-bench",
+  "flagged": "2026-11-22T17:50Z",
+  "hit": 2,
+  "lane": "fandom-outrage",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:Games"
+  ],
+  "first": "reddit-rising:Games",
+  "heat": 664
  }
 ]
