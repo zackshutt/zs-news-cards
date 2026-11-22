@@ -13118,5 +13118,18 @@
   ],
   "first": "reddit-rising:technology",
   "heat": 514
+ },
+ {
+  "key": "gta6-day-one-3-79b-lab",
+  "flagged": "2026-11-22T04:44Z",
+  "hit": null,
+  "lane": "engage",
+  "found_via": [
+   "reddit:r/gaming hot"
+  ],
+  "first": "reddit:r/gaming hot",
+  "heat": null,
+  "posted_by": "lab",
+  "id": "656551117547269_122206819052913141"
  }
 ]
