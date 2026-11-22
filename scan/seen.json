@@ -13639,5 +13639,92 @@
   ],
   "first": "reddit-rising:Games",
   "heat": 664
+ },
+ {
+  "key": "gta6-pc-recomp-leonida-videocardz-heating-3587-leakbuild-hit5-bench",
+  "flagged": "2026-11-22T19:50Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace",
+   "github",
+   "gn:gta6-recomp",
+   "x-vel:gta6-recomp"
+  ],
+  "first": "GameGPU Nov 19; GitHub ItsNotRexed/Leonida",
+  "heat": 4099
+ },
+ {
+  "key": "rockstar-gta6-no-darts-vgc-heating-3684-recheck-hit4-bench",
+  "flagged": "2026-11-22T19:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:Games",
+   "reddit-rising:PS5"
+  ],
+  "first": "Pirat_Nation",
+  "heat": 3576
+ },
+ {
+  "key": "howtogeek-hardware-makers-limit-performance-breakout-617-explainer-hit3-bench",
+  "flagged": "2026-11-22T19:50Z",
+  "hit": 3,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-rising:pcgaming"
+  ],
+  "first": "HowToGeek",
+  "heat": 1126
+ },
+ {
+  "key": "musk-jensen-michael-jordan-l8-27-gossip-hit4-bench",
+  "flagged": "2026-11-22T19:50Z",
+  "hit": 4,
+  "lane": "scene-named-people",
+  "found_via": [
+   "x-lane:L8"
+  ],
+  "first": "x-lane:L8",
+  "heat": null
+ },
+ {
+  "key": "steam-everything-1-49-sale-wario-132-deal-hit2-bench",
+  "flagged": "2026-11-22T19:50Z",
+  "hit": 2,
+  "lane": "steam-valve",
+  "found_via": [
+   "x-watch:Wario64",
+   "bsky:wario64.bsky.social"
+  ],
+  "first": "Wario64",
+  "heat": null
+ },
+ {
+  "key": "gta6-lucia-meme-videogames-19305-heating-recheck-meme-hit1-bench",
+  "flagged": "2026-11-22T19:50Z",
+  "hit": 1,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:videogames"
+  ],
+  "first": "r/videogames",
+  "heat": 12660
+ },
+ {
+  "key": "h1b-visa-tech-workers-technology-5858-politics-skip",
+  "flagged": "2026-11-22T19:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "Bloomberg",
+  "heat": 7399
  }
 ]
