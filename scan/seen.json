@@ -13811,5 +13811,135 @@
   ],
   "first": "reddit",
   "heat": 2078
+ },
+ {
+  "key": "pcmr-oddest-alliances-sony-meme-heating-2106-meme-hit1-bench",
+  "flagged": "2026-11-22T23:45Z",
+  "hit": 1,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit:pcmasterrace",
+  "heat": 1557
+ },
+ {
+  "key": "pcmr-windows-xp-nostalgia-meme-heating-3449-hit1-bench",
+  "flagged": "2026-11-22T23:45Z",
+  "hit": 1,
+  "lane": "nostalgia-spec",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit:pcmasterrace",
+  "heat": 1416
+ },
+ {
+  "key": "xbox-one-13-years-anniversary-breakout-460-hit2-bench",
+  "flagged": "2026-11-22T23:45Z",
+  "hit": 2,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-rising:xbox"
+  ],
+  "first": "reddit:xbox",
+  "heat": 1008
+ },
+ {
+  "key": "jensen-affair-senator-kennedy-guardian-973-gossip-politics-skip",
+  "flagged": "2026-11-22T23:45Z",
+  "hit": 0,
+  "lane": "exec-gossip",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology",
+   "x-lane:L8"
+  ],
+  "first": "guardian",
+  "heat": 870
+ },
+ {
+  "key": "cs2-10m-steam-reviews-heating-354-hit5-bench",
+  "flagged": "2026-11-22T23:45Z",
+  "hit": 5,
+  "lane": "steam-valve",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:Steam"
+  ],
+  "first": "reddit:Steam",
+  "heat": 297
+ },
+ {
+  "key": "hookshot-oot-switch2-remake-pc-recomp-github-411-unverified-hit4-bench",
+  "flagged": "2026-11-22T23:45Z",
+  "hit": 4,
+  "lane": "pc-unlock",
+  "found_via": [
+   "github"
+  ],
+  "first": "github",
+  "heat": null
+ },
+ {
+  "key": "william-gibson-gta6-pirat-162-quirky-hit5-bench",
+  "flagged": "2026-11-22T23:45Z",
+  "hit": 5,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "gta6-lucia-chokehold-tip-pirat-544-hit2-bench",
+  "flagged": "2026-11-22T23:45Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "ps-plus-game-trials-official-389-promo-hit3-bench",
+  "flagged": "2026-11-22T23:45Z",
+  "hit": 3,
+  "lane": "sony",
+  "found_via": [
+   "x-lane:L9"
+  ],
+  "first": "x:PlayStation",
+  "heat": null
+ },
+ {
+  "key": "nvidia-hotfix-doesnt-work-pcgamer-103-recirc",
+  "flagged": "2026-11-22T23:45Z",
+  "hit": 8,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "x-watch:pcgamer",
+   "x-lane:L3"
+  ],
+  "first": "pcgamer",
+  "heat": null
+ },
+ {
+  "key": "outlook-aws-delta-outages-technology-offtopic-skip",
+  "flagged": "2026-11-22T23:45Z",
+  "hit": 1,
+  "lane": "offtopic",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology",
+   "bsky:theverge.com"
+  ],
+  "first": "reddit:technology",
+  "heat": 270
  }
 ]
