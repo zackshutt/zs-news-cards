@@ -14436,5 +14436,106 @@
   ],
   "first": "NVIDIA Newsroom 14:01Z",
   "heat": null
+ },
+ {
+  "key": "psn-gta6-photo-30day-suspension-technology-8449-breakout-hit9-pitched",
+  "hit": 9,
+  "lane": "sony-anti-consumer",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-rising:technology",
+   "reddit-rising:PS5",
+   "reddit-rising:videogames",
+   "gn:finalist"
+  ],
+  "first": "dualshockers (Nov 20 23:43Z) / X user report",
+  "heat": 13679,
+  "flagged": "2026-11-23T15:50Z"
+ },
+ {
+  "key": "meta-zuck-80-gtas-pcmr-13458-heating-business-hit3-bench",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace",
+   "reddit-rising:videogames"
+  ],
+  "first": "reddit",
+  "heat": 11639,
+  "flagged": "2026-11-23T15:50Z"
+ },
+ {
+  "key": "gta6-45m-4b-alinea-breakout-business-recirc",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-rising:PS5"
+  ],
+  "first": "alinea",
+  "heat": 1917,
+  "flagged": "2026-11-23T15:50Z"
+ },
+ {
+  "key": "jensen-back-ceo-x-watch-21284-recirc",
+  "hit": 7,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-watch:tomwarren",
+   "bsky:tomwarren.co.uk",
+   "bsky:theverge.com"
+  ],
+  "first": "nvidia newsroom",
+  "heat": null,
+  "flagged": "2026-11-23T15:50Z"
+ },
+ {
+  "key": "gta6-patch-autosave-crash-fix-l7-256-update-hit3-bench",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-lane:L7",
+   "x-watch:VGC_News",
+   "bsky:videogameschronicle.com"
+  ],
+  "first": "rockstar",
+  "heat": null,
+  "flagged": "2026-11-23T15:50Z"
+ },
+ {
+  "key": "nvidia-app-micron-ssd-wear-pcmr-320-heating-userreport-hit6-lowvel",
+  "hit": 6,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit",
+  "heat": 384,
+  "flagged": "2026-11-23T15:50Z"
+ },
+ {
+  "key": "gta6-travis-scott-nike-af1-raffle-l10-111-recheck-hit3-bench",
+  "hit": 3,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-lane:L10"
+  ],
+  "first": "x",
+  "heat": null,
+  "flagged": "2026-11-23T15:50Z"
+ },
+ {
+  "key": "amodei-video-games-pacify-l8-recheck-hit6-bench",
+  "hit": 6,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-lane:L8"
+  ],
+  "first": "wsj",
+  "heat": null,
+  "flagged": "2026-11-23T15:50Z"
  }
 ]
