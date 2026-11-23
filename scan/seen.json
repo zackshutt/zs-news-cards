@@ -14021,5 +14021,74 @@
   ],
   "first": "reddit-rising:technology",
   "heat": 8124
+ },
+ {
+  "key": "sony-blocks-gta6-refunds-standard-preload-policy-5550-unverified-hit5-bench",
+  "flagged": "2026-11-23T03:45Z",
+  "hit": 5,
+  "lane": "sony-anti-consumer",
+  "found_via": [
+   "x-lane:TEST-nintendo-takedown",
+   "x-vel:gta6-refund",
+   "gn:finalist"
+  ],
+  "first": "x:anon #NEWS post 2026-11-22T11:53Z",
+  "heat": null
+ },
+ {
+  "key": "gta6-unkillable-teleport-npc-pirat-608-hit3-bench",
+  "flagged": "2026-11-23T03:45Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "trump-hopes-nvidia-rehires-jensen-politics-skip",
+  "flagged": "2026-11-23T03:45Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x:unusual_whales",
+  "heat": null
+ },
+ {
+  "key": "xbox360-21-years-na-anniversary-breakout-1424-hit2-bench",
+  "flagged": "2026-11-23T03:45Z",
+  "hit": 2,
+  "lane": "nostalgia-spec",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-rising:gaming"
+  ],
+  "first": "reddit:gaming",
+  "heat": 1028
+ },
+ {
+  "key": "windows-narrator-lockscreen-bypass-fastunlock-github-682-unverified-hack-hit3-bench",
+  "flagged": "2026-11-23T03:45Z",
+  "hit": 3,
+  "lane": "breach-hack",
+  "found_via": [
+   "github"
+  ],
+  "first": "github",
+  "heat": null
+ },
+ {
+  "key": "nike-af1-gta6-travis-scott-l10-1-hit3-bench",
+  "flagged": "2026-11-23T03:45Z",
+  "hit": 3,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-lane:L10"
+  ],
+  "first": "x",
+  "heat": null
  }
 ]
