@@ -14090,5 +14090,16 @@
   ],
   "first": "x",
   "heat": null
+ },
+ {
+  "key": "naughty-dog-gta6-bugatti-barclay-ps5-20474-lab",
+  "flagged": "2026-11-22",
+  "hit": null,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-hot:PS5"
+  ],
+  "first": "x.com/MotleyGrue Nov 20 02:53Z",
+  "heat": 20474
  }
 ]
