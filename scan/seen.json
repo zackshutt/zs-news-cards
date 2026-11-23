@@ -13941,5 +13941,85 @@
   ],
   "first": "reddit:technology",
   "heat": 270
+ },
+ {
+  "key": "gta6-oscars-restaurant-recreated-dexerto-12913-unconfirmed-hit4-bench",
+  "flagged": "2026-11-23T01:45Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto",
+  "heat": null
+ },
+ {
+  "key": "amodei-video-games-pacify-pirat-212-heating-4442-gate-hit6-bench",
+  "flagged": "2026-11-23T01:45Z",
+  "hit": 6,
+  "lane": "exec-quote",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology",
+   "x-watch:Pirat_Nation",
+   "x-lane:L8"
+  ],
+  "first": "reddit-rising:technology",
+  "heat": 2186
+ },
+ {
+  "key": "win11-wifi-drivers-out-of-kernel-2027-pcmr-163-hit7-lowvel",
+  "flagged": "2026-11-23T01:45Z",
+  "hit": 7,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit-rising:pcmasterrace",
+  "heat": 122
+ },
+ {
+  "key": "win11-point-in-time-restore-storage-l4-old-jun2026-recirc",
+  "flagged": "2026-11-23T01:45Z",
+  "hit": 5,
+  "lane": "privacy-default",
+  "found_via": [
+   "x-lane:L4"
+  ],
+  "first": "x-lane:L4",
+  "heat": null
+ },
+ {
+  "key": "et-creator-warshaw-ai-game-crash-pirat-485-niche-hit3-bench",
+  "flagged": "2026-11-23T01:45Z",
+  "hit": 3,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "activision-npc-voice-chat-filing-techpowerup-5-patent-hit3-bench",
+  "flagged": "2026-11-23T01:45Z",
+  "hit": 3,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "x-watch:TechPowerUp"
+  ],
+  "first": "x-watch:TechPowerUp",
+  "heat": null
+ },
+ {
+  "key": "amazon-5-fee-nyc-mamdani-technology-heating-politics-skip",
+  "flagged": "2026-11-23T01:45Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "reddit-heat:HEATING"
+  ],
+  "first": "reddit-rising:technology",
+  "heat": 8124
  }
 ]
