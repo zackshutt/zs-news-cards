@@ -14803,5 +14803,149 @@
   ],
   "first": "reddit:pcmasterrace",
   "heat": 5453
+ },
+ {
+  "key": "gamestop-cohen-gta6-discs-pirat-884-quote-nov19-stale-hit7-bench",
+  "flagged": "2026-11-23T21:55Z",
+  "hit": 7,
+  "lane": "ownership-rights",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-lane:L6",
+   "gn:finalist"
+  ],
+  "first": "Wccftech/IGN Nov 19",
+  "heat": null
+ },
+ {
+  "key": "gta6-actor-guy-fortt-find-my-character-dexerto-7738-quirky-hit5-bench",
+  "flagged": "2026-11-23T21:55Z",
+  "hit": 5,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto",
+  "heat": null
+ },
+ {
+  "key": "jensen-trump-wife-worked-it-out-unusual-whales-5413-politics-skip",
+  "flagged": "2026-11-23T21:55Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales",
+  "heat": null
+ },
+ {
+  "key": "jensen-apology-new-computer-it-joke-cnbc-recirc",
+  "flagged": "2026-11-23T21:55Z",
+  "hit": 5,
+  "lane": "scene-named-people",
+  "found_via": [
+   "x-watch:unusual_whales",
+   "bsky:theverge.com"
+  ],
+  "first": "CNBC",
+  "heat": 20568
+ },
+ {
+  "key": "cdpr-cyberpunk2-canceled-joke-breakout-3672-gossip-hit5-bench",
+  "flagged": "2026-11-23T21:55Z",
+  "hit": 5,
+  "lane": "scene-named-people",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-rising:PS5",
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": 5759
+ },
+ {
+  "key": "gta6-xbox-exe-cyberleek-breakout-4838-leak-hit5-bench",
+  "flagged": "2026-11-23T21:55Z",
+  "hit": 5,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-rising:pcgaming",
+   "github"
+  ],
+  "first": "r/pcmasterrace",
+  "heat": 9853
+ },
+ {
+  "key": "gta6-140gb-day-one-patch-reportedly-l6-125-logistics-hit3-bench",
+  "flagged": "2026-11-23T21:55Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-lane:L6"
+  ],
+  "first": "x-lane:L6",
+  "heat": null
+ },
+ {
+  "key": "gta6-console-update-ps5-xbox-breakout-2374-update-hit2-bench",
+  "flagged": "2026-11-23T21:55Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-rising:PS5"
+  ],
+  "first": "r/Games",
+  "heat": 1550
+ },
+ {
+  "key": "df-xbox-framerate-unlock-glitch-heating-284-hit5-bench",
+  "flagged": "2026-11-23T21:55Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:xbox"
+  ],
+  "first": "r/xbox",
+  "heat": 237
+ },
+ {
+  "key": "steam-awards-2026-nominations-breakout-183-promo-hit3-bench",
+  "flagged": "2026-11-23T21:55Z",
+  "hit": 3,
+  "lane": "steam-valve",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-rising:Steam"
+  ],
+  "first": "r/Steam",
+  "heat": 351
+ },
+ {
+  "key": "meta-chief-ai-officer-warning-technology-257-heating-niche-hit2-bench",
+  "flagged": "2026-11-23T21:55Z",
+  "hit": 2,
+  "lane": "exec-quote",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "r/technology",
+  "heat": 324
+ },
+ {
+  "key": "twitch-ios-icon-gta6-tomwarren-81-quirky-hit3-bench",
+  "flagged": "2026-11-23T21:55Z",
+  "hit": 3,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:tomwarren",
+   "bsky:tomwarren.co.uk"
+  ],
+  "first": "bsky:tomwarren.co.uk",
+  "heat": null
  }
 ]
