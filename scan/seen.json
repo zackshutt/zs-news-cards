@@ -14537,5 +14537,164 @@
   "first": "wsj",
   "heat": null,
   "flagged": "2026-11-23T15:50Z"
+ },
+ {
+  "key": "gta6-xbox-exe-cyberleek-pcmr-14941-heating-leak-hit5-bench",
+  "flagged": "2026-11-23T17:50Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace",
+   "reddit-rising:Games",
+   "github",
+   "x-lane:L7",
+   "x-lane:L6",
+   "x-watch:UFDTech"
+  ],
+  "first": "x:CyberLeek / reddit:pcmasterrace",
+  "heat": 20438
+ },
+ {
+  "key": "gta6-hacker-kurtaj-released-dexerto-10213-hack-hit2-bench",
+  "flagged": "2026-11-23T17:50Z",
+  "hit": 2,
+  "lane": "breach-hack",
+  "found_via": [
+   "x-watch:Dexerto",
+   "x-watch:VGC_News",
+   "bsky:videogameschronicle.com"
+  ],
+  "first": "VGC 15:45Z",
+  "heat": null
+ },
+ {
+  "key": "nick-eh-30-irredeemable-gta6-dexerto-6711-hit5-bench",
+  "flagged": "2026-11-23T17:50Z",
+  "hit": 5,
+  "lane": "scene-named-people",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x:Dexerto",
+  "heat": null
+ },
+ {
+  "key": "xbox-helix-free-online-steam-corden-l8-44-rumor-hit5-bench",
+  "flagged": "2026-11-23T17:50Z",
+  "hit": 5,
+  "lane": "ownership-rights",
+  "found_via": [
+   "x-lane:L8",
+   "x-lane:L2"
+  ],
+  "first": "Windows Central (Jez Corden)",
+  "heat": null
+ },
+ {
+  "key": "trump-huang-intervened-unusual-whales-politics-skip",
+  "flagged": "2026-11-23T17:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "x-watch:unusual_whales",
+   "bsky:theverge.com"
+  ],
+  "first": "x:unusual_whales",
+  "heat": null
+ },
+ {
+  "key": "gallego-nvidia-stock-probe-unusual-whales-politics-skip",
+  "flagged": "2026-11-23T17:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x:unusual_whales",
+  "heat": null
+ },
+ {
+  "key": "gta6-crash-patch-ce108255-tomwarren-423-update-hit3-bench",
+  "flagged": "2026-11-23T17:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:tomwarren",
+   "bsky:tomwarren.co.uk",
+   "reddit-heat:BREAKOUT",
+   "x-lane:L1"
+  ],
+  "first": "rockstar",
+  "heat": 2568
+ },
+ {
+  "key": "gow-series-faye-woll-wario64-1389-trailer-skip",
+  "flagged": "2026-11-23T17:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "x-watch:Wario64",
+   "bsky:wario64.bsky.social"
+  ],
+  "first": "variety",
+  "heat": null
+ },
+ {
+  "key": "ps5-something-huge-teaser-l6-111-unverified-hit2-bench",
+  "flagged": "2026-11-23T17:50Z",
+  "hit": 2,
+  "lane": "pc-unlock",
+  "found_via": [
+   "x-lane:L6"
+  ],
+  "first": "x",
+  "heat": null
+ },
+ {
+  "key": "singleplayer-zero-drm-opinion-gaming-323-heating-hit2-bench",
+  "flagged": "2026-11-23T17:50Z",
+  "hit": 2,
+  "lane": "ownership-rights",
+  "found_via": [
+   "reddit-heat:HEATING"
+  ],
+  "first": "reddit:gaming",
+  "heat": 386
+ },
+ {
+  "key": "ai-jobs-taxes-technology-1409-heating-politics-skip",
+  "flagged": "2026-11-23T17:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "reddit:technology",
+  "heat": 1205
+ },
+ {
+  "key": "amodei-video-games-pacify-l8-recheck2-hit6-lowvel",
+  "flagged": "2026-11-23T17:50Z",
+  "hit": 6,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-lane:L8",
+   "reddit-new:videogames"
+  ],
+  "first": "wsj",
+  "heat": 61
+ },
+ {
+  "key": "rockstar-max-payne-remake-financing-totilo-52-business-hit3-bench",
+  "flagged": "2026-11-23T17:50Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "bsky:stephentotilo.bsky.social"
+  ],
+  "first": "Game File",
+  "heat": null
  }
 ]
