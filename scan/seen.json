@@ -14947,5 +14947,135 @@
   ],
   "first": "bsky:tomwarren.co.uk",
   "heat": null
+ },
+ {
+  "key": "gta6-39m-ps5-biggest-playstation-launch-l9-3510-business-hit3-bench",
+  "flagged": "2026-11-23T23:45Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-lane:L9",
+   "x-watch:Wario64",
+   "bsky:wario64.bsky.social"
+  ],
+  "first": "x-lane:L9",
+  "heat": null
+ },
+ {
+  "key": "xbox-helix-free-online-steam-breakout-6subs-2398-rumor-recheck-hit5-bench",
+  "flagged": "2026-11-23T23:45Z",
+  "hit": 5,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-heat:HEATING",
+   "reddit-rising:gaming",
+   "x-lane:L2"
+  ],
+  "first": "reddit-rising:gaming",
+  "heat": 6342
+ },
+ {
+  "key": "steam-community-market-update-wario-190-update-hit5-bench",
+  "flagged": "2026-11-23T23:45Z",
+  "hit": 5,
+  "lane": "steam-valve",
+  "found_via": [
+   "x-watch:Wario64",
+   "bsky:wario64.bsky.social"
+  ],
+  "first": "x-watch:Wario64",
+  "heat": null
+ },
+ {
+  "key": "ps5sx2-260-ps2-on-ps5-radv-l7-175-niche-hit5-lowvel",
+  "flagged": "2026-11-23T23:45Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "x-lane:L7",
+   "x-lane:L3"
+  ],
+  "first": "x-lane:L7",
+  "heat": null
+ },
+ {
+  "key": "witcher4-ciri-personality-blacha-pirat-831-gossip-hit3-bench",
+  "flagged": "2026-11-23T23:45Z",
+  "hit": 3,
+  "lane": "fandom-outrage",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "gta6-car-chase-real-gameplay-pirat-483-hit2-bench",
+  "flagged": "2026-11-23T23:45Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "nvidia-record-one-day-gain-unusual-whales-563-business-skip",
+  "flagged": "2026-11-23T23:45Z",
+  "hit": 1,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales",
+  "heat": null
+ },
+ {
+  "key": "trump-cnbc-line-tech-companies-unusual-whales-politics-skip",
+  "flagged": "2026-11-23T23:45Z",
+  "hit": 0,
+  "lane": "politics",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales",
+  "heat": null
+ },
+ {
+  "key": "vance-pushed-huang-reinstatement-technology-heating-1392-politics-skip",
+  "flagged": "2026-11-23T23:45Z",
+  "hit": 0,
+  "lane": "politics",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology",
+   "bsky:theverge.com"
+  ],
+  "first": "reddit-rising:technology",
+  "heat": 1392
+ },
+ {
+  "key": "lisa-su-pc-shipments-decline-nov5-web-old-recirc",
+  "flagged": "2026-11-23T23:45Z",
+  "hit": 6,
+  "lane": "exec-quote",
+  "found_via": [
+   "web:archetypeA"
+  ],
+  "first": "web:archetypeA",
+  "heat": null
+ },
+ {
+  "key": "openai-memory-chips-gn16-old-nothing-new-skip",
+  "flagged": "2026-11-23T23:45Z",
+  "hit": 0,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "gn:16"
+  ],
+  "first": "gn:16",
+  "heat": null
  }
 ]
