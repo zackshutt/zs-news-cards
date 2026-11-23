@@ -14424,5 +14424,17 @@
   ],
   "first": "github",
   "heat": null
+ },
+ {
+  "key": "jensen-reinstated-nvidia-ceo-newsroom-zack-sent-hit7-pitched",
+  "flagged": "2026-11-23T15:35Z",
+  "hit": 7,
+  "lane": "scene-named-people",
+  "found_via": [
+   "zack-sent",
+   "gn:finalist"
+  ],
+  "first": "NVIDIA Newsroom 14:01Z",
+  "heat": null
  }
 ]
