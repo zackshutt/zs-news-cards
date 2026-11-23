@@ -14696,5 +14696,95 @@
   ],
   "first": "Game File",
   "heat": null
+ },
+ {
+  "key": "leonida-gta6-pc-port-one-week-pcmr-4546-github-28931-heating-leakbuild-hit5-bench",
+  "flagged": "2026-11-23T19:50Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace",
+   "github",
+   "x-lane:L3",
+   "x-lane:L6",
+   "x-lane:L7"
+  ],
+  "first": "reddit:pcmasterrace",
+  "heat": 5453
+ },
+ {
+  "key": "xbox-helix-free-online-steam-windowscentral-breakout-565-rumor-hit5-bench",
+  "flagged": "2026-11-23T19:50Z",
+  "hit": 5,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-rising:Games",
+   "reddit-rising:xbox",
+   "x-lane:L4",
+   "x-lane:L8"
+  ],
+  "first": "windowscentral",
+  "heat": 1043
+ },
+ {
+  "key": "gta6-hacker-sentenced-released-same-day-pirat-471-tech-1714-crime-hit2-bench",
+  "flagged": "2026-11-23T19:50Z",
+  "hit": 2,
+  "lane": "breach-hack",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "x:Pirat_Nation",
+  "heat": 1438
+ },
+ {
+  "key": "la-noire-2-leak-wccftech-pcmr-818-leak-hit1-bench",
+  "flagged": "2026-11-23T19:50Z",
+  "hit": 1,
+  "lane": "leak",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "wccftech",
+  "heat": 982
+ },
+ {
+  "key": "gta6-easter-egg-tomwarren-167-trivia-hit3-bench",
+  "flagged": "2026-11-23T19:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:tomwarren"
+  ],
+  "first": "x:tomwarren",
+  "heat": null
+ },
+ {
+  "key": "queens-domain-300k-wario64-niche-hit1-bench",
+  "flagged": "2026-11-23T19:50Z",
+  "hit": 1,
+  "lane": "indie-oddity",
+  "found_via": [
+   "x-watch:Wario64",
+   "bsky:wario64.bsky.social"
+  ],
+  "first": "steam news",
+  "heat": null
+ },
+ {
+  "key": "win11-kb5132043-forcepoint-printing-gn-niche-hit3-bench",
+  "flagged": "2026-11-23T19:50Z",
+  "hit": 3,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "gn:12"
+  ],
+  "first": "bleepingcomputer",
+  "heat": null
  }
 ]
