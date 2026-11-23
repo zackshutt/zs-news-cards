@@ -14273,5 +14273,156 @@
   ],
   "first": "x-watch:VGC_News",
   "heat": null
+ },
+ {
+  "key": "gta6-4b-four-days-alinea-dexerto-2312-business-hit3-bench",
+  "flagged": "2026-11-23T13:45Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x:Dexerto",
+  "heat": null
+ },
+ {
+  "key": "gta6-no-darts-bowling-nelson-dexerto-976-recheck-hit4-bench",
+  "flagged": "2026-11-23T13:45Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x:Pirat_Nation (Nov 22)",
+  "heat": null
+ },
+ {
+  "key": "gamestop-cohen-gta6-physical-wccftech-13-recheck-hit7-lowvel",
+  "flagged": "2026-11-23T13:45Z",
+  "hit": 7,
+  "lane": "ownership-rights",
+  "found_via": [
+   "x-watch:wccftech"
+  ],
+  "first": "pcgamer (Nov 20)",
+  "heat": null
+ },
+ {
+  "key": "cod-dau-down-42-gta6-alinea-l6-106-business-hit3-bench",
+  "flagged": "2026-11-23T13:45Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "x-lane:L6"
+  ],
+  "first": "x:alineaanalytics",
+  "heat": null
+ },
+ {
+  "key": "tesla-cybercab-monthly-fee-technology-376-heating-hit5-bench",
+  "flagged": "2026-11-23T13:45Z",
+  "hit": 5,
+  "lane": "ownership-rights",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "maccus.fr",
+  "heat": 237
+ },
+ {
+  "key": "win-server-2028-32bit-windowslatest-pcmr-355-heating-recheck-hit4-bench",
+  "flagged": "2026-11-23T13:45Z",
+  "hit": 4,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace",
+   "x-watch:wccftech",
+   "x-lane:L4"
+  ],
+  "first": "windowslatest",
+  "heat": 232
+ },
+ {
+  "key": "star-citizen-aaa-meme-gaming-2454-heating-hit1-bench",
+  "flagged": "2026-11-23T13:45Z",
+  "hit": 1,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:gaming"
+  ],
+  "first": "reddit:gaming",
+  "heat": 1217
+ },
+ {
+  "key": "steam-machine-owners-satisfied-thread-733-heating-hit2-bench",
+  "flagged": "2026-11-23T13:45Z",
+  "hit": 2,
+  "lane": "steam-valve",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:Steam"
+  ],
+  "first": "reddit:Steam",
+  "heat": 448
+ },
+ {
+  "key": "anthropic-debt-credit-rating-unusual-whales-8071-business-skip",
+  "flagged": "2026-11-23T13:45Z",
+  "hit": 1,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x:unusual_whales",
+  "heat": null
+ },
+ {
+  "key": "gta6-oot-review-bomb-vgc-138-recheck-hit4-bench",
+  "flagged": "2026-11-23T13:45Z",
+  "hit": 4,
+  "lane": "fandom-outrage",
+  "found_via": [
+   "x-watch:VGC_News",
+   "bsky:videogameschronicle.com"
+  ],
+  "first": "VGC",
+  "heat": null
+ },
+ {
+  "key": "jensen-return-trump-bessent-nyt-gn-politics-skip",
+  "flagged": "2026-11-23T13:45Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "gn:6"
+  ],
+  "first": "NYT",
+  "heat": null
+ },
+ {
+  "key": "mikami-wishes-ai-disappear-vgc-15-niche-hit3-bench",
+  "flagged": "2026-11-23T13:45Z",
+  "hit": 3,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-watch:VGC_News",
+   "bsky:videogameschronicle.com"
+  ],
+  "first": "VGC",
+  "heat": null
+ },
+ {
+  "key": "xbox-series-recomp-repos-github-1503-unverified-hit3-bench",
+  "flagged": "2026-11-23T13:45Z",
+  "hit": 3,
+  "lane": "pc-unlock",
+  "found_via": [
+   "github"
+  ],
+  "first": "github",
+  "heat": null
  }
 ]
