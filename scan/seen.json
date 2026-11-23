@@ -14182,5 +14182,96 @@
   ],
   "first": "github",
   "heat": null
+ },
+ {
+  "key": "cdpr-cyberpunk2-director-gta6-greatest-artistic-pirat-5727-gossip-hit5-bench",
+  "flagged": "2026-11-23T10:45Z",
+  "hit": 5,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "gta6-drivers-license-ages-pirat-1148-trivia-hit5-bench",
+  "flagged": "2026-11-23T10:45Z",
+  "hit": 5,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "leonida-gta6-recomp-github-18447-recheck-unverified-hit5-bench",
+  "flagged": "2026-11-23T10:45Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "github"
+  ],
+  "first": "github",
+  "heat": null
+ },
+ {
+  "key": "unreal-engine-6-drops-scripting-for-ai-coding-462-hit5-bench",
+  "flagged": "2026-11-23T10:45Z",
+  "hit": 5,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "reddit-rising:Games",
+   "reddit-rising:pcgaming"
+  ],
+  "first": "reddit:Games",
+  "heat": 331
+ },
+ {
+  "key": "nadella-vs-code-faded-technology-686-niche-hit3-bench",
+  "flagged": "2026-11-23T10:45Z",
+  "hit": 3,
+  "lane": "exec-quote",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit:technology",
+  "heat": 168
+ },
+ {
+  "key": "google-autonomous-cyberattack-technology-2108-hack-hit2-bench",
+  "flagged": "2026-11-23T10:45Z",
+  "hit": 2,
+  "lane": "breach-hack",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit:technology",
+  "heat": 312
+ },
+ {
+  "key": "gears-eday-skipped-ps-no2-october-business-hit3-bench",
+  "flagged": "2026-11-23T10:45Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-rising:Games",
+   "reddit-rising:pcgaming"
+  ],
+  "first": "reddit:Games",
+  "heat": 91
+ },
+ {
+  "key": "banjo-kazooie-activision-job-listing-hit2-bench",
+  "flagged": "2026-11-23T10:45Z",
+  "hit": 2,
+  "lane": "leak",
+  "found_via": [
+   "x-watch:VGC_News",
+   "bsky:videogameschronicle.com"
+  ],
+  "first": "x-watch:VGC_News",
+  "heat": null
  }
 ]
