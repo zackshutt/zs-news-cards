@@ -14786,5 +14786,22 @@
   ],
   "first": "bleepingcomputer",
   "heat": null
+ },
+ {
+  "key": "gta6-pc-port-leonida-almost-boots-zack-asked-pitched",
+  "flagged": "2026-11-23T21:05Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace",
+   "github",
+   "x-lane:L3",
+   "x-lane:L6",
+   "x-lane:L7",
+   "zack-asked"
+  ],
+  "first": "reddit:pcmasterrace",
+  "heat": 5453
  }
 ]
