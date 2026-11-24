@@ -15182,5 +15182,101 @@
   ],
   "first": "gn:18",
   "heat": null
+ },
+ {
+  "key": "asus-8gb-ram-cochief-videocardz-pirat-111-hit9-pitched",
+  "flagged": "2026-11-24T03:50Z",
+  "hit": 9,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "gn:finalist"
+  ],
+  "first": "VideoCardz 19:39Z",
+  "heat": null
+ },
+ {
+  "key": "rockstar-gta6-port-crackdown-leonida-down-notebookcheck-heating-665-reported-hit6-lowvel",
+  "flagged": "2026-11-24T03:50Z",
+  "hit": 6,
+  "lane": "pc-unlock",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace",
+   "gn:finalist",
+   "github"
+  ],
+  "first": "Notebookcheck 00:47Z",
+  "heat": 711
+ },
+ {
+  "key": "ny-bans-car-subscription-fees-technology-7683-heating-noun-hit4-bench",
+  "flagged": "2026-11-24T03:50Z",
+  "hit": 4,
+  "lane": "ownership-rights",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "wgna.com",
+  "heat": 4801
+ },
+ {
+  "key": "gta6-biggest-ps-launch-breakout-2595-sameas-39m-recirc",
+  "flagged": "2026-11-24T03:50Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-rising:PS5"
+  ],
+  "first": "PlayStation",
+  "heat": 6926
+ },
+ {
+  "key": "nvidia-board-lack-of-backbone-technology-1316-heating-gossip-recirc",
+  "flagged": "2026-11-24T03:50Z",
+  "hit": 3,
+  "lane": "scene-named-people",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "r/technology",
+  "heat": 1105
+ },
+ {
+  "key": "gta6-ps5-crashes-persist-pirat-593-update-hit3-bench",
+  "flagged": "2026-11-24T03:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "xbox-series-x25-limited-email-wario-383-promo-hit3-bench",
+  "flagged": "2026-11-24T03:50Z",
+  "hit": 3,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "x-watch:Wario64"
+  ],
+  "first": "Wario64",
+  "heat": null
+ },
+ {
+  "key": "ca-ag-subpoena-nvidia-china-technology-548-business-skip",
+  "flagged": "2026-11-24T03:50Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "The Hill",
+  "heat": 271
  }
 ]
