@@ -15542,5 +15542,145 @@
   ],
   "first": "github",
   "heat": null
+ },
+ {
+  "key": "discord-auto-clips-official-5546-dexerto-2900-hit8-pitched",
+  "flagged": "2026-11-24T15:55Z",
+  "hit": 8,
+  "lane": "privacy-default",
+  "found_via": [
+   "x-watch:Dexerto",
+   "gn:finalist"
+  ],
+  "first": "@discord X 2026-11-23T18:59Z",
+  "heat": null
+ },
+ {
+  "key": "nvidia-621-40-whql-ssd-fix-l3-95-update-hit7-lowvel",
+  "flagged": "2026-11-24T15:55Z",
+  "hit": 7,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "x-lane:L3",
+   "x-watch:videocardz",
+   "gn:finalist"
+  ],
+  "first": "VideoCardz 2026-11-24T14:09Z",
+  "heat": null
+ },
+ {
+  "key": "ms-replaces-oem-win11-drivers-pcmr-69-nosource-hit7-lowvel",
+  "flagged": "2026-11-24T15:55Z",
+  "hit": 7,
+  "lane": "privacy-default",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "r/pcmasterrace",
+  "heat": 66
+ },
+ {
+  "key": "win11-bluetooth-mtp-deprecated-windows11-75-hit6-lowvel",
+  "flagged": "2026-11-24T15:55Z",
+  "hit": 6,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "reddit-rising:Windows11"
+  ],
+  "first": "r/Windows11",
+  "heat": 59
+ },
+ {
+  "key": "rockstar-shuts-gta6-port-discord-dexerto-11145-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-24T15:55Z",
+  "hit": null,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto",
+   "x-watch:Pirat_Nation",
+   "bsky:videogameschronicle.com",
+   "reddit-heat:HEATING"
+  ],
+  "first": "Dexerto",
+  "heat": 7867
+ },
+ {
+  "key": "jensen-nyt-rip-heart-quote-whales-321-gossip-hit4-bench",
+  "flagged": "2026-11-24T15:55Z",
+  "hit": 4,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "NYT via unusual_whales",
+  "heat": null
+ },
+ {
+  "key": "xbox-helix-free-online-pirat-173-rumor-recirc",
+  "flagged": "2026-11-24T15:55Z",
+  "hit": 5,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "gn:8"
+  ],
+  "first": "Windows Central",
+  "heat": null
+ },
+ {
+  "key": "nvidia-ransomware-nov28-technology-1429-heating-hack-hit3-bench",
+  "flagged": "2026-11-24T15:55Z",
+  "hit": 3,
+  "lane": "breach-hack",
+  "found_via": [
+   "reddit-heat:HEATING"
+  ],
+  "first": "r/technology",
+  "heat": 1072
+ },
+ {
+  "key": "rdr-film-rights-100m-dexerto-260-business-hit3-bench",
+  "flagged": "2026-11-24T15:55Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:Dexerto",
+   "bsky:videogameschronicle.com"
+  ],
+  "first": "VGC",
+  "heat": null
+ },
+ {
+  "key": "activision-voicechat-ai-patent-discord-135-patent-hit5-bench",
+  "flagged": "2026-11-24T15:55Z",
+  "hit": 5,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "x-velocity:discord"
+  ],
+  "first": "X",
+  "heat": null
+ },
+ {
+  "key": "nyc-schools-abandon-google-ai-technology-403-heating-hit3-bench",
+  "flagged": "2026-11-24T15:55Z",
+  "hit": 3,
+  "lane": null,
+  "found_via": [
+   "reddit-heat:HEATING"
+  ],
+  "first": "r/technology",
+  "heat": 316
+ },
+ {
+  "key": "gn8-xbox-ceo-nothing-fresh-skip",
+  "flagged": "2026-11-24T15:55Z",
+  "hit": null,
+  "lane": null,
+  "found_via": [
+   "gn:8"
+  ],
+  "first": null,
+  "heat": null
  }
 ]
