@@ -15289,5 +15289,99 @@
   ],
   "first": "bsky:srznsk",
   "heat": 5218
+ },
+ {
+  "key": "gta5-enhanced-price-raised-during-sale-steam-97-userreport-hit7-lowvel",
+  "flagged": "2026-11-24T05:45Z",
+  "hit": 7,
+  "lane": "ownership-rights",
+  "found_via": [
+   "reddit:Steam",
+   "web:archetypeA"
+  ],
+  "first": "r/Steam",
+  "heat": 113
+ },
+ {
+  "key": "destruction-allstars-singleplayer-offline-nov25-ps5-115-oldnews-hit6-lowvel",
+  "flagged": "2026-11-24T05:45Z",
+  "hit": 6,
+  "lane": "ownership-rights",
+  "found_via": [
+   "reddit:PS5",
+   "gn:finalist"
+  ],
+  "first": "Game Informer May 26",
+  "heat": 95
+ },
+ {
+  "key": "gta6-pc-build-48h-pcmr-1400-heating-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-24T05:45Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace",
+   "github"
+  ],
+  "first": "r/pcmasterrace",
+  "heat": 1569
+ },
+ {
+  "key": "ai-swarm-gta6-port-pcmr-2104-heating-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-24T05:45Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "r/pcmasterrace",
+  "heat": 1375
+ },
+ {
+  "key": "steamdeck-osk-broken-valve-gripe-439-heating-hit4-bench",
+  "flagged": "2026-11-24T05:45Z",
+  "hit": 4,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit:SteamDeck"
+  ],
+  "first": "r/SteamDeck",
+  "heat": 526
+ },
+ {
+  "key": "bluetooth-brakes-hack-technology-283-heating-niche-hit1-skip",
+  "flagged": "2026-11-24T05:45Z",
+  "hit": 1,
+  "lane": "breach-hack",
+  "found_via": [
+   "reddit-heat:HEATING"
+  ],
+  "first": "r/technology",
+  "heat": 227
+ },
+ {
+  "key": "leonida-notrexed-shutdown-sameas-rockstar-crackdown-recirc",
+  "flagged": "2026-11-24T05:45Z",
+  "hit": 6,
+  "lane": "pc-unlock",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "r/pcmasterrace",
+  "heat": null
+ },
+ {
+  "key": "gn22-collab-slot-nothing-fresh-skip",
+  "flagged": "2026-11-24T05:45Z",
+  "hit": 0,
+  "lane": "quirky-product",
+  "found_via": [
+   "gn:22"
+  ],
+  "first": "gn",
+  "heat": null
  }
 ]
