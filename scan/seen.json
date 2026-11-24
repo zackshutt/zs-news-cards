@@ -15484,5 +15484,63 @@
   ],
   "first": "gn",
   "heat": null
+ },
+ {
+  "key": "jensen-affair-tally-four-pcgaming-pcmr-1799-heating-gossip-hit3-bench",
+  "flagged": "2026-11-24T13:45Z",
+  "hit": 3,
+  "lane": "exec-gossip",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcgaming",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit:pcgaming",
+  "heat": 1746
+ },
+ {
+  "key": "nvidia-stock-falls-5pct-jensen-gn6-business-skip",
+  "flagged": "2026-11-24T13:45Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "gn:6"
+  ],
+  "first": "Yahoo Finance",
+  "heat": null
+ },
+ {
+  "key": "congress-questions-jensen-return-gn6-politics-skip",
+  "flagged": "2026-11-24T13:45Z",
+  "hit": 1,
+  "lane": "business-finance",
+  "found_via": [
+   "gn:6"
+  ],
+  "first": "NBC News",
+  "heat": null
+ },
+ {
+  "key": "gta6-victory-github-8817-shaders-pcmr-2864-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-24T13:45Z",
+  "hit": 7,
+  "lane": "pc-unlock",
+  "found_via": [
+   "github",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "github",
+  "heat": 1213
+ },
+ {
+  "key": "gta6-portwatch-tracker-github-1860-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-24T13:45Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "github"
+  ],
+  "first": "github",
+  "heat": null
  }
 ]
