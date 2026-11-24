@@ -15949,5 +15949,144 @@
   ],
   "first": null,
   "heat": null
+ },
+ {
+  "key": "xbox-bf-fullscreen-popup-tomwarren-561-nofix-hit7-lowvel",
+  "flagged": "2026-11-24T21:55Z",
+  "hit": 7,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "x-lane:velocity-recheck",
+   "x-watch:tomwarren"
+  ],
+  "first": "x-watch:tomwarren",
+  "heat": null
+ },
+ {
+  "key": "gta6-xsx-beats-base-ps5-df-tomwarren-4983-gtacap-dayused-hit7-bench",
+  "flagged": "2026-11-24T21:55Z",
+  "hit": 7,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:tomwarren",
+   "bsky:tomwarren.co.uk",
+   "reddit-rising:xbox"
+  ],
+  "first": "x-watch:tomwarren",
+  "heat": null
+ },
+ {
+  "key": "witcher4-leap-like-gta6-cdpr-6subs-2472-hype-hit5-bench",
+  "flagged": "2026-11-24T21:55Z",
+  "hit": 5,
+  "lane": "exec-quote",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-rising:PS5",
+   "bsky:videogameschronicle.com"
+  ],
+  "first": "reddit",
+  "heat": 6552
+ },
+ {
+  "key": "jensen-therapy-bloomberg-whales-519-gossip-hit3-bench",
+  "flagged": "2026-11-24T21:55Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales",
+  "heat": null
+ },
+ {
+  "key": "jensen-allhands-apology-wired-nvidia-387-heating-gossip-hit3-bench",
+  "flagged": "2026-11-24T21:55Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:nvidia"
+  ],
+  "first": "reddit",
+  "heat": 415
+ },
+ {
+  "key": "nvidia-jetson-russian-drones-nyt-whales-880-politics-skip",
+  "flagged": "2026-11-24T21:55Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales",
+  "heat": null
+ },
+ {
+  "key": "steam-wero-payment-steam-667-heating-niche-hit4-bench",
+  "flagged": "2026-11-24T21:55Z",
+  "hit": 4,
+  "lane": "steam-valve",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:Steam"
+  ],
+  "first": "reddit",
+  "heat": 328
+ },
+ {
+  "key": "ny-car-subscription-features-technology-311-heating-offtopic-hit3-bench",
+  "flagged": "2026-11-24T21:55Z",
+  "hit": 3,
+  "lane": "ownership-rights",
+  "found_via": [
+   "reddit-heat:HEATING"
+  ],
+  "first": "reddit",
+  "heat": 243
+ },
+ {
+  "key": "hookshot-oot-switch2-pc-recomp-github-699-niche-hit5-bench",
+  "flagged": "2026-11-24T21:55Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "github"
+  ],
+  "first": "github",
+  "heat": null
+ },
+ {
+  "key": "nvidia-vram-pool-unsupported-driver-l3-97-niche-hit4-bench",
+  "flagged": "2026-11-24T21:55Z",
+  "hit": 4,
+  "lane": "gpu",
+  "found_via": [
+   "x-lane:L3"
+  ],
+  "first": "x-lane:L3",
+  "heat": null
+ },
+ {
+  "key": "anthropic-below-ipo-technology-5575-heating-business-skip",
+  "flagged": "2026-11-24T21:55Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "reddit-heat:HEATING"
+  ],
+  "first": "reddit",
+  "heat": 2198
+ },
+ {
+  "key": "gn14-sony-ceo-nothing-fresh-skip",
+  "flagged": "2026-11-24T21:55Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "gn:14"
+  ],
+  "first": "gn",
+  "heat": null
  }
 ]
