@@ -15820,5 +15820,134 @@
   ],
   "first": "gn:10",
   "heat": null
+ },
+ {
+  "key": "nvidia-621-40-hotfix-for-hotfix-pirat-170-l3-736-hit7-pitched",
+  "flagged": "2026-11-24T19:50Z",
+  "hit": 7,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-lane:L3",
+   "x-vel:nvidia-621-40",
+   "gn:nvidia-621-40",
+   "reddit-cross:R4"
+  ],
+  "first": "Wccftech/TechPowerUp ~15:15Z (Neowin 15:15Z)",
+  "heat": null
+ },
+ {
+  "key": "xbox-fullscreen-blackfriday-popup-tomwarren-125-hit8-lowvel",
+  "flagged": "2026-11-24T19:50Z",
+  "hit": 8,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "x-watch:tomwarren"
+  ],
+  "first": "x-watch:tomwarren 19:29Z",
+  "heat": null
+ },
+ {
+  "key": "jensen-therapy-allhands-wsj-l8-gossip-hit3-bench",
+  "flagged": "2026-11-24T19:50Z",
+  "hit": 3,
+  "lane": "scene-named-people",
+  "found_via": [
+   "x-lane:L8",
+   "reddit-heat:HEATING"
+  ],
+  "first": "WSJ via L8 19:17Z",
+  "heat": 4654
+ },
+ {
+  "key": "congress-war-nvidia-pcmr-technology-heating-1446-politics-skip",
+  "flagged": "2026-11-24T19:50Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-heat:HEATING"
+  ],
+  "first": "r/technology",
+  "heat": 1446
+ },
+ {
+  "key": "taketwo-dmca-2900-gta6-forks-pirat-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-24T19:50Z",
+  "hit": 0,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation 19:40Z",
+  "heat": null
+ },
+ {
+  "key": "anthropic-cofounders-sold-2b-ipo-whales-business-skip",
+  "flagged": "2026-11-24T19:50Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "SEC filings via unusual_whales",
+  "heat": null
+ },
+ {
+  "key": "cdpr-sony-witcher4-marketing-deal-vgc-511-business-hit4-bench",
+  "flagged": "2026-11-24T19:50Z",
+  "hit": 4,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:VGC_News",
+   "x-lane:L6",
+   "bsky:videogameschronicle.com"
+  ],
+  "first": "CD Projekt filing 18:0xZ",
+  "heat": null
+ },
+ {
+  "key": "chrome-extension-300gb-ssd-pcmr-324-userreport-hit6-lowvel",
+  "flagged": "2026-11-24T19:50Z",
+  "hit": 6,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "reddit-rising:pcmasterrace",
+   "reddit-rising:Windows11"
+  ],
+  "first": "r/Windows11",
+  "heat": 243
+ },
+ {
+  "key": "totilo-voicechat-recordings-moderation-bsky-54-niche-hit4-bench",
+  "flagged": "2026-11-24T19:50Z",
+  "hit": 4,
+  "lane": "privacy-default",
+  "found_via": [
+   "bsky:stephentotilo.bsky.social"
+  ],
+  "first": "Game File 19:07Z",
+  "heat": null
+ },
+ {
+  "key": "epic-ue-blueprints-dropped-games-96-niche-hit3-bench",
+  "flagged": "2026-11-24T19:50Z",
+  "hit": 3,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-rising:Games"
+  ],
+  "first": "r/Games",
+  "heat": 133
+ },
+ {
+  "key": "gn12-microsoft-windows-nothing-fresh-skip",
+  "flagged": "2026-11-24T19:50Z",
+  "hit": 0,
+  "lane": null,
+  "found_via": [
+   "gn:12"
+  ],
+  "first": null,
+  "heat": null
  }
 ]
