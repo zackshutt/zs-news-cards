@@ -15383,5 +15383,106 @@
   ],
   "first": "gn",
   "heat": null
+ },
+ {
+  "key": "gta6-pc-port-now-in-game-pcmr-4454-1400h-sameas-gta6-pc-port-posted-recirc",
+  "flagged": "2026-11-24T10:50Z",
+  "hit": 9,
+  "lane": "pc-unlock",
+  "found_via": [
+   "reddit-rising:pcmasterrace",
+   "github"
+  ],
+  "first": "reddit:pcmasterrace",
+  "heat": 1400
+ },
+ {
+  "key": "gta6-unofficial-port-notebookcheck-pcmr-4239-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-24T10:50Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "notebookcheck",
+  "heat": 1733
+ },
+ {
+  "key": "rockstar-double-dipping-gripe-pcmr-1171-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-24T10:50Z",
+  "hit": 4,
+  "lane": "ownership-rights",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit:pcmasterrace",
+  "heat": 282
+ },
+ {
+  "key": "jensen-elite-impunity-verge-technology-1153-gossip-recirc",
+  "flagged": "2026-11-24T10:50Z",
+  "hit": 3,
+  "lane": "exec-quote",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "theverge",
+  "heat": 299
+ },
+ {
+  "key": "nvidia-ransomware-nov28-deadline-technology-358-hack-hit3-bench",
+  "flagged": "2026-11-24T10:50Z",
+  "hit": 3,
+  "lane": "breach-hack",
+  "found_via": [
+   "reddit:technology"
+  ],
+  "first": "reddit:technology",
+  "heat": 120
+ },
+ {
+  "key": "windows-narrator-lockscreen-0day-fastunlock-github-711-hack-hit3-bench",
+  "flagged": "2026-11-24T10:50Z",
+  "hit": 3,
+  "lane": "breach-hack",
+  "found_via": [
+   "github"
+  ],
+  "first": "github",
+  "heat": null
+ },
+ {
+  "key": "xcl-xbox-compat-layer-github-5998-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-24T10:50Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "github"
+  ],
+  "first": "github",
+  "heat": null
+ },
+ {
+  "key": "pcmr-no-consequences-meme-11075-heating-nonews-skip",
+  "flagged": "2026-11-24T10:50Z",
+  "hit": 0,
+  "lane": "none",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit:pcmasterrace",
+  "heat": 2675
+ },
+ {
+  "key": "gn3-altman-samsung-ram-nothing-fresh-skip",
+  "flagged": "2026-11-24T10:50Z",
+  "hit": 0,
+  "lane": "none",
+  "found_via": [
+   "gn:3"
+  ],
+  "first": "gn",
+  "heat": null
  }
 ]
