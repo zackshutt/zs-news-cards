@@ -15077,5 +15077,110 @@
   ],
   "first": "gn:16",
   "heat": null
+ },
+ {
+  "key": "gta6-boots-on-pc-pcmr-9176-heating-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-24T01:45Z",
+  "hit": null,
+  "lane": "pc-unlock",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace",
+   "github"
+  ],
+  "first": "reddit-rising:pcmasterrace",
+  "heat": 11590
+ },
+ {
+  "key": "jensen-hq-ovation-photo-nvidia-30850-sameas-jensen-back-recirc",
+  "flagged": "2026-11-24T01:45Z",
+  "hit": null,
+  "lane": "scene-named-people",
+  "found_via": [
+   "x-lane:L9"
+  ],
+  "first": "x-lane:L9",
+  "heat": null
+ },
+ {
+  "key": "steam-market-watchlist-repricing-gabefollower-796-update-hit5-bench",
+  "flagged": "2026-11-24T01:45Z",
+  "hit": 5,
+  "lane": "steam-valve",
+  "found_via": [
+   "x-lane:L2"
+  ],
+  "first": "x-lane:L2",
+  "heat": null
+ },
+ {
+  "key": "nso-border-toggle-wario64-660-update-hit4-bench",
+  "flagged": "2026-11-24T01:45Z",
+  "hit": 4,
+  "lane": "quirky-product",
+  "found_via": [
+   "bsky:wario64.bsky.social",
+   "x-watch:Wario64"
+  ],
+  "first": "bsky:wario64.bsky.social",
+  "heat": null
+ },
+ {
+  "key": "gta6-ps-portal-cloud-stream-ps-plus-premium-ps5-464-update-hit4-bench",
+  "flagged": "2026-11-24T01:45Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:PS5",
+   "x-lane:L1"
+  ],
+  "first": "reddit-rising:PS5",
+  "heat": 557
+ },
+ {
+  "key": "gta6-hidden-portal-ps2-vice-city-pirat-879-trivia-hit3-bench",
+  "flagged": "2026-11-24T01:45Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "white-house-rescued-jensen-technology-heating-3859-politics-skip",
+  "flagged": "2026-11-24T01:45Z",
+  "hit": null,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology",
+  "heat": 2952
+ },
+ {
+  "key": "hookshot-oot-switch2-pc-recomp-github-612-niche-hit4-bench",
+  "flagged": "2026-11-24T01:45Z",
+  "hit": 4,
+  "lane": "pc-unlock",
+  "found_via": [
+   "github"
+  ],
+  "first": "github",
+  "heat": null
+ },
+ {
+  "key": "lisa-su-sells-48m-stock-gn18-business-skip",
+  "flagged": "2026-11-24T01:45Z",
+  "hit": null,
+  "lane": "business-finance",
+  "found_via": [
+   "gn:18"
+  ],
+  "first": "gn:18",
+  "heat": null
  }
 ]
