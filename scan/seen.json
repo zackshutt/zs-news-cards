@@ -15682,5 +15682,143 @@
   ],
   "first": null,
   "heat": null
+ },
+ {
+  "key": "jensen-more-affairs-board-technology-9547-heating-gossip-hit3-bench",
+  "flagged": "2026-11-24T17:45Z",
+  "hit": 3,
+  "lane": "exec-quote",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology",
+   "reddit-new:pcmasterrace"
+  ],
+  "first": "r/technology",
+  "heat": 9546
+ },
+ {
+  "key": "nvidia-engineer-moved-too-quick-whales-720-gossip-hit3-bench",
+  "flagged": "2026-11-24T17:45Z",
+  "hit": 3,
+  "lane": "exec-quote",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "x-watch:unusual_whales"
+  ],
+  "first": "r/pcmasterrace",
+  "heat": 3971
+ },
+ {
+  "key": "anthropic-below-ipo-whales-646-business-skip",
+  "flagged": "2026-11-24T17:45Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "x-watch:unusual_whales"
+  ],
+  "first": "r/technology",
+  "heat": 2656
+ },
+ {
+  "key": "nvidia-621-40-whql-ssd-fix-l3-68-update-hit7-lowvel",
+  "flagged": "2026-11-24T17:45Z",
+  "hit": 7,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "x-lane:L3",
+   "x-lane:L9"
+  ],
+  "first": "x-lane:L3",
+  "heat": null
+ },
+ {
+  "key": "chrome-extension-300gb-ssd-pcmr-122-userreport-hit6-lowvel",
+  "flagged": "2026-11-24T17:45Z",
+  "hit": 6,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "r/pcmasterrace",
+  "heat": 230
+ },
+ {
+  "key": "ms-code-red-outage-reuters-l4-23-business-hit4-bench",
+  "flagged": "2026-11-24T17:45Z",
+  "hit": 4,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "x-lane:L4"
+  ],
+  "first": "x-lane:L4",
+  "heat": null
+ },
+ {
+  "key": "pokemon-30th-countdown-disappoint-dexerto-490-fandom-hit5-bench",
+  "flagged": "2026-11-24T17:45Z",
+  "hit": 5,
+  "lane": "fandom-outrage",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto",
+  "heat": null
+ },
+ {
+  "key": "mario-wonder-sw2-pc-recomp-l7-33-niche-hit5-bench",
+  "flagged": "2026-11-24T17:45Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "x-lane:L7"
+  ],
+  "first": "x-lane:L7",
+  "heat": null
+ },
+ {
+  "key": "photoshop-hidden-ai-email-verge-bsky-174-noun-hit3-bench",
+  "flagged": "2026-11-24T17:45Z",
+  "hit": 3,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "bsky:theverge.com"
+  ],
+  "first": "bsky:theverge.com",
+  "heat": null
+ },
+ {
+  "key": "gta6-infinite-money-exploit-dexerto-4288-gtacap-hit3-bench",
+  "flagged": "2026-11-24T17:45Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto",
+  "heat": null
+ },
+ {
+  "key": "tidal-bans-ai-music-technology-923-niche-hit2-bench",
+  "flagged": "2026-11-24T17:45Z",
+  "hit": 2,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "bsky:theverge.com"
+  ],
+  "first": "r/technology",
+  "heat": 650
+ },
+ {
+  "key": "gn10-valve-steam-nothing-fresh-skip",
+  "flagged": "2026-11-24T17:45Z",
+  "hit": 0,
+  "lane": "steam-valve",
+  "found_via": [
+   "gn:10"
+  ],
+  "first": "gn:10",
+  "heat": null
  }
 ]
