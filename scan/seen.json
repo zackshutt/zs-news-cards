@@ -15278,5 +15278,16 @@
   ],
   "first": "The Hill",
   "heat": 271
+ },
+ {
+  "key": "cp2-director-cancelled-joke-gta6-ps5-5218-lab",
+  "flagged": "2026-11-24T03:59Z",
+  "hit": null,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-hot:PS5"
+  ],
+  "first": "bsky:srznsk",
+  "heat": 5218
  }
 ]
