@@ -16088,5 +16088,87 @@
   ],
   "first": "gn",
   "heat": null
+ },
+ {
+  "key": "ps5-fried-gta6-streamer-pirat-4656-unconfirmed-gtaday-hit6-bench",
+  "flagged": "2026-11-24T23:50Z",
+  "hit": 6,
+  "lane": "sony-anti-consumer",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "web:archetypeA"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "wb-malfoid-13-strikes-dexerto-6286-noun-hit5-bench",
+  "flagged": "2026-11-24T23:50Z",
+  "hit": 5,
+  "lane": "creator-drama-pc",
+  "found_via": [
+   "x-watch:Dexerto",
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Dexerto",
+  "heat": null
+ },
+ {
+  "key": "discord-rust-nitro-early-access-l11-672-rumor-hit5-bench",
+  "flagged": "2026-11-24T23:50Z",
+  "hit": 5,
+  "lane": "privacy-default",
+  "found_via": [
+   "x-lane:L11",
+   "web:archetypeA"
+  ],
+  "first": "x-lane:L11",
+  "heat": null
+ },
+ {
+  "key": "jensen-no-succession-plan-3subs-748-breakout-gossip-hit3-bench",
+  "flagged": "2026-11-24T23:50Z",
+  "hit": 3,
+  "lane": "exec-quote",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-rising:nvidia"
+  ],
+  "first": "reddit-rising:technology",
+  "heat": 1248
+ },
+ {
+  "key": "ms-code-red-outage-technology-742-business-hit4-bench",
+  "flagged": "2026-11-24T23:50Z",
+  "hit": 4,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-rising:technology",
+   "x-lane:L4"
+  ],
+  "first": "reddit-rising:technology",
+  "heat": null
+ },
+ {
+  "key": "cod-mw4-sale-l9-608-promo-skip",
+  "flagged": "2026-11-24T23:50Z",
+  "hit": 2,
+  "lane": "brand-banter",
+  "found_via": [
+   "x-lane:L9"
+  ],
+  "first": "x-lane:L9",
+  "heat": null
+ },
+ {
+  "key": "gn16-openai-memory-nothing-fresh-skip",
+  "flagged": "2026-11-24T23:50Z",
+  "hit": 0,
+  "lane": null,
+  "found_via": [
+   "gn:16"
+  ],
+  "first": "gn:16",
+  "heat": null
  }
 ]
