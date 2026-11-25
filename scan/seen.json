@@ -16781,5 +16781,155 @@
   ],
   "first": "NPR",
   "heat": null
+ },
+ {
+  "key": "razer-durex-condoms-dexerto-1406-quirky-noun-hit3-bench",
+  "flagged": "2026-11-25T15:45Z",
+  "hit": 3,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto",
+  "heat": null
+ },
+ {
+  "key": "witcher4-leap-gta6-cdpr-dexerto-976-notyourstuff-hit5-bench",
+  "flagged": "2026-11-25T15:45Z",
+  "hit": 5,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto",
+  "heat": null
+ },
+ {
+  "key": "team-cherry-cherry-time-wario-2427-announce-hit3-bench",
+  "flagged": "2026-11-25T15:45Z",
+  "hit": 3,
+  "lane": "fandom-outrage",
+  "found_via": [
+   "x-watch:Wario64",
+   "bsky:wario64.bsky.social"
+  ],
+  "first": "x-watch:Wario64",
+  "heat": null
+ },
+ {
+  "key": "harvard-datacenter-emissions-technology-898-heating-offtopic-hit3-bench",
+  "flagged": "2026-11-25T15:45Z",
+  "hit": 3,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology",
+  "heat": 896
+ },
+ {
+  "key": "datacenter-power-19pct-whales-115-nonoun-hit3-bench",
+  "flagged": "2026-11-25T15:45Z",
+  "hit": 3,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales",
+  "heat": null
+ },
+ {
+  "key": "ea-bioware-darrah-quote-pirat-167-gossip-hit3-bench",
+  "flagged": "2026-11-25T15:45Z",
+  "hit": 3,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "claude-make-no-mistakes-pcmr-2971-heating-meme-hit2-bench",
+  "flagged": "2026-11-25T15:45Z",
+  "hit": 2,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit-rising:pcmasterrace",
+  "heat": 1975
+ },
+ {
+  "key": "just-let-me-shut-down-pcmr-992-heating-meme-hit2-bench",
+  "flagged": "2026-11-25T15:45Z",
+  "hit": 2,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit-rising:pcmasterrace",
+  "heat": 667
+ },
+ {
+  "key": "schumer-nvidia-ceo-export-technology-583-politics-skip",
+  "flagged": "2026-11-25T15:45Z",
+  "hit": 0,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology",
+  "heat": 416
+ },
+ {
+  "key": "verstappen-gta6-40h-dexerto-236-sports-skip",
+  "flagged": "2026-11-25T15:45Z",
+  "hit": 0,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto",
+   "x-watch:pcgamer"
+  ],
+  "first": "x-watch:pcgamer",
+  "heat": null
+ },
+ {
+  "key": "xcl-xbox-compat-layer-github-8171-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-25T15:45Z",
+  "hit": 0,
+  "lane": "pc-unlock",
+  "found_via": [
+   "github"
+  ],
+  "first": "github",
+  "heat": null
+ },
+ {
+  "key": "openai-pro-limits-doubled-web-4wk-old-skip",
+  "flagged": "2026-11-25T15:45Z",
+  "hit": 0,
+  "lane": "ai-tech-consumer",
+  "found_via": [
+   "web:ai-tech",
+   "gn:finalist"
+  ],
+  "first": "web:ai-tech",
+  "heat": null
+ },
+ {
+  "key": "gn8-xbox-ceo-sharma-nothing-fresh-skip",
+  "flagged": "2026-11-25T15:45Z",
+  "hit": 0,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "gn:8"
+  ],
+  "first": "gn:8",
+  "heat": null
  }
 ]
