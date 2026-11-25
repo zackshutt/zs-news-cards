@@ -16343,5 +16343,85 @@
   ],
   "first": "r/gaming",
   "heat": 3294
+ },
+ {
+  "key": "apex-leaders-studio-closing-gaming-826-heating-niche-hit3-bench",
+  "flagged": "2026-11-25T05:45Z",
+  "hit": 3,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:gaming"
+  ],
+  "first": "reddit",
+  "heat": 824
+ },
+ {
+  "key": "anthropic-below-ipo-ceo-sells-technology-6777-heating-business-skip",
+  "flagged": "2026-11-25T05:45Z",
+  "hit": 4,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "reddit",
+  "heat": 3488
+ },
+ {
+  "key": "gta6-strip-club-inquiries-pirat-275-gtacap-hit2-bench",
+  "flagged": "2026-11-25T05:45Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "poe2-director-blizzard-livestreams-pirat-178-noun-hit3-bench",
+  "flagged": "2026-11-25T05:45Z",
+  "hit": 3,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "trendforce-2027-dram-outlook-cut-l6-5-hit5-lowvel",
+  "flagged": "2026-11-25T05:45Z",
+  "hit": 5,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "x-lane:L6",
+   "web:archetypeA"
+  ],
+  "first": "x-lane:L6",
+  "heat": null
+ },
+ {
+  "key": "mcdonalds-halo-side-mission-gn22-quirky-hit4-bench",
+  "flagged": "2026-11-25T05:45Z",
+  "hit": 4,
+  "lane": "quirky-product",
+  "found_via": [
+   "gn:22"
+  ],
+  "first": "halowaypoint",
+  "heat": null
+ },
+ {
+  "key": "gn22-kfc-mcd-lego-nothing-fresh-skip",
+  "flagged": "2026-11-25T05:45Z",
+  "hit": 0,
+  "lane": "quirky-product",
+  "found_via": [
+   "gn:22"
+  ],
+  "first": "gn",
+  "heat": null
  }
 ]
