@@ -17219,5 +17219,140 @@
   ],
   "first": "gn12",
   "heat": null
+ },
+ {
+  "key": "sweeney-claude-antidistill-garbage-pirat-1020-tier2-misframed-hit6-bench",
+  "flagged": "2026-11-25T21:50Z",
+  "hit": 6,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "gn:finalist",
+   "x-vel:sweeney-claude"
+  ],
+  "first": "wccftech 2026-11-25 15:30Z",
+  "heat": null
+ },
+ {
+  "key": "openai-chatgpt-single-usage-meter-techcrunch-88-heavyonly-hit6-lowvel",
+  "flagged": "2026-11-25T21:50Z",
+  "hit": 6,
+  "lane": "ai-tech-consumer",
+  "found_via": [
+   "x-watch:TechCrunch",
+   "gn:finalist",
+   "x-vel:chatgpt-meter"
+  ],
+  "first": "Decrypt 17:46Z / TechCrunch 20:03Z",
+  "heat": null
+ },
+ {
+  "key": "ms-code-red-outlook-technology-3453-heating-business-hit5-bench",
+  "flagged": "2026-11-25T21:50Z",
+  "hit": 5,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology",
+   "x-vel:code-red"
+  ],
+  "first": "Reuters Nov 24",
+  "heat": 2136
+ },
+ {
+  "key": "gta6-pc-10fps-pcmr-18559-heating-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-25T21:50Z",
+  "hit": 0,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace",
+   "github",
+   "x-lane:L7"
+  ],
+  "first": "reddit:pcmasterrace",
+  "heat": 22270
+ },
+ {
+  "key": "gta6-ps5-decrypted-dump-pcmr-2591-heating-gta-leak-hit2-bench",
+  "flagged": "2026-11-25T21:50Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit:pcmasterrace",
+  "heat": 1735
+ },
+ {
+  "key": "gta6-writer-deletes-x-pirat-4094-gossip-skip",
+  "flagged": "2026-11-25T21:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "gta6-stranger-ps5-5min-dexerto-931-gta-hit3-bench",
+  "flagged": "2026-11-25T21:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto",
+  "heat": null
+ },
+ {
+  "key": "witcher4-xbox-day-one-vgc-72-notyourstuff-hit4-bench",
+  "flagged": "2026-11-25T21:50Z",
+  "hit": 4,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-watch:VGC_News",
+   "bsky:videogameschronicle.com",
+   "x-lane:L1"
+  ],
+  "first": "VGC 20:36Z",
+  "heat": 1336
+ },
+ {
+  "key": "peta-jensen-jacket-dexerto-44-quirky-hit4-bench",
+  "flagged": "2026-11-25T21:50Z",
+  "hit": 4,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto",
+  "heat": null
+ },
+ {
+  "key": "umamusume-knockoff-google-play-dexerto-1048-niche-hit2-bench",
+  "flagged": "2026-11-25T21:50Z",
+  "hit": 2,
+  "lane": "skip",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto",
+  "heat": null
+ },
+ {
+  "key": "jensen-affair-schumer-pardon-l8-politics-skip",
+  "flagged": "2026-11-25T21:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "x-lane:L8",
+   "x-watch:unusual_whales",
+   "reddit-heat:HEATING"
+  ],
+  "first": "reddit:technology",
+  "heat": 627
  }
 ]
