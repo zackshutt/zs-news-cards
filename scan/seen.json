@@ -16263,5 +16263,74 @@
   ],
   "first": "gn:18",
   "heat": null
+ },
+ {
+  "key": "exoprimal-eos-wario-2983-noun-hit4-bench",
+  "flagged": "2026-11-25T03:45Z",
+  "hit": 4,
+  "lane": "ownership-rights",
+  "found_via": [
+   "x-watch:Wario64",
+   "bsky:wario64.bsky.social"
+  ],
+  "first": "x-watch:Wario64",
+  "heat": null
+ },
+ {
+  "key": "cod-lost-44pct-gta6-pcgamer-business-hit4-bench",
+  "flagged": "2026-11-25T03:45Z",
+  "hit": 4,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:pcgamer"
+  ],
+  "first": "x-watch:pcgamer",
+  "heat": null
+ },
+ {
+  "key": "sony-gta6-no-refunds-l1-userchatter-gtacap-hit5-bench",
+  "flagged": "2026-11-25T03:45Z",
+  "hit": 5,
+  "lane": "sony-anti-consumer",
+  "found_via": [
+   "x-lane:L1"
+  ],
+  "first": "x-lane:L1",
+  "heat": null
+ },
+ {
+  "key": "jensen-pardon-trump-whales-politics-skip",
+  "flagged": "2026-11-25T03:45Z",
+  "hit": 0,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-watch:unusual_whales",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "x-watch:unusual_whales",
+  "heat": 140
+ },
+ {
+  "key": "bosses-ai-workslop-technology-heating-1078h-offtopic-hit2-bench",
+  "flagged": "2026-11-25T03:45Z",
+  "hit": 2,
+  "lane": "none",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology",
+  "heat": 1348
+ },
+ {
+  "key": "gn20-nvidia-hotfix-nothing-fresh-skip",
+  "flagged": "2026-11-25T03:45Z",
+  "hit": 0,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "gn:20"
+  ],
+  "first": "gn:20",
+  "heat": null
  }
 ]
