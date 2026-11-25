@@ -16170,5 +16170,98 @@
   ],
   "first": "gn:16",
   "heat": null
+ },
+ {
+  "key": "win11-ram-eaters-ignite-pcmr-267-heating-hit10-pitched",
+  "flagged": "2026-11-25T01:55Z",
+  "hit": 10,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit:pcmasterrace",
+   "gn:finalist"
+  ],
+  "first": "web:windowslatest (22:55Z)",
+  "heat": 212
+ },
+ {
+  "key": "ms-replacing-oem-drivers-printers-pcmr-134-hit6-lowvel",
+  "flagged": "2026-11-25T01:55Z",
+  "hit": 6,
+  "lane": "privacy-default",
+  "found_via": [
+   "reddit:pcmasterrace"
+  ],
+  "first": "web:windowslatest",
+  "heat": null
+ },
+ {
+  "key": "ms-bluetooth-mtp-deprecated-windows11-133-hit4-bench",
+  "flagged": "2026-11-25T01:55Z",
+  "hit": 4,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "reddit:Windows11",
+   "reddit:pcmasterrace"
+  ],
+  "first": "web:windowslatest",
+  "heat": null
+ },
+ {
+  "key": "exoprimal-eos-wario-47-niche-hit3-bench",
+  "flagged": "2026-11-25T01:55Z",
+  "hit": 3,
+  "lane": "ownership-rights",
+  "found_via": [
+   "x-watch:Wario64",
+   "bsky:wario64.bsky.social"
+  ],
+  "first": "x-watch:Wario64",
+  "heat": null
+ },
+ {
+  "key": "mario-kart-world-1-9-update-wario-1094-update-skip",
+  "flagged": "2026-11-25T01:55Z",
+  "hit": 3,
+  "lane": "update-posts",
+  "found_via": [
+   "x-watch:Wario64",
+   "bsky:wario64.bsky.social"
+  ],
+  "first": "x-watch:Wario64",
+  "heat": null
+ },
+ {
+  "key": "google-my-channel-ai-tv-patent-pirat-203-patent-hit3-bench",
+  "flagged": "2026-11-25T01:55Z",
+  "hit": 3,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "windows-narrator-lockscreen-0day-github-727-breach-skip",
+  "flagged": "2026-11-25T01:55Z",
+  "hit": 3,
+  "lane": "breach-hack",
+  "found_via": [
+   "github"
+  ],
+  "first": "github",
+  "heat": null
+ },
+ {
+  "key": "gn18-amd-lisa-su-nothing-fresh-skip",
+  "flagged": "2026-11-25T01:55Z",
+  "hit": 0,
+  "lane": "exec-quote",
+  "found_via": [
+   "gn:18"
+  ],
+  "first": "gn:18",
+  "heat": null
  }
 ]
