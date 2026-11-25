@@ -17354,5 +17354,101 @@
   ],
   "first": "reddit:technology",
   "heat": 627
+ },
+ {
+  "key": "steam-games-without-ai-event-r-steam-496-heating-devrun-hit5-bench",
+  "flagged": "2026-11-25T23:50Z",
+  "hit": 5,
+  "lane": "steam-valve",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:Steam"
+  ],
+  "first": "reddit:Steam",
+  "heat": 494
+ },
+ {
+  "key": "1password-breach-names-emails-technology-1252-heating-breach-noun-hit4-bench",
+  "flagged": "2026-11-25T23:50Z",
+  "hit": 4,
+  "lane": "breach-hack",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit:technology",
+  "heat": 1861
+ },
+ {
+  "key": "gears-of-war-trilogy-native-pc-steamdeck-140-lowvel-hit5-bench",
+  "flagged": "2026-11-25T23:50Z",
+  "hit": 5,
+  "lane": "pc-unlock",
+  "found_via": [
+   "reddit-rising:SteamDeck"
+  ],
+  "first": "reddit:SteamDeck",
+  "heat": 159
+ },
+ {
+  "key": "kamiya-castlevania-offer-breakout-709-notyourstuff-hit3-bench",
+  "flagged": "2026-11-25T23:50Z",
+  "hit": 3,
+  "lane": "exec-quote",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-rising:gaming",
+   "x-watch:wccftech"
+  ],
+  "first": "reddit:Games",
+  "heat": 766
+ },
+ {
+  "key": "nvidia-credit-outlook-sp-moodys-techcrunch-business-skip",
+  "flagged": "2026-11-25T23:50Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:TechCrunch",
+   "x-lane:L3"
+  ],
+  "first": "x:TechCrunch",
+  "heat": null
+ },
+ {
+  "key": "github-copilot-review-billing-default-l4-6-devonly-hit4-bench",
+  "flagged": "2026-11-25T23:50Z",
+  "hit": 4,
+  "lane": "ai-tech-consumer",
+  "found_via": [
+   "x-lane:L4"
+  ],
+  "first": "x-lane:L4",
+  "heat": null
+ },
+ {
+  "key": "fortnite-pirate-token-cheat-bans-pirat-157-hit3-bench",
+  "flagged": "2026-11-25T23:50Z",
+  "hit": 3,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "gta6-pc-port-look-how-far-pcmr-12906-heating-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-25T23:50Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace",
+   "github"
+  ],
+  "first": "reddit:pcmasterrace",
+  "heat": 9484
  }
 ]
