@@ -16931,5 +16931,189 @@
   ],
   "first": "gn:8",
   "heat": null
+ },
+ {
+  "key": "gpt56-sol-retire-dec23-openai-131-lowvel-hit7-lowvel",
+  "flagged": "2026-11-25T17:48Z",
+  "hit": 7,
+  "lane": "ai-tech-consumer",
+  "found_via": [
+   "reddit:OpenAI",
+   "gn:finalist"
+  ],
+  "first": "reddit:OpenAI",
+  "heat": 72
+ },
+ {
+  "key": "steam-goty-decade-bracket-dexerto-5335-engagement-hit5-bench",
+  "flagged": "2026-11-25T17:48Z",
+  "hit": 5,
+  "lane": "engagement",
+  "found_via": [
+   "x-watch:Dexerto",
+   "gn10:Valve Steam"
+  ],
+  "first": "x-watch:Dexerto",
+  "heat": null
+ },
+ {
+  "key": "gta6-nz-censored-version-dexerto-4667-gtacap-hit7-bench",
+  "flagged": "2026-11-25T17:48Z",
+  "hit": 7,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto",
+  "heat": null
+ },
+ {
+  "key": "gta6-steam-9010-split-rumor-l2-41-gtacap-rumor-hit3-bench",
+  "flagged": "2026-11-25T17:48Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-lane:L2"
+  ],
+  "first": "x-lane:L2",
+  "heat": null
+ },
+ {
+  "key": "xbox-account-ex-police-gta6-dexerto-316-gossip-hit2-bench",
+  "flagged": "2026-11-25T17:48Z",
+  "hit": 2,
+  "lane": "engagement",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto",
+  "heat": null
+ },
+ {
+  "key": "github-down-pirat-755-noun-hit3-bench",
+  "flagged": "2026-11-25T17:48Z",
+  "hit": 3,
+  "lane": "platform-outage",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "ps-plus-dec-lineup-l9-2847-update-skip",
+  "flagged": "2026-11-25T17:48Z",
+  "hit": 0,
+  "lane": "update-posts",
+  "found_via": [
+   "x-lane:L9",
+   "x-watch:Wario64",
+   "bsky:wario64"
+  ],
+  "first": "x-lane:L9",
+  "heat": null
+ },
+ {
+  "key": "silksong-sea-of-sorrow-stream-pirat-1212-announce-hit3-bench",
+  "flagged": "2026-11-25T17:48Z",
+  "hit": 3,
+  "lane": "announce",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "reddit-heat:BREAKOUT"
+  ],
+  "first": "reddit:Games",
+  "heat": 1165
+ },
+ {
+  "key": "anthropic-openai-staff-fear-release-axios-whales-611-gossip-hit4-bench",
+  "flagged": "2026-11-25T17:48Z",
+  "hit": 4,
+  "lane": "ai-tech-consumer",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales",
+  "heat": null
+ },
+ {
+  "key": "mayo-clinic-906k-boot-pc-pay-technology-2354-heating-nonoun-hit3-bench",
+  "flagged": "2026-11-25T17:48Z",
+  "hit": 3,
+  "lane": "quirky-product",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "reddit:technology",
+  "heat": 1505
+ },
+ {
+  "key": "ai-chose-over-gpus-pcmr-1431-heating-meme-hit3-bench",
+  "flagged": "2026-11-25T17:48Z",
+  "hit": 3,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit:pcmasterrace",
+  "heat": 1390
+ },
+ {
+  "key": "nvidia-chips-russian-drones-technology-1238-politics-skip",
+  "flagged": "2026-11-25T17:48Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "reddit-heat:HEATING"
+  ],
+  "first": "reddit:technology",
+  "heat": 1217
+ },
+ {
+  "key": "jensen-mistress-husband-intel-technology-3536-politics-gossip-skip",
+  "flagged": "2026-11-25T17:48Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "x-lane:L8"
+  ],
+  "first": "reddit:technology",
+  "heat": 3536
+ },
+ {
+  "key": "nvda-stock-13pct-2day-whales-business-skip",
+  "flagged": "2026-11-25T17:48Z",
+  "hit": 0,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales",
+  "heat": null
+ },
+ {
+  "key": "yooka-laylee-impossible-lair-de-wario-377-niche-hit2-bench",
+  "flagged": "2026-11-25T17:48Z",
+  "hit": 2,
+  "lane": "announce",
+  "found_via": [
+   "x-watch:Wario64"
+  ],
+  "first": "x-watch:Wario64",
+  "heat": null
+ },
+ {
+  "key": "gn10-valve-steam-nothing-fresh-skip",
+  "flagged": "2026-11-25T17:48Z",
+  "hit": 0,
+  "lane": "steam-valve",
+  "found_via": [
+   "gn10:Valve Steam"
+  ],
+  "first": "gn10",
+  "heat": null
  }
 ]
