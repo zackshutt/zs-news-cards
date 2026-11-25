@@ -16598,5 +16598,188 @@
   ],
   "first": "r/technology",
   "heat": null
+ },
+ {
+  "key": "nvidia-gpu-supply-cut-20-30-q4-boardchannels-hit8-pitched",
+  "flagged": "2026-11-25T13:41Z",
+  "hit": 8,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-rising:hardware",
+   "reddit-rising:nvidia",
+   "reddit-rising:pcgaming",
+   "reddit-rising:pcmasterrace",
+   "x-watch:VideoCardz",
+   "x-watch:Pirat_Nation",
+   "x-watch:wccftech",
+   "gn:finalist",
+   "web:archetypeA"
+  ],
+  "first": "VideoCardz 10:55Z (Board Channels)",
+  "heat": 5454
+ },
+ {
+  "key": "gta6-pc-port-graphical-archive-pcmr-4836-heating-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-25T13:41Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace",
+   "github"
+  ],
+  "first": "reddit-rising:pcmasterrace",
+  "heat": 1781
+ },
+ {
+  "key": "taketwo-3000-repos-technology-4120-heating-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-25T13:41Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "reddit",
+  "heat": 2817
+ },
+ {
+  "key": "ms-code-red-outlook-outage-tomwarren-293-business-hit4-bench",
+  "flagged": "2026-11-25T13:41Z",
+  "hit": 4,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:tomwarren",
+   "bsky:tomwarren.co.uk",
+   "bsky:theverge.com"
+  ],
+  "first": "tomwarren 11:14Z",
+  "heat": null
+ },
+ {
+  "key": "ms-customer-data-hackers-technology-1221-heating-breach-hit5-bench",
+  "flagged": "2026-11-25T13:41Z",
+  "hit": 5,
+  "lane": "breach-hack",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology",
+  "heat": 309
+ },
+ {
+  "key": "intel-ultra-4000-specs-videocardz-267-leak-hit4-bench",
+  "flagged": "2026-11-25T13:41Z",
+  "hit": 4,
+  "lane": "spec-leak",
+  "found_via": [
+   "x-watch:VideoCardz"
+  ],
+  "first": "VideoCardz",
+  "heat": null
+ },
+ {
+  "key": "fortnite-ddlc-collab-dexerto-1086-leak-niche-hit4-bench",
+  "flagged": "2026-11-25T13:41Z",
+  "hit": 4,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto",
+  "heat": null
+ },
+ {
+  "key": "gta6-players-leave-lucia-jail-pirat-1075-gtacap-hit3-bench",
+  "flagged": "2026-11-25T13:41Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "gaben-piracy-service-quote-pcmr-1265-heating-old-quote-hit5-bench",
+  "flagged": "2026-11-25T13:41Z",
+  "hit": 5,
+  "lane": "steam-valve",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit-rising:pcmasterrace",
+  "heat": 669
+ },
+ {
+  "key": "ny-bans-ai-stuffed-animals-technology-233-offtopic-hit3-bench",
+  "flagged": "2026-11-25T13:41Z",
+  "hit": 3,
+  "lane": "ai-tech-consumer",
+  "found_via": [
+   "reddit-rising:technology",
+   "reddit-cross:R6"
+  ],
+  "first": "reddit",
+  "heat": 129
+ },
+ {
+  "key": "samsung-2027-dram-sold-out-hardware-125-singlesource-hit7-lowvel",
+  "flagged": "2026-11-25T13:41Z",
+  "hit": 7,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "reddit-new:hardware"
+  ],
+  "first": "TweakTown",
+  "heat": null
+ },
+ {
+  "key": "atari-homebrew-ai-flood-pirat-119-niche-hit3-bench",
+  "flagged": "2026-11-25T13:41Z",
+  "hit": 3,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "ea-fc27-ai-motson-vgc-10-niche-hit4-bench",
+  "flagged": "2026-11-25T13:41Z",
+  "hit": 4,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "x-watch:VGC_News",
+   "bsky:videogameschronicle.com"
+  ],
+  "first": "VGC",
+  "heat": null
+ },
+ {
+  "key": "treasury-hack-responder-github-404media-1002-politics-skip",
+  "flagged": "2026-11-25T13:41Z",
+  "hit": 2,
+  "lane": "breach-hack",
+  "found_via": [
+   "bsky:404media.co"
+  ],
+  "first": "404media",
+  "heat": null
+ },
+ {
+  "key": "gn6-nvidia-ceo-jensen-congress-politics-skip",
+  "flagged": "2026-11-25T13:41Z",
+  "hit": 2,
+  "lane": "scene-named-people",
+  "found_via": [
+   "gn:6"
+  ],
+  "first": "NPR",
+  "heat": null
  }
 ]
