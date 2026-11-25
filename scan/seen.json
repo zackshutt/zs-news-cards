@@ -16423,5 +16423,145 @@
   ],
   "first": "gn",
   "heat": null
+ },
+ {
+  "key": "slotbound-ai-1-3m-pirat-4630-hit6-pitched",
+  "flagged": "2026-11-25T10:52Z",
+  "hit": 6,
+  "lane": "steam-valve",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "gn:finalist",
+   "web:archetypeA",
+   "x-vel:slotbound"
+  ],
+  "first": "Inven Global 2026-11-24 06:20Z",
+  "heat": null
+ },
+ {
+  "key": "gaben-emperor-meme-steam-2044-meme-hit3-bench",
+  "flagged": "2026-11-25T10:52Z",
+  "hit": 3,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-rising:Steam"
+  ],
+  "first": "r/Steam",
+  "heat": 613
+ },
+ {
+  "key": "steam-found-issue-usermeme-2904-heating-hit3-bench",
+  "flagged": "2026-11-25T10:52Z",
+  "hit": 3,
+  "lane": "steam-valve",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:Steam"
+  ],
+  "first": "r/Steam",
+  "heat": 726
+ },
+ {
+  "key": "torvalds-ai-companion-linux-1112-heating-noun-hit4-bench",
+  "flagged": "2026-11-25T10:52Z",
+  "hit": 4,
+  "lane": "exec-quote",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:linux"
+  ],
+  "first": "r/linux",
+  "heat": 404
+ },
+ {
+  "key": "ms-entra-health-breach-technology-572-breach-hit4-bench",
+  "flagged": "2026-11-25T10:52Z",
+  "hit": 4,
+  "lane": "breach-hack",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "cybernews",
+  "heat": 116
+ },
+ {
+  "key": "jensen-influence-op-technology-928-politics-skip",
+  "flagged": "2026-11-25T10:52Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "techradar",
+  "heat": 202
+ },
+ {
+  "key": "taketwo-3000-repos-videocardz-389-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-25T10:52Z",
+  "hit": 0,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:videocardz",
+   "reddit-heat:HEATING",
+   "github"
+  ],
+  "first": "x-watch:videocardz",
+  "heat": 1451
+ },
+ {
+  "key": "gta6-woke-backlash-pirat-338-culturewar-skip",
+  "flagged": "2026-11-25T10:52Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "openai-cisco-shirudo-pirat-361-business-hit3-bench",
+  "flagged": "2026-11-25T10:52Z",
+  "hit": 3,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "tlou2-bailey-leaks-pirat-293-noun-hit3-bench",
+  "flagged": "2026-11-25T10:52Z",
+  "hit": 3,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "anybox-xbox-pc-port-l7-75-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-25T10:52Z",
+  "hit": 0,
+  "lane": "pc-unlock",
+  "found_via": [
+   "x-lane:L7",
+   "github"
+  ],
+  "first": "x-lane:L7",
+  "heat": null
+ },
+ {
+  "key": "gn3-altman-samsung-nothing-fresh-skip",
+  "flagged": "2026-11-25T10:52Z",
+  "hit": 0,
+  "lane": null,
+  "found_via": [
+   "gn:3"
+  ],
+  "first": "gn:3",
+  "heat": null
  }
 ]
