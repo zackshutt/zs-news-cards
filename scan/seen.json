@@ -17115,5 +17115,109 @@
   ],
   "first": "gn10",
   "heat": null
+ },
+ {
+  "key": "consoles-tariffs-2027-pirat-624-politics-hit5-bench",
+  "flagged": "2026-11-25T19:45Z",
+  "hit": 5,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "gn:finalist"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "demons-souls-remake-unofficial-pc-port-pcmr-1155-heating-hit4-bench",
+  "flagged": "2026-11-25T19:45Z",
+  "hit": 4,
+  "lane": "unlock",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit:pcmasterrace",
+  "heat": 969
+ },
+ {
+  "key": "nvidia-cmp-64gb-locked-5089-l3-19-recheck-hit6-lowvel",
+  "flagged": "2026-11-25T19:45Z",
+  "hit": 6,
+  "lane": "gpu",
+  "found_via": [
+   "x-lane:L3",
+   "x-lane:L7"
+  ],
+  "first": "x-lane:L3",
+  "heat": null
+ },
+ {
+  "key": "rockstar-steam-9010-split-l2-46-rumor-gta-recirc",
+  "flagged": "2026-11-25T19:45Z",
+  "hit": 0,
+  "lane": "gta",
+  "found_via": [
+   "x-lane:L2"
+  ],
+  "first": "x-lane:L2",
+  "heat": null
+ },
+ {
+  "key": "gta6-xbox-leak-pc-emulator-claude-whales-86-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-25T19:45Z",
+  "hit": 0,
+  "lane": "gta",
+  "found_via": [
+   "x-watch:unusual_whales",
+   "x-lane:L7"
+  ],
+  "first": "x-watch:unusual_whales",
+  "heat": null
+ },
+ {
+  "key": "gta6-scrapped-decorating-crafting-dexerto-159-gta-hit2-bench",
+  "flagged": "2026-11-25T19:45Z",
+  "hit": 2,
+  "lane": "gta",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto",
+  "heat": null
+ },
+ {
+  "key": "discord-black-friday-shop-l9-437-promo-skip",
+  "flagged": "2026-11-25T19:45Z",
+  "hit": 0,
+  "lane": "brand-banter",
+  "found_via": [
+   "x-lane:L9"
+  ],
+  "first": "x-lane:L9",
+  "heat": null
+ },
+ {
+  "key": "spacex-fcc-1m-sats-starmind-whales-823-business-skip",
+  "flagged": "2026-11-25T19:45Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "x-watch:unusual_whales",
+   "bsky:theverge.com"
+  ],
+  "first": "x-watch:unusual_whales",
+  "heat": null
+ },
+ {
+  "key": "gn12-microsoft-windows-nothing-new-skip",
+  "flagged": "2026-11-25T19:45Z",
+  "hit": 0,
+  "lane": "microsoft",
+  "found_via": [
+   "gn12:Microsoft Windows"
+  ],
+  "first": "gn12",
+  "heat": null
  }
 ]
