@@ -16425,7 +16425,7 @@
   "heat": null
  },
  {
-  "key": "slotbound-ai-1-3m-pirat-4630-hit6-pitched",
+  "key": "slotbound-ai-1-3m-pirat-4630-hit6-zackpass-skip",
   "flagged": "2026-11-25T10:52Z",
   "hit": 6,
   "lane": "steam-valve",
@@ -16562,6 +16562,41 @@
    "gn:3"
   ],
   "first": "gn:3",
+  "heat": null
+ },
+ {
+  "key": "samsung-2027-dram-sold-out-tweaktown-70-singlesource-hit7-lowvel",
+  "flagged": "2026-11-25T11:05Z",
+  "hit": 7,
+  "lane": "supply-chain",
+  "found_via": [
+   "reddit-new:hardware",
+   "gn:finalist",
+   "x-vel:samsung-dram"
+  ],
+  "first": "Economy Tribune 2026-11-21 via TechPowerUp 11-23",
+  "heat": null
+ },
+ {
+  "key": "bosses-ai-workslop-technology-5118-offtopic-hit3-bench",
+  "flagged": "2026-11-25T11:05Z",
+  "hit": 3,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "r/technology",
+  "heat": null
+ },
+ {
+  "key": "tidal-delete-29m-ai-tracks-artificial-niche-hit3-bench",
+  "flagged": "2026-11-25T11:05Z",
+  "hit": 3,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "reddit-rising:artificial"
+  ],
+  "first": "r/technology",
   "heat": null
  }
 ]
