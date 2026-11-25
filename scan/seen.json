@@ -16332,5 +16332,16 @@
   ],
   "first": "gn:20",
   "heat": null
+ },
+ {
+  "key": "xbox-helix-free-online-steam-wc-gaming-3294-lab",
+  "flagged": "2026-11-25T03:58Z",
+  "hit": null,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-hot:gaming"
+  ],
+  "first": "r/gaming",
+  "heat": 3294
  }
 ]
