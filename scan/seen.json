@@ -17995,5 +17995,128 @@
   ],
   "first": "github",
   "heat": null
+ },
+ {
+  "key": "nvidia-621-40-black-screens-pirat-680-heating-hit7-pitched",
+  "flagged": "2026-11-26T15:50Z",
+  "hit": 7,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace",
+   "reddit-cross:R4",
+   "x-watch:Pirat_Nation",
+   "x-lane:L3",
+   "gn:finalist"
+  ],
+  "first": "wccftech 2026-11-26T10:02Z",
+  "heat": 1351
+ },
+ {
+  "key": "ubisoft-ai-mandate-psychosis-pirat-140-heating-fitfail-hit6-bench",
+  "flagged": "2026-11-26T15:50Z",
+  "hit": 6,
+  "lane": "ai-shoved-in",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace",
+   "x-watch:Pirat_Nation",
+   "web:ai-hunt"
+  ],
+  "first": "r/pcmasterrace",
+  "heat": 836
+ },
+ {
+  "key": "win11-900mb-ram-wccftech-61-sameas-win11-ram-eaters-recirc",
+  "flagged": "2026-11-26T15:50Z",
+  "hit": null,
+  "lane": "ai-vs-your-pc",
+  "found_via": [
+   "x-watch:wccftech"
+  ],
+  "first": "wccftech",
+  "heat": null
+ },
+ {
+  "key": "huawei-hbm-chip-whales-470-business-skip",
+  "flagged": "2026-11-26T15:50Z",
+  "hit": null,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "unusual_whales",
+  "heat": null
+ },
+ {
+  "key": "rockstar-union-vote-75-no-dexerto-gta-labor-skip",
+  "flagged": "2026-11-26T15:50Z",
+  "hit": null,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto",
+   "x-watch:Pirat_Nation",
+   "bsky:stephentotilo.bsky.social",
+   "reddit-heat:BREAKOUT"
+  ],
+  "first": "Dexerto",
+  "heat": 60
+ },
+ {
+  "key": "github-anyps5-post-deleted-pirat-207-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-26T15:50Z",
+  "hit": null,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "gta6-gym-skippers-dexerto-944-gta-quirky-hit3-bench",
+  "flagged": "2026-11-26T15:50Z",
+  "hit": 3,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto",
+  "heat": null
+ },
+ {
+  "key": "ryzen-9800x3d-369-low-videocardz-41-deal-hit5-bench",
+  "flagged": "2026-11-26T15:50Z",
+  "hit": 5,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "x-watch:videocardz",
+   "x-watch:wccftech"
+  ],
+  "first": "VideoCardz",
+  "heat": null
+ },
+ {
+  "key": "rockstar-steam-90-10-impasse-l2-34-gta-rumor-hit3-bench",
+  "flagged": "2026-11-26T15:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-lane:L2"
+  ],
+  "first": "x-lane:L2",
+  "heat": null
+ },
+ {
+  "key": "nvidia-b300-china-black-market-technology-610-business-skip",
+  "flagged": "2026-11-26T15:50Z",
+  "hit": null,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-cross:R1"
+  ],
+  "first": "r/technology",
+  "heat": 480
  }
 ]
