@@ -17680,5 +17680,98 @@
   ],
   "first": "r/Games",
   "heat": 372
+ },
+ {
+  "key": "sp-nvidia-board-compromised-downgrade-watch-technology-8897-heating-business-skip",
+  "flagged": "2026-11-26T05:50Z",
+  "hit": 1,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "reddit:technology",
+  "heat": 9362
+ },
+ {
+  "key": "gta6-ps5-framedrops-analysis-breakout-2269-gta-hit4-bench",
+  "flagged": "2026-11-26T05:50Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-rising:gaming"
+  ],
+  "first": "reddit:gaming",
+  "heat": 2842
+ },
+ {
+  "key": "larian-bg3-portraits-indie-gaming-364-niche-hit2-bench",
+  "flagged": "2026-11-26T05:50Z",
+  "hit": 2,
+  "lane": "indie-oddity",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:gaming"
+  ],
+  "first": "reddit:gaming",
+  "heat": 342
+ },
+ {
+  "key": "vice-city-headphones-vermeij-pirat-273-gta-hit2-bench",
+  "flagged": "2026-11-26T05:50Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "reddit-rising:PS5"
+  ],
+  "first": "reddit:PS5",
+  "heat": null
+ },
+ {
+  "key": "ms-code-red-outage-pirat-96-sameas-bench-recirc",
+  "flagged": "2026-11-26T05:50Z",
+  "hit": 5,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-lane:L4"
+  ],
+  "first": "reddit:technology",
+  "heat": null
+ },
+ {
+  "key": "hegseth-wartime-law-jensen-technology-114-politics-skip",
+  "flagged": "2026-11-26T05:50Z",
+  "hit": 0,
+  "lane": "politics",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit:technology",
+  "heat": 134
+ },
+ {
+  "key": "lutnick-chip-agents-security-technology-1509-politics-skip",
+  "flagged": "2026-11-26T05:50Z",
+  "hit": 0,
+  "lane": "politics",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit:technology",
+  "heat": null
+ },
+ {
+  "key": "gpt62-metering-past-usage-l3-19-sameas-chatgpt-meter-recirc",
+  "flagged": "2026-11-26T05:50Z",
+  "hit": 6,
+  "lane": "ai-tech-consumer",
+  "found_via": [
+   "x-lane:L3"
+  ],
+  "first": "x-lane:L3",
+  "heat": null
  }
 ]
