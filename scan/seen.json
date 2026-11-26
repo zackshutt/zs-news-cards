@@ -17773,5 +17773,98 @@
   ],
   "first": "x-lane:L3",
   "heat": null
+ },
+ {
+  "key": "kutaragi-no-consoles-pirat-905-exec-quote-hit8-pitched",
+  "flagged": "2026-11-26T10:50Z",
+  "hit": 8,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-lane:L6",
+   "gn:finalist"
+  ],
+  "first": "thegamebusiness.com Nov 24 14:10Z (Pirat_Nation first on X)",
+  "heat": null
+ },
+ {
+  "key": "nvidia-621-40-black-screens-wccftech-1-l3-hit7-lowvel",
+  "flagged": "2026-11-26T10:50Z",
+  "hit": 7,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "x-watch:wccftech",
+   "x-lane:L3"
+  ],
+  "first": "wccftech",
+  "heat": null
+ },
+ {
+  "key": "nvidia-halts-sea-chip-shipments-ft-whales-1129-business-skip",
+  "flagged": "2026-11-26T10:50Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "unusual_whales",
+  "heat": null
+ },
+ {
+  "key": "valve-proton-11-0-3-pirat-197-update-skip",
+  "flagged": "2026-11-26T10:50Z",
+  "hit": 4,
+  "lane": "steam-valve",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "firefox-fire-button-pirat-399-noun-hit3-bench",
+  "flagged": "2026-11-26T10:50Z",
+  "hit": 3,
+  "lane": "privacy-default",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "gemini-antigravity-quota-reset-testingcatalog-611-devonly-hit3-bench",
+  "flagged": "2026-11-26T10:50Z",
+  "hit": 3,
+  "lane": "ai-tech-consumer",
+  "found_via": [
+   "x-watch:testingcatalog"
+  ],
+  "first": "testingcatalog",
+  "heat": null
+ },
+ {
+  "key": "gta6-cgbj-github-takedown-pcmr-5287-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-26T10:50Z",
+  "hit": 0,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:pcmasterrace",
+   "github"
+  ],
+  "first": "r/pcmasterrace",
+  "heat": 2520
+ },
+ {
+  "key": "character-ai-minors-data-ags-verge-politics-skip",
+  "flagged": "2026-11-26T10:50Z",
+  "hit": 2,
+  "lane": "privacy-default",
+  "found_via": [
+   "bsky:theverge.com",
+   "x-watch:verge"
+  ],
+  "first": "verge",
+  "heat": null
  }
 ]
