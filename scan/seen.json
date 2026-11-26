@@ -18223,5 +18223,135 @@
   ],
   "first": "x-watch:Wario64",
   "heat": null
+ },
+ {
+  "key": "denuvo-voices38-court-filing-discord-pirat-653-noun-hit5-bench",
+  "flagged": "2026-11-26T19:50Z",
+  "hit": 5,
+  "lane": "engagement",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "gta6-widow-wrong-console-dexerto-4596-gta-quirky-hit3-bench",
+  "flagged": "2026-11-26T19:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto",
+  "heat": null
+ },
+ {
+  "key": "musk-baristas-datacenter-whales-379-business-skip",
+  "flagged": "2026-11-26T19:50Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "unusual_whales",
+  "heat": null
+ },
+ {
+  "key": "steam-black-friday-sale-wario-2024-deal-skip",
+  "flagged": "2026-11-26T19:50Z",
+  "hit": 3,
+  "lane": "steam-valve",
+  "found_via": [
+   "x-watch:Wario64",
+   "bsky:wario64.bsky.social"
+  ],
+  "first": "Wario64",
+  "heat": null
+ },
+ {
+  "key": "nvidia-dpa-jensen-ceo-pirat-339-sameas-hegseth-politics-recirc",
+  "flagged": "2026-11-26T19:50Z",
+  "hit": 0,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-lane:L8"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "polymarket-h100-perps-whales-96-crypto-skip",
+  "flagged": "2026-11-26T19:50Z",
+  "hit": 0,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "unusual_whales",
+  "heat": null
+ },
+ {
+  "key": "skate-battlepass-removed-games-663-heating-niche-hit4-bench",
+  "flagged": "2026-11-26T19:50Z",
+  "hit": 4,
+  "lane": "ownership-rights",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:Games"
+  ],
+  "first": "reddit:Games",
+  "heat": 186
+ },
+ {
+  "key": "claude-gdrive-files-testingcatalog-176-noun-hit3-bench",
+  "flagged": "2026-11-26T19:50Z",
+  "hit": 3,
+  "lane": "ai-tech-consumer",
+  "found_via": [
+   "x-watch:testingcatalog"
+  ],
+  "first": "testingcatalog",
+  "heat": null
+ },
+ {
+  "key": "steam-deck-oled-no-bf-discount-may-price-l2-6-old-hit5-bench",
+  "flagged": "2026-11-26T19:50Z",
+  "hit": 5,
+  "lane": "steam-valve",
+  "found_via": [
+   "x-lane:L2",
+   "web:archetypeA"
+  ],
+  "first": "x-lane:L2",
+  "heat": null
+ },
+ {
+  "key": "gta6-pc-port-arc-github-taunt-xsemu-heating-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-26T19:50Z",
+  "hit": 0,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace",
+   "github",
+   "x-lane:L4",
+   "x-lane:L7"
+  ],
+  "first": "reddit:pcmasterrace",
+  "heat": 3568
+ },
+ {
+  "key": "rockstar-union-vote-breakout-sameas-gta-labor-skip",
+  "flagged": "2026-11-26T19:50Z",
+  "hit": 0,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-rising:technology"
+  ],
+  "first": "reddit:technology",
+  "heat": 26166
  }
 ]
