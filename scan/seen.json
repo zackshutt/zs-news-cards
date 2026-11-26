@@ -18353,5 +18353,96 @@
   ],
   "first": "reddit:technology",
   "heat": 26166
+ },
+ {
+  "key": "xbox-cso-ball-brand-visible-breakout-498-fitfail-hit7-bench",
+  "hit": 7,
+  "lane": "exec-quote",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-rising:xbox"
+  ],
+  "first": "r/xbox",
+  "heat": 962,
+  "flagged": "2026-11-26T21:50Z"
+ },
+ {
+  "key": "jensen-rules-he-violated-nvidia-pcmr-1370-gossip-hit4-bench",
+  "hit": 4,
+  "lane": "exec-quote",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:nvidia"
+  ],
+  "first": "r/nvidia",
+  "heat": 1154,
+  "flagged": "2026-11-26T21:50Z"
+ },
+ {
+  "key": "rockstar-gt-driver-bentley-dexerto-6743-gta-hit3-bench",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto",
+  "heat": null,
+  "flagged": "2026-11-26T21:50Z"
+ },
+ {
+  "key": "gta6-420m-hours-streaming-dexerto-4514-gta-hit2-bench",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto",
+  "heat": null,
+  "flagged": "2026-11-26T21:50Z"
+ },
+ {
+  "key": "lucia-actress-decade-dexerto-3609-celebrity-skip",
+  "hit": 1,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto",
+   "bsky:videogameschronicle.com"
+  ],
+  "first": "Dexerto",
+  "heat": null,
+  "flagged": "2026-11-26T21:50Z"
+ },
+ {
+  "key": "us-gov-ai-cyberattack-technology-5838-heating-hack-skip",
+  "hit": 2,
+  "lane": "breach-hack",
+  "found_via": [
+   "reddit-heat:HEATING"
+  ],
+  "first": "r/technology",
+  "heat": 4494,
+  "flagged": "2026-11-26T21:50Z"
+ },
+ {
+  "key": "anthropic-api-rust-rewrite-l8-23-devonly-hit3-bench",
+  "hit": 3,
+  "lane": "ai-tech-consumer",
+  "found_via": [
+   "x-lane:L8"
+  ],
+  "first": "X",
+  "heat": null,
+  "flagged": "2026-11-26T21:50Z"
+ },
+ {
+  "key": "fable-150k-dialogue-lines-pirat-701-hit3-bench",
+  "hit": 3,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null,
+  "flagged": "2026-11-26T21:50Z"
  }
 ]
