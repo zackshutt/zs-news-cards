@@ -17450,5 +17450,121 @@
   ],
   "first": "reddit:pcmasterrace",
   "heat": 9484
+ },
+ {
+  "key": "console-price-cuts-2028-sp-global-r-xbox-97-oldfact-hit6-lowvel",
+  "flagged": "2026-11-26T01:45Z",
+  "hit": 6,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "reddit-rising:xbox",
+   "gn:finalist"
+  ],
+  "first": "WN Hub Nov 20 (S&P Global Kagan)",
+  "heat": 30
+ },
+ {
+  "key": "ubisoft-ceo-quadruple-a-lawsuit-totilo-27-oldquote-business-hit5-bench",
+  "flagged": "2026-11-26T01:45Z",
+  "hit": 5,
+  "lane": "exec-quote",
+  "found_via": [
+   "bsky:stephentotilo.bsky.social"
+  ],
+  "first": "stephentotilo",
+  "heat": null
+ },
+ {
+  "key": "jensen-no-succession-plan-cnbc-whales-829-gossip-hit4-bench",
+  "flagged": "2026-11-26T01:45Z",
+  "hit": 4,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-watch:unusual_whales",
+   "reddit-rising:nvidia"
+  ],
+  "first": "unusual_whales",
+  "heat": 41
+ },
+ {
+  "key": "ps5-pro-refurb-2tb-849-psdirect-r-ps5-150-deal-hit5-bench",
+  "flagged": "2026-11-26T01:45Z",
+  "hit": 5,
+  "lane": "sony-anti-consumer",
+  "found_via": [
+   "reddit-rising:PS5",
+   "reddit-rising:buildapcsales"
+  ],
+  "first": "r/buildapcsales",
+  "heat": 96
+ },
+ {
+  "key": "nvidia-gpu-supply-cut-wccftech-jensen-reinstated-sameas-pitched-recirc",
+  "flagged": "2026-11-26T01:45Z",
+  "hit": 8,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "videocardz",
+  "heat": 369
+ },
+ {
+  "key": "faliszek-gta6-chores-pirat-629-gta-gossip-hit2-bench",
+  "flagged": "2026-11-26T01:45Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "gta6-ps5-dump-kytyps5-pcmr-1465-heating-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-26T01:45Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-heat:BREAKOUT"
+  ],
+  "first": "r/pcmasterrace",
+  "heat": 16036
+ },
+ {
+  "key": "spacex-fcc-1m-sats-technology-1434-heating-sameas-skip",
+  "flagged": "2026-11-26T01:45Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-heat:HEATING"
+  ],
+  "first": "r/technology",
+  "heat": 569
+ },
+ {
+  "key": "xenoblade3-switch2-trailer-wario-752-trailer-skip",
+  "flagged": "2026-11-26T01:45Z",
+  "hit": 2,
+  "lane": "none",
+  "found_via": [
+   "x-watch:Wario64",
+   "bsky:wario64.bsky.social"
+  ],
+  "first": "Wario64",
+  "heat": null
+ },
+ {
+  "key": "sweeney-strikes-again-pcmr-289-sameas-claude-garbage-recirc",
+  "flagged": "2026-11-26T01:45Z",
+  "hit": 4,
+  "lane": "exec-quote",
+  "found_via": [
+   "reddit-heat:HEATING"
+  ],
+  "first": "r/pcmasterrace",
+  "heat": 378
  }
 ]
