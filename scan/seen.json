@@ -18444,5 +18444,100 @@
   "first": "Pirat_Nation",
   "heat": null,
   "flagged": "2026-11-26T21:50Z"
+ },
+ {
+  "key": "steam-reddit-voices38-filing-steam-1490-heating-hit8-pitched",
+  "hit": 8,
+  "lane": "privacy-default",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:Steam",
+   "x-watch:Pirat_Nation",
+   "gn:finalist",
+   "web:archetypeA"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": 1198,
+  "flagged": "2026-11-26T23:50Z"
+ },
+ {
+  "key": "gta6-xbox-overheating-pirat-505-gtacap-userreports-hit5-bench",
+  "hit": 5,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-lane:L1"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null,
+  "flagged": "2026-11-26T23:50Z"
+ },
+ {
+  "key": "gta6-47m-sensor-tower-whales-489-gta-business-skip",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales",
+  "heat": null,
+  "flagged": "2026-11-26T23:50Z"
+ },
+ {
+  "key": "jensen-nyt-colleague-die-whales-831-gossip-skip",
+  "hit": 3,
+  "lane": "exec-gossip",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales",
+  "heat": null,
+  "flagged": "2026-11-26T23:50Z"
+ },
+ {
+  "key": "manni-perez-gta6-thanks-ps5-4060-heating-gta-hit2-bench",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:PS5"
+  ],
+  "first": "reddit-rising:PS5",
+  "heat": 4019,
+  "flagged": "2026-11-26T23:50Z"
+ },
+ {
+  "key": "rockstar-paying-outlets-port-pcmr-2886-rumor-sameas-gta6-pc-port-recirc",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING"
+  ],
+  "first": "reddit-rising:pcmasterrace",
+  "heat": 3115,
+  "flagged": "2026-11-26T23:50Z"
+ },
+ {
+  "key": "ibm-h1b-relocate-technology-2346-politics-skip",
+  "hit": 1,
+  "lane": "skip",
+  "found_via": [
+   "reddit-heat:HEATING"
+  ],
+  "first": "reddit-rising:technology",
+  "heat": 1008,
+  "flagged": "2026-11-26T23:50Z"
+ },
+ {
+  "key": "conker64-stamper-footage-vgc-245-retro-hit4-bench",
+  "hit": 4,
+  "lane": "retro-find",
+  "found_via": [
+   "x-watch:VGC_News",
+   "bsky:videogameschronicle.com"
+  ],
+  "first": "x-watch:VGC_News",
+  "heat": null,
+  "flagged": "2026-11-26T23:50Z"
  }
 ]
