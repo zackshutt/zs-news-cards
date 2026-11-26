@@ -17566,5 +17566,119 @@
   ],
   "first": "r/pcmasterrace",
   "heat": 378
+ },
+ {
+  "key": "google-ai-tv-face-patent-rejected-dexerto-244-patent-hit2-bench",
+  "flagged": "2026-11-26T03:45Z",
+  "hit": 2,
+  "lane": "engagement",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto",
+  "heat": null
+ },
+ {
+  "key": "internet4-multiplayer-web-dexerto-724-niche-hit3-bench",
+  "flagged": "2026-11-26T03:45Z",
+  "hit": 3,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto",
+  "heat": null
+ },
+ {
+  "key": "ubisoft-quadruple-a-puffery-court-pirat-158-business-hit5-bench",
+  "flagged": "2026-11-26T03:45Z",
+  "hit": 5,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "ddr4-price-fall-ddr5-forecast-pcmr-263-hit7-lowvel",
+  "flagged": "2026-11-26T03:45Z",
+  "hit": 7,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "reddit-cross:R5",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "r/pcmasterrace",
+  "heat": null
+ },
+ {
+  "key": "gta6-fake-tunnel-pirat-413-gta-hit3-bench",
+  "flagged": "2026-11-26T03:45Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "gta6-pc-port-skyrocketing-pcmr-6193-heating-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-26T03:45Z",
+  "hit": 0,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "r/pcmasterrace",
+  "heat": 5239
+ },
+ {
+  "key": "nvidia-stock-falling-technology-4018-heating-business-skip",
+  "flagged": "2026-11-26T03:45Z",
+  "hit": 0,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "r/technology",
+  "heat": 2618
+ },
+ {
+  "key": "trump-pardon-jensen-pcmr-1067-politics-skip",
+  "flagged": "2026-11-26T03:45Z",
+  "hit": 0,
+  "lane": "politics",
+  "found_via": [
+   "reddit-cross:R3"
+  ],
+  "first": "r/pcmasterrace",
+  "heat": null
+ },
+ {
+  "key": "ps5-pro-x25-walmart-queue-wario-315-deal-skip",
+  "flagged": "2026-11-26T03:45Z",
+  "hit": 0,
+  "lane": "deal",
+  "found_via": [
+   "x-watch:Wario64",
+   "bsky:wario64.bsky.social"
+  ],
+  "first": "Wario64",
+  "heat": null
+ },
+ {
+  "key": "castlevania-kamiya-breakout-990-sameas-bench-recirc",
+  "flagged": "2026-11-26T03:45Z",
+  "hit": 3,
+  "lane": "indie-oddity",
+  "found_via": [
+   "reddit-heat:BREAKOUT"
+  ],
+  "first": "r/Games",
+  "heat": 372
  }
 ]
