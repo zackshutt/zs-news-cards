@@ -18118,5 +18118,110 @@
   ],
   "first": "r/technology",
   "heat": 480
+ },
+ {
+  "key": "github-ps5-emulator-taunt-deleted-pcmr-7727-heating-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-26T17:50Z",
+  "hit": 5,
+  "lane": "quirky-product",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace",
+   "x-watch:videocardz"
+  ],
+  "first": "reddit-rising:pcmasterrace",
+  "heat": 5910
+ },
+ {
+  "key": "rtx5070-8pin-psu-melt-wccftech-44-hit6-lowvel",
+  "flagged": "2026-11-26T17:50Z",
+  "hit": 6,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "x-watch:wccftech"
+  ],
+  "first": "x-watch:wccftech",
+  "heat": null
+ },
+ {
+  "key": "gta6-saves-no-pc-transfer-l6-76-gtacap-hit5-bench",
+  "flagged": "2026-11-26T17:50Z",
+  "hit": 5,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-lane:L6"
+  ],
+  "first": "x-lane:L6",
+  "heat": null
+ },
+ {
+  "key": "saria-fanart-nintendo-takedown-test-1130-niche-hit4-bench",
+  "flagged": "2026-11-26T17:50Z",
+  "hit": 4,
+  "lane": "nintendo-takedown",
+  "found_via": [
+   "x-lane:TEST"
+  ],
+  "first": "x-lane:TEST",
+  "heat": null
+ },
+ {
+  "key": "fed-ai-circular-financing-whales-598-business-skip",
+  "flagged": "2026-11-26T17:50Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "x-watch:unusual_whales",
+  "heat": null
+ },
+ {
+  "key": "ai-bubble-research-technology-3661-heating-business-skip",
+  "flagged": "2026-11-26T17:50Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology",
+  "heat": 3404
+ },
+ {
+  "key": "ny-bans-ai-chatbot-toys-technology-514-heating-hit3-bench",
+  "flagged": "2026-11-26T17:50Z",
+  "hit": 3,
+  "lane": "ai-tech-consumer",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "reddit-rising:technology",
+  "heat": 513
+ },
+ {
+  "key": "roblox-creator-copies-steam-games-steam-1164-heating-niche-hit4-bench",
+  "flagged": "2026-11-26T17:50Z",
+  "hit": 4,
+  "lane": "steam-valve",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:Steam"
+  ],
+  "first": "reddit-rising:Steam",
+  "heat": 1224
+ },
+ {
+  "key": "switch2-bundle-giftcard-400-wario-127-deal-hit5-bench",
+  "flagged": "2026-11-26T17:50Z",
+  "hit": 5,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "x-watch:Wario64",
+   "bsky:wario64.bsky.social"
+  ],
+  "first": "x-watch:Wario64",
+  "heat": null
  }
 ]
