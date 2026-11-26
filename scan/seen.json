@@ -17866,5 +17866,134 @@
   ],
   "first": "verge",
   "heat": null
+ },
+ {
+  "key": "gta6-ps5-jailbreak-60fps-unlock-pirat-4890-gtacap-hit6-bench",
+  "flagged": "2026-11-26T13:50Z",
+  "hit": 6,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-watch:videocardz",
+   "x-lane:L7",
+   "x-lane:L1"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "gta6-pc-port-roro-fsr-pcmr-heating-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-26T13:50Z",
+  "hit": 0,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace",
+   "github"
+  ],
+  "first": "r/pcmasterrace",
+  "heat": 5162
+ },
+ {
+  "key": "gta6-console-settings-datamine-breakout-gta-logistics-hit3-bench",
+  "flagged": "2026-11-26T13:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-rising:Games"
+  ],
+  "first": "r/Games",
+  "heat": 866
+ },
+ {
+  "key": "rockstar-empathy-nelson-breakout-gta-gossip-hit3-bench",
+  "flagged": "2026-11-26T13:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "r/Games",
+  "heat": 534
+ },
+ {
+  "key": "ex-rockstar-dev-rdr2-vs-gta6-dexerto-6899-gta-gossip-hit2-bench",
+  "flagged": "2026-11-26T13:50Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto",
+  "heat": null
+ },
+ {
+  "key": "ai-christmas-market-cancelled-dexerto-5476-noun-hit2-bench",
+  "flagged": "2026-11-26T13:50Z",
+  "hit": 2,
+  "lane": "engagement",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto",
+  "heat": null
+ },
+ {
+  "key": "nvidia-grinch-holiday-no-rtx50-msrp-videocardz-42-hit6-lowvel",
+  "flagged": "2026-11-26T13:50Z",
+  "hit": 6,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "x-watch:videocardz",
+   "web:archetypeA"
+  ],
+  "first": "videocardz",
+  "heat": null
+ },
+ {
+  "key": "nvidia-puri-smuggling-romance-whales-298-gossip-skip",
+  "flagged": "2026-11-26T13:50Z",
+  "hit": 1,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "unusual_whales",
+  "heat": null
+ },
+ {
+  "key": "nvidia-290m-crypto-settlement-pirat-476-business-skip",
+  "flagged": "2026-11-26T13:50Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "oled-engine-burnin-app-videocardz-312-noun-hit4-bench",
+  "flagged": "2026-11-26T13:50Z",
+  "hit": 4,
+  "lane": "pc-unlock",
+  "found_via": [
+   "x-watch:videocardz"
+  ],
+  "first": "videocardz",
+  "heat": null
+ },
+ {
+  "key": "xcl-xbox-series-compat-layer-github-8454-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-26T13:50Z",
+  "hit": 0,
+  "lane": "gta6-watch",
+  "found_via": [
+   "github"
+  ],
+  "first": "github",
+  "heat": null
  }
 ]
