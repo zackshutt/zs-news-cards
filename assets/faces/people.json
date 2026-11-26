@@ -1,0 +1,23 @@
+{"note": "Priority order = how often the name shows up in the scan and how hard the face cards hit. 3 shots each: one smiling or hyped, one serious or mid-speech, one reacting (shrug, laugh, frown). Front or 3/4 view, face at least ~300px wide, no text or logos on top, no hands over the face.",
+ "people": [
+  {"slug": "jensen-huang", "aliases": ["Jensen", "Huang", "Nvidia CEO"], "why": "most frequent name in the scan (supply cuts, CEO saga, RAM)"},
+  {"slug": "sam-altman", "aliases": ["Altman", "OpenAI CEO"], "why": "altman-ram 913K, out-of-context 991K, ram-altman 873K"},
+  {"slug": "gabe-newell", "aliases": ["Gabe", "Gaben", "Valve CEO"], "why": "gates-of-hell 1.54M FB, 42K likes X"},
+  {"slug": "lisa-su", "aliases": ["Lisa Su", "AMD CEO"], "why": "AMD stories default to the logo without her"},
+  {"slug": "elon-musk", "aliases": ["Musk", "Elon"], "why": "tier 1 noun, musk-robot-ram"},
+  {"slug": "satya-nadella", "aliases": ["Nadella", "Microsoft CEO"], "why": "Windows/Copilot stories"},
+  {"slug": "asha-sharma", "aliases": ["Xbox CEO", "Sharma"], "why": "xbox-ceo-ai, L8 query"},
+  {"slug": "phil-spencer", "aliases": ["Spencer", "Phil"], "why": "L8 query, Xbox history stories"},
+  {"slug": "tim-sweeney", "aliases": ["Sweeney", "Epic CEO"], "why": "L8 query, Steam vs Epic"},
+  {"slug": "mark-zuckerberg", "aliases": ["Zuckerberg", "Zuck", "Meta CEO"], "why": "AI/tech push (Nov 25)"},
+  {"slug": "tim-cook", "aliases": ["Cook", "Apple CEO"], "why": "apple-phone lane retests"},
+  {"slug": "sundar-pichai", "aliases": ["Pichai", "Google CEO"], "why": "Gemini/Chrome/Android stories"},
+  {"slug": "dario-amodei", "aliases": ["Amodei", "Anthropic CEO"], "why": "L8 query"},
+  {"slug": "strauss-zelnick", "aliases": ["Zelnick", "Take-Two CEO"], "why": "GTA business quotes (zelnick-ai-clones)"},
+  {"slug": "todd-howard", "aliases": ["Todd Howard", "Todd"], "why": "Elder Scrolls / Fallout stories"},
+  {"slug": "hideo-kojima", "aliases": ["Kojima"], "why": "high-reaction gaming name"},
+  {"slug": "shuntaro-furukawa", "aliases": ["Furukawa", "Nintendo president"], "why": "Switch 2 price / takedown stories"},
+  {"slug": "hermen-hulst", "aliases": ["Hulst", "PlayStation CEO"], "why": "Sony stories default to the logo without him"},
+  {"slug": "henry-cavill", "aliases": ["Cavill"], "why": "quirky-product 7.1x"},
+  {"slug": "intel-ceo", "aliases": ["Lip-Bu Tan", "Intel CEO"], "why": "tier 2, Intel stories"}
+ ]}
