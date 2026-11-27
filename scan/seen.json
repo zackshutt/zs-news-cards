@@ -18694,5 +18694,14 @@
   ],
   "first": "r/Steam",
   "heat": 530
+ },
+ {
+  "key": "psp-go-vs-switch2-gaming-2691-lab",
+  "flagged": true,
+  "hit": null,
+  "lane": "engagement",
+  "found_via": "reddit:gaming",
+  "first": "2026-11-26T02:50Z",
+  "heat": 2691
  }
 ]
