@@ -18644,5 +18644,55 @@
   ],
   "first": "wccftech",
   "heat": null
+ },
+ {
+  "key": "nvidia-grinch-no-rtx50-msrp-pcmr-1926-heating-fitfail-sameangle-hit6-bench",
+  "flagged": "2026-11-27T03:50Z",
+  "hit": 6,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace",
+   "reddit-cross:R2",
+   "x-vel:nvidia-grinch",
+   "gn:finalist",
+   "web:archetypeA"
+  ],
+  "first": "VideoCardz 2026-11-26T12:47Z",
+  "heat": 1433
+ },
+ {
+  "key": "backloggd-hacked-admin-pirat-221-hack-niche-skip",
+  "flagged": "2026-11-27T03:50Z",
+  "hit": 2,
+  "lane": "breach-hack",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation 02:02Z",
+  "heat": null
+ },
+ {
+  "key": "windows-telnet-deprecated-pcgamer-19-niche-hit3-bench",
+  "flagged": "2026-11-27T03:50Z",
+  "hit": 3,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "x-watch:pcgamer"
+  ],
+  "first": "pcgamer 01:45Z",
+  "heat": null
+ },
+ {
+  "key": "steam-deck-under-10-bf-breakout-564-deal-skip",
+  "flagged": "2026-11-27T03:50Z",
+  "hit": 2,
+  "lane": "steam-valve",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-rising:Steam"
+  ],
+  "first": "r/Steam",
+  "heat": 530
  }
 ]
