@@ -19133,5 +19133,76 @@
   "first": "x unknown",
   "heat": null,
   "flagged": "2026-11-27T17:50Z"
+ },
+ {
+  "key": "acrobat-chrome-ssd-pirat-234-recirc-nov25-hit5-bench",
+  "flagged": "2026-11-27T20:45Z",
+  "hit": 5,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "gn:finalist",
+   "web:archetypeA"
+  ],
+  "first": "r/Windows11 Nov 24; Windows Report Nov 25 10:46Z",
+  "heat": null
+ },
+ {
+  "key": "gigabyte-gcc-team-fired-breakout-3subs-2737-unverified-nounfail-hit6-bench",
+  "flagged": "2026-11-27T20:45Z",
+  "hit": 6,
+  "lane": "pc-unlock",
+  "found_via": [
+   "reddit-heat:BREAKOUT",
+   "reddit-rising:pcmasterrace",
+   "reddit-cross:R6"
+  ],
+  "first": "r/pcmasterrace",
+  "heat": 2114
+ },
+ {
+  "key": "claude-aint-no-snitch-pcmr-4327-meme-skip",
+  "flagged": "2026-11-27T20:45Z",
+  "hit": 2,
+  "lane": "engagement",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "r/pcmasterrace",
+  "heat": 1961
+ },
+ {
+  "key": "nyt-ai-columnist-anthropic-investor-whales-5977-gossip-skip",
+  "flagged": "2026-11-27T20:45Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "ZeroHedge via unusual_whales",
+  "heat": null
+ },
+ {
+  "key": "razer-audio-utility-ssd-wccftech-51-noun-hit3-bench",
+  "flagged": "2026-11-27T20:45Z",
+  "hit": 3,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "x-watch:wccftech"
+  ],
+  "first": "wccftech",
+  "heat": null
+ },
+ {
+  "key": "gta6-53m-first-week-pirat-702-gta-business-skip",
+  "flagged": "2026-11-27T20:45Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Rhys Elliott via Pirat_Nation",
+  "heat": null
  }
 ]
