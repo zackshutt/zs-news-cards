@@ -19204,5 +19204,142 @@
   ],
   "first": "Rhys Elliott via Pirat_Nation",
   "heat": null
+ },
+ {
+  "key": "gta6-no-postgame-freeroam-producer-dexerto-349-gtacap-hit6-bench",
+  "flagged": "2026-11-27T23:50",
+  "hit": 6,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto",
+  "heat": null
+ },
+ {
+  "key": "apple-removes-talkie-ai-app-kids-dexerto-139-hit5-lowvel",
+  "flagged": "2026-11-27T23:50",
+  "hit": 5,
+  "lane": "ai-tech-consumer",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto",
+  "heat": null
+ },
+ {
+  "key": "gta6-victory-fork-5060ti-pcmr-6784-heating-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-27T23:50",
+  "hit": null,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace",
+   "github"
+  ],
+  "first": "r/pcmasterrace",
+  "heat": 3960
+ },
+ {
+  "key": "rockstar-pc-sooner-ai-ports-exdev-heating-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-27T23:50",
+  "hit": null,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcgaming"
+  ],
+  "first": "r/pcgaming",
+  "heat": 2357
+ },
+ {
+  "key": "ms-github-ps5-tool-gta6-pcmr-369-sameas-github-ps5-emulator-taunt-recirc",
+  "flagged": "2026-11-27T23:50",
+  "hit": null,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "r/pcmasterrace",
+  "heat": null
+ },
+ {
+  "key": "banks-dump-ai-debt-technology-2198-heating-business-skip",
+  "flagged": "2026-11-27T23:50",
+  "hit": null,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "r/technology",
+  "heat": 959
+ },
+ {
+  "key": "claude-riemann-proof-shorter-technology-1723-heating-niche-hit3-bench",
+  "flagged": "2026-11-27T23:50",
+  "hit": 3,
+  "lane": "ai-tech-consumer",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "github"
+  ],
+  "first": "r/technology",
+  "heat": 619
+ },
+ {
+  "key": "gta6-ps5-sellout-bf-technology-1612-heating-gta-logistics-hit2-bench",
+  "flagged": "2026-11-27T23:50",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING"
+  ],
+  "first": "r/technology",
+  "heat": 540
+ },
+ {
+  "key": "gta6-53m-4-7b-breakout-sameas-gta6-53m-first-week-skip",
+  "flagged": "2026-11-27T23:50",
+  "hit": null,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-heat:BREAKOUT"
+  ],
+  "first": "r/PS5",
+  "heat": 528
+ },
+ {
+  "key": "grok-states-sue-spacex-technology-729-politics-skip",
+  "flagged": "2026-11-27T23:50",
+  "hit": null,
+  "lane": null,
+  "found_via": [
+   "reddit-heat:HEATING"
+  ],
+  "first": "r/technology",
+  "heat": 428
+ },
+ {
+  "key": "openai-countersues-apple-staff-l11-1-gossip-hit3-bench",
+  "flagged": "2026-11-27T23:50",
+  "hit": 3,
+  "lane": null,
+  "found_via": [
+   "x-lane:L11"
+  ],
+  "first": "x-lane:L11",
+  "heat": null
+ },
+ {
+  "key": "gta6-dad-hospital-labor-dexerto-826-gta-quirky-hit2-bench",
+  "flagged": "2026-11-27T23:50",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto",
+  "heat": null
  }
 ]
