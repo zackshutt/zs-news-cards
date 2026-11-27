@@ -19064,5 +19064,74 @@
   ],
   "first": "VGC",
   "heat": null
+ },
+ {
+  "key": "bitlocker-pin-20-days-tu-berlin-amd-winbond-pirat-440-hack-hit4-bench",
+  "hit": 4,
+  "lane": "breach-hack",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "web:archetypeA"
+  ],
+  "first": "TU Berlin research / The Hacker News",
+  "heat": null,
+  "flagged": "2026-11-27T17:50Z"
+ },
+ {
+  "key": "zfg-nintendo-dmca-speedrun-tweets-test-295-niche-hit5-bench",
+  "hit": 5,
+  "lane": "nintendo-takedown",
+  "found_via": [
+   "x-lane:TEST-nintendo-takedown"
+  ],
+  "first": "x:zfg111",
+  "heat": null,
+  "flagged": "2026-11-27T17:50Z"
+ },
+ {
+  "key": "bioware-dev-ea-gun-on-table-technology-480-heating-gossip-hit3-bench",
+  "hit": 3,
+  "lane": "exec-quote",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "r/technology",
+  "heat": 524,
+  "flagged": "2026-11-27T17:50Z"
+ },
+ {
+  "key": "usaf-cloud-one-breach-whales-1460-hack-skip",
+  "hit": 2,
+  "lane": "breach-hack",
+  "found_via": [
+   "x-watch:unusual_whales",
+   "reddit-heat:HEATING"
+  ],
+  "first": "Reuters",
+  "heat": 1047,
+  "flagged": "2026-11-27T17:50Z"
+ },
+ {
+  "key": "gta6-dev-memorial-daughter-dexerto-2551-gta-hit2-bench",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "Dexerto",
+  "heat": null,
+  "flagged": "2026-11-27T17:50Z"
+ },
+ {
+  "key": "taketwo-steam-kernel-ac-impasse-l6-102-rumor-sameas-gta6-pc-port-recirc",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-lane:L6"
+  ],
+  "first": "x unknown",
+  "heat": null,
+  "flagged": "2026-11-27T17:50Z"
  }
 ]
