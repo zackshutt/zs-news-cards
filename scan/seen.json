@@ -18703,5 +18703,79 @@
   "found_via": "reddit:gaming",
   "first": "2026-11-26T02:50Z",
   "heat": 2691
+ },
+ {
+  "key": "chatgpt-astra-limits-40pct-thsottiaux-18557-reddit-heating-hit8-pitched",
+  "flagged": "2026-11-27T05:50Z",
+  "hit": 8,
+  "lane": "ai-tech-consumer",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology",
+   "reddit:ChatGPT",
+   "gn:finalist",
+   "x-vel:astra-limits",
+   "x-lookup:thsottiaux"
+  ],
+  "first": "@thsottiaux on X 2026-11-26T02:50Z",
+  "heat": 528
+ },
+ {
+  "key": "jensanity-comeback-ft-technology-366-sameas-jensen-back-recirc",
+  "flagged": "2026-11-27T05:50Z",
+  "hit": 4,
+  "lane": "scene-named-people",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "FT",
+  "heat": 295
+ },
+ {
+  "key": "artex-ai-tool-china-nk-hackers-technology-594-hack-skip",
+  "flagged": "2026-11-27T05:50Z",
+  "hit": 3,
+  "lane": "breach-hack",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "The Register",
+  "heat": 416
+ },
+ {
+  "key": "voices38-responds-denuvo-pirat-728-sameas-steam-reddit-denuvo-recirc",
+  "flagged": "2026-11-27T05:50Z",
+  "hit": 6,
+  "lane": "privacy-default",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-lane:L2"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "gta6-port-whiplash-name-l3-642-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-27T05:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-lane:L3"
+  ],
+  "first": "x",
+  "heat": null
+ },
+ {
+  "key": "chatgpt-name-permission-chatgpt-28-hit3-bench",
+  "flagged": "2026-11-27T05:50Z",
+  "hit": 3,
+  "lane": "ai-tech-consumer",
+  "found_via": [
+   "reddit:ChatGPT"
+  ],
+  "first": "r/ChatGPT",
+  "heat": 34
  }
 ]
