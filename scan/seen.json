@@ -18539,5 +18539,110 @@
   "first": "x-watch:VGC_News",
   "heat": null,
   "flagged": "2026-11-26T23:50Z"
+ },
+ {
+  "key": "witcher4-day-one-heat-pcmr-9194-hit9-pitched",
+  "flagged": "2026-11-27T01:50Z",
+  "hit": 9,
+  "lane": "good-guy-company",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace",
+   "reddit-rising:gaming",
+   "gn:finalist",
+   "seen:witcher4-xbox-day-one-vgc-72-notyourstuff-hit4-bench"
+  ],
+  "first": "@michalnowakow on X 2026-11-25 (VGC 20:35)",
+  "heat": 10757
+ },
+ {
+  "key": "nvidia-290m-crypto-settlement-pcmr-1988-sameas-business-skip",
+  "flagged": "2026-11-27T01:50Z",
+  "hit": 5,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "gta6-ps5-220w-technician-pirat-1207-gtacap-hit3-bench",
+  "flagged": "2026-11-27T01:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "gta6-no-chainsaws-nelson-pirat-478-gta-hit2-bench",
+  "flagged": "2026-11-27T01:50Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "gta6-pc-online-mods-pcmr-8485-heating-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-27T01:50Z",
+  "hit": 4,
+  "lane": "pc-unlock",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "x-watch:tomwarren",
+   "github"
+  ],
+  "first": "r/pcmasterrace",
+  "heat": 6533
+ },
+ {
+  "key": "rockstar-no-theme-park-ps5-1858-heating-gta-hit2-bench",
+  "flagged": "2026-11-27T01:50Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING"
+  ],
+  "first": "r/PS5",
+  "heat": 737
+ },
+ {
+  "key": "nvidia-chips-china-ban-technology-514-heating-business-skip",
+  "flagged": "2026-11-27T01:50Z",
+  "hit": 3,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-heat:HEATING"
+  ],
+  "first": "r/technology",
+  "heat": 476
+ },
+ {
+  "key": "eu-50b-tech-fund-whales-377-politics-skip",
+  "flagged": "2026-11-27T01:50Z",
+  "hit": 1,
+  "lane": "business-finance",
+  "found_via": [
+   "x-watch:unusual_whales"
+  ],
+  "first": "unusual_whales",
+  "heat": null
+ },
+ {
+  "key": "dram-halve-2028-jeff-pu-wccftech-7-hit6-lowvel",
+  "flagged": "2026-11-27T01:50Z",
+  "hit": 6,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "x-watch:wccftech"
+  ],
+  "first": "wccftech",
+  "heat": null
  }
 ]
