@@ -18777,5 +18777,123 @@
   ],
   "first": "r/ChatGPT",
   "heat": 34
+ },
+ {
+  "key": "rtx5090-3x-msrp-bf-pcmr-3426-sameas-rtx5090-scalper-recirc",
+  "flagged": "2026-11-27T10:50Z",
+  "hit": 6,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit:pcmasterrace",
+  "heat": 261
+ },
+ {
+  "key": "gta6-pc-port-victory-13k-stars-neptune-dimitri-pcmr-4743-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-27T10:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "github",
+   "reddit-rising:pcmasterrace",
+   "x-lane:L7",
+   "x-lane:L3",
+   "x-watch:VideoCardz"
+  ],
+  "first": "github",
+  "heat": 445
+ },
+ {
+  "key": "gta6-jason-house-florida-739k-dexerto-999-gta-hit3-bench",
+  "flagged": "2026-11-27T10:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto",
+  "heat": null
+ },
+ {
+  "key": "nvidia-gpu-china-rental-rule-pirat-399-business-politics-skip",
+  "flagged": "2026-11-27T10:50Z",
+  "hit": 4,
+  "lane": "supply-chain",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "tlou2-mp-mod-sony-cant-stop-pirat-186-niche-hit4-bench",
+  "flagged": "2026-11-27T10:50Z",
+  "hit": 4,
+  "lane": "sony-anti-consumer",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "ea-fc27-motson-ai-voice-pirat-27-hit5-bench",
+  "flagged": "2026-11-27T10:50Z",
+  "hit": 5,
+  "lane": "ai-tech-consumer",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "xbox-mode-driver-updates-win11-150-hit5-bench",
+  "flagged": "2026-11-27T10:50Z",
+  "hit": 5,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "reddit-rising:Windows11",
+   "reddit-rising:xbox"
+  ],
+  "first": "reddit:xbox",
+  "heat": 70
+ },
+ {
+  "key": "witcher3-patch-502-pirat-417-update-skip",
+  "flagged": "2026-11-27T10:50Z",
+  "hit": 2,
+  "lane": "update-posts",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-lane:L2"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "amd-rdna5-linux75-videocardz-95-niche-hit3-bench",
+  "flagged": "2026-11-27T10:50Z",
+  "hit": 3,
+  "lane": "pc-unlock",
+  "found_via": [
+   "x-watch:VideoCardz",
+   "x-watch:wccftech"
+  ],
+  "first": "x-watch:VideoCardz",
+  "heat": null
+ },
+ {
+  "key": "gta-trilogy-delisted-steam-l6-170-gta-old-hit3-bench",
+  "flagged": "2026-11-27T10:50Z",
+  "hit": 3,
+  "lane": "ownership-rights",
+  "found_via": [
+   "x-lane:L6",
+   "x-lane:L2"
+  ],
+  "first": "x-lane:L6",
+  "heat": null
  }
 ]
