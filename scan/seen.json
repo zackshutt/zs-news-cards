@@ -18980,5 +18980,89 @@
   ],
   "first": "Pirat",
   "heat": null
+ },
+ {
+  "key": "gigabyte-gcc-team-fired-pirat-1944-unverified-nounfail-hit6-bench",
+  "flagged": "2026-11-27T15:50Z",
+  "hit": 6,
+  "lane": "gigabyte-software",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "web:archetypeA"
+  ],
+  "first": "Pirat_Nation 14:01Z (elchapuzasinformatico ES)",
+  "heat": null
+ },
+ {
+  "key": "silksong-sea-of-sorrow-free-dec11-wario-7420-trailer-hit4-bench",
+  "flagged": "2026-11-27T15:50Z",
+  "hit": 4,
+  "lane": "good-guy-company",
+  "found_via": [
+   "x-watch:Wario64",
+   "bsky:wario64.bsky.social"
+  ],
+  "first": "Wario64 15:12Z",
+  "heat": null
+ },
+ {
+  "key": "musk-samsung-fab-memory-rejected-hardware-375-business-hit4-bench",
+  "flagged": "2026-11-27T15:50Z",
+  "hit": 4,
+  "lane": "supply-chain",
+  "found_via": [
+   "reddit-rising:pcmasterrace",
+   "reddit-rising:hardware",
+   "reddit-heat:HEATING"
+  ],
+  "first": "sammyguru/TweakTown",
+  "heat": 294
+ },
+ {
+  "key": "usaf-cloud-hacked-technology-4605-hack-skip",
+  "flagged": "2026-11-27T15:50Z",
+  "hit": 2,
+  "lane": "breach-hack",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "Reuters",
+  "heat": 3637
+ },
+ {
+  "key": "jensen-comeback-misogyny-pbs-technology-2278-sameas-jensen-back-recirc",
+  "flagged": "2026-11-27T15:50Z",
+  "hit": 4,
+  "lane": "scene-named-people",
+  "found_via": [
+   "reddit-heat:HEATING"
+  ],
+  "first": "PBS",
+  "heat": 1871
+ },
+ {
+  "key": "gta6-pc-port-multiplayer-dexerto-2463-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-27T15:50Z",
+  "hit": 5,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto",
+   "reddit-heat:HEATING",
+   "github"
+  ],
+  "first": "Dexerto 13:57Z",
+  "heat": 1872
+ },
+ {
+  "key": "simpsons-hit-run-remake-cancelled-vgc-2086-rumor-hit3-bench",
+  "flagged": "2026-11-27T15:50Z",
+  "hit": 3,
+  "lane": "leak",
+  "found_via": [
+   "x-watch:Wario64"
+  ],
+  "first": "VGC",
+  "heat": null
  }
 ]
