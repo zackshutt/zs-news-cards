@@ -18895,5 +18895,90 @@
   ],
   "first": "x-lane:L6",
   "heat": null
+ },
+ {
+  "key": "android-dev-home-address-public-pirat-1525-devonly-hit5-bench",
+  "flagged": "2026-11-27T13:50Z",
+  "hit": 5,
+  "lane": "privacy-default",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "x-vel:android"
+  ],
+  "first": "x:@ (2677 likes) 2026-11-26T22:24Z; Pirat 12:05Z",
+  "heat": null
+ },
+ {
+  "key": "win12-davuluri-earn-permission-axios-nov24-pcmr-104-stale-hit7-bench",
+  "flagged": "2026-11-27T13:50Z",
+  "hit": 7,
+  "lane": "exec-quote",
+  "found_via": [
+   "reddit-cross:R4",
+   "reddit-rising:pcmasterrace",
+   "reddit-rising:Windows11",
+   "web:archetypeA"
+  ],
+  "first": "Axios 2026-11-24; Windows Latest 08:45Z",
+  "heat": 63
+ },
+ {
+  "key": "openai-germany-cancel-suit-vzbb-technology-131-regional-hit6-lowvel",
+  "flagged": "2026-11-27T13:50Z",
+  "hit": 6,
+  "lane": "ai-tech-consumer",
+  "found_via": [
+   "reddit-cross:R6",
+   "reddit-rising:technology",
+   "x-vel:openai_de"
+  ],
+  "first": "Verbraucherzentrale Brandenburg 2026-11-25",
+  "heat": null
+ },
+ {
+  "key": "gamestop-physical-discs-pcgamer-ps5-352-heating-sameas-gamestop-cohen-recirc",
+  "flagged": "2026-11-27T13:50Z",
+  "hit": 7,
+  "lane": "ownership-rights",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:PS5"
+  ],
+  "first": "PC Gamer 2026-11-27 (quote Nov 19)",
+  "heat": 201
+ },
+ {
+  "key": "steam-privacy-screenshot-breakout-4-unverified-hit3-bench",
+  "flagged": "2026-11-27T13:50Z",
+  "hit": 3,
+  "lane": "privacy-default",
+  "found_via": [
+   "reddit-heat:BREAKOUT"
+  ],
+  "first": "r/pcmasterrace 13:35Z",
+  "heat": 41
+ },
+ {
+  "key": "gta6-pc-port-mods-multiplayer-technology-827-heating-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-27T13:50Z",
+  "hit": 3,
+  "lane": "pc-unlock",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "github"
+  ],
+  "first": "r/technology",
+  "heat": 497
+ },
+ {
+  "key": "ny-ai-toy-ban-pirat-322-sameas-ny-bans-ai-chatbot-toys-recirc",
+  "flagged": "2026-11-27T13:50Z",
+  "hit": 3,
+  "lane": "ai-tech-consumer",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat",
+  "heat": null
  }
 ]
