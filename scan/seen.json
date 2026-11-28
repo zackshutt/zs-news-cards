@@ -19604,5 +19604,151 @@
   ],
   "first": "reddit",
   "heat": null
+ },
+ {
+  "key": "razer-audio-ssd-pcmr-1093-heating-sameas-razer-audio-ssd-writes-recirc",
+  "flagged": "2026-11-28T14:50Z",
+  "hit": null,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit:pcmasterrace",
+  "heat": 360
+ },
+ {
+  "key": "rockstar-vibecode-meme-pcmr-6445-heating-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-28T14:50Z",
+  "hit": null,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit:pcmasterrace",
+  "heat": 2352
+ },
+ {
+  "key": "zelda-totk-ps5-static-recomp-l7-13-hit6-lowvel",
+  "flagged": "2026-11-28T14:50Z",
+  "hit": 6,
+  "lane": "pc-unlock",
+  "found_via": [
+   "x-lane:L7"
+  ],
+  "first": "x-lane:L7",
+  "heat": null
+ },
+ {
+  "key": "ned-luke-gta6-woke-reply-dexerto-3399-gta-gossip-hit2-skip",
+  "flagged": "2026-11-28T14:50Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto",
+  "heat": null
+ },
+ {
+  "key": "telegram-iphone-website-exploit-pirat-338-hack-hit3-skip",
+  "flagged": "2026-11-28T14:50Z",
+  "hit": 3,
+  "lane": "breach-hack",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "gta6-fake-stream-site-malware-pirat-145-hack-skip",
+  "flagged": "2026-11-28T14:50Z",
+  "hit": 2,
+  "lane": "breach-hack",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "x-watch:Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "debian-on-steam-deck-l2-79-niche-hit4-bench",
+  "flagged": "2026-11-28T14:50Z",
+  "hit": 4,
+  "lane": "pc-unlock",
+  "found_via": [
+   "x-lane:L2"
+  ],
+  "first": "x-lane:L2",
+  "heat": null
+ },
+ {
+  "key": "steam-taiwan-flag-china-pcmr-143-politics-skip",
+  "flagged": "2026-11-28T14:50Z",
+  "hit": null,
+  "lane": "steam-valve",
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit:pcmasterrace",
+  "heat": 50
+ },
+ {
+  "key": "michael-nielsen-ai-textbook-down-technology-663-niche-hit2-bench",
+  "flagged": "2026-11-28T14:50Z",
+  "hit": 2,
+  "lane": "ai-tech-consumer",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "reddit:technology",
+  "heat": 194
+ },
+ {
+  "key": "sleeping-dogs-clip-videogames-3463-heating-nostalgia-hit3-bench",
+  "flagged": "2026-11-28T14:50Z",
+  "hit": 3,
+  "lane": "nostalgia-spec",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:videogames"
+  ],
+  "first": "reddit:videogames",
+  "heat": 980
+ },
+ {
+  "key": "github-windows-office-activator-l4-39-hit3-bench",
+  "flagged": "2026-11-28T14:50Z",
+  "hit": 3,
+  "lane": "pc-unlock",
+  "found_via": [
+   "x-lane:L4"
+  ],
+  "first": "x-lane:L4",
+  "heat": null
+ },
+ {
+  "key": "jensen-without-anthropic-tpu-l8-14-sameas-jensen-without-anthropic-recirc",
+  "flagged": "2026-11-28T14:50Z",
+  "hit": 4,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-lane:L8"
+  ],
+  "first": "x-lane:L8",
+  "heat": null
+ },
+ {
+  "key": "apple-talkie-removed-dexerto-177-sameas-apple-removes-talkie-recirc",
+  "flagged": "2026-11-28T14:50Z",
+  "hit": 5,
+  "lane": "ai-tech-consumer",
+  "found_via": [
+   "x-watch:Dexerto"
+  ],
+  "first": "x-watch:Dexerto",
+  "heat": null
  }
 ]
