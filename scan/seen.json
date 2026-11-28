@@ -19353,5 +19353,131 @@
   ],
   "first": "wccftech",
   "heat": null
+ },
+ {
+  "key": "gskill-ram-warranty-corner-denied-pirat-849-hit5-bench",
+  "flagged": "2026-11-28T03:55Z",
+  "hit": 5,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "fortnite-ddlc-collab-official-31k-hit6-fitfail-bench",
+  "flagged": "2026-11-28T03:55Z",
+  "hit": 6,
+  "lane": "quirky-product",
+  "found_via": [
+   "x-lane:L9",
+   "x-lane:L2"
+  ],
+  "first": "Fortnite",
+  "heat": null
+ },
+ {
+  "key": "gta6-writer-deletes-x-hate-technology-4208-heating-hit2-gossip-skip",
+  "flagged": "2026-11-28T03:55Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "r/technology",
+  "heat": 1692
+ },
+ {
+  "key": "xbox-gdk-leak-gta6-ports-pcmr-1983-heating-hit3-leak-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-28T03:55Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "r/pcmasterrace",
+  "heat": 820
+ },
+ {
+  "key": "gta6-base-ps5-unlocked-fps-l1-595-hit4-gtacap-hit4-bench",
+  "flagged": "2026-11-28T03:55Z",
+  "hit": 4,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-lane:L1"
+  ],
+  "first": "x-lane:L1",
+  "heat": null
+ },
+ {
+  "key": "treasury-cio-vibe-coding-civ-technology-885-heating-hit2-politics-skip",
+  "flagged": "2026-11-28T03:55Z",
+  "hit": 2,
+  "lane": "other",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "r/technology",
+  "heat": 314
+ },
+ {
+  "key": "intel-10pct-president-technology-1164-hit2-politics-skip",
+  "flagged": "2026-11-28T03:55Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "r/technology",
+  "heat": 336
+ },
+ {
+  "key": "ohio-hospital-ai-replace-workers-technology-960-hit3-noun-bench",
+  "flagged": "2026-11-28T03:55Z",
+  "hit": 3,
+  "lane": "other",
+  "found_via": [
+   "reddit-rising:technology"
+  ],
+  "first": "r/technology",
+  "heat": 269
+ },
+ {
+  "key": "jensen-without-anthropic-tpu-quote-l8-10-hit4-gossip-lowvel",
+  "flagged": "2026-11-28T03:55Z",
+  "hit": 4,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-lane:L8"
+  ],
+  "first": "x-lane:L8",
+  "heat": null
+ },
+ {
+  "key": "nvidia-blackwell-china-alice-huang-pcmr-997-pirat-423-hit2-politics-skip",
+  "flagged": "2026-11-28T03:55Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-rising:pcmasterrace",
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "r/pcmasterrace",
+  "heat": null
+ },
+ {
+  "key": "gigabyte-gcc-team-fired-cooling-sameas-lab16-hit6-recirc",
+  "flagged": "2026-11-28T03:55Z",
+  "hit": 6,
+  "lane": "pc-software",
+  "found_via": [
+   "reddit-heat:BREAKOUT"
+  ],
+  "first": "Pirat_Nation",
+  "heat": 132
  }
 ]
