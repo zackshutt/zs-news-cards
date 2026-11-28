@@ -19341,5 +19341,17 @@
   ],
   "first": "Dexerto",
   "heat": null
+ },
+ {
+  "key": "razer-audio-ssd-writes-zack-sent-hit9-pitched",
+  "flagged": "2026-11-28T03:30",
+  "hit": 9,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "x-watch:wccftech",
+   "zack"
+  ],
+  "first": "wccftech",
+  "heat": null
  }
 ]
