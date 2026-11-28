@@ -19750,5 +19750,110 @@
   ],
   "first": "x-watch:Dexerto",
   "heat": null
+ },
+ {
+  "key": "youtube-adblock-slowdown-pirat-11.6k-recirc-jun2025-hit6-recirc",
+  "flagged": "2026-11-28T17:50Z",
+  "hit": 6,
+  "lane": "consumer-gripe",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "gn:finalist",
+   "web:archetypeA"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "texas-datacenter-freeze-lift-technology-2372-heating-politics-skip",
+  "flagged": "2026-11-28T17:50Z",
+  "hit": 2,
+  "lane": "business-finance",
+  "found_via": [
+   "reddit-heat:HEATING",
+   "reddit-rising:technology"
+  ],
+  "first": "r/technology",
+  "heat": 1074
+ },
+ {
+  "key": "youtube-als-cyborg-monetization-restored-pirat-2096-hit4-bench",
+  "flagged": "2026-11-28T17:50Z",
+  "hit": 4,
+  "lane": "good-guy-company",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "reddit-new:technology"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "bioware-lied-ea-dai-xbox-launch-pirat-329-gossip-hit3-bench",
+  "flagged": "2026-11-28T17:50Z",
+  "hit": 3,
+  "lane": "exec-quote",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "xbox-series-s-1000-switzerland-rxbox-149-hit4-bench",
+  "flagged": "2026-11-28T17:50Z",
+  "hit": 4,
+  "lane": "console-price",
+  "found_via": [
+   "reddit-rising:xbox"
+  ],
+  "first": "r/xbox",
+  "heat": 63
+ },
+ {
+  "key": "james-russell-cd-dvd-death-pcgaming-1558-deaths-skip",
+  "flagged": "2026-11-28T17:50Z",
+  "hit": 0,
+  "lane": "skip",
+  "found_via": [
+   "reddit-rising:pcgaming"
+  ],
+  "first": "r/pcgaming",
+  "heat": 618
+ },
+ {
+  "key": "razer-ssd-wccftech-image-pcmr-2029-sameas-razer-audio-ssd-writes-recirc",
+  "flagged": "2026-11-28T17:50Z",
+  "hit": 9,
+  "lane": "windows-tweak-psa",
+  "found_via": [
+   "reddit-rising:pcmasterrace",
+   "reddit-heat:none"
+  ],
+  "first": "wccftech",
+  "heat": 382
+ },
+ {
+  "key": "victory-gta6-pc-port-github-14k-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-28T17:50Z",
+  "hit": 3,
+  "lane": "gta6-watch",
+  "found_via": [
+   "github",
+   "reddit-rising:technology"
+  ],
+  "first": "github",
+  "heat": null
+ },
+ {
+  "key": "openai-china-meme-r-openai-591-meme-skip",
+  "flagged": "2026-11-28T17:50Z",
+  "hit": 1,
+  "lane": "skip",
+  "found_via": [
+   "reddit-rising:OpenAI"
+  ],
+  "first": "r/OpenAI",
+  "heat": 130
  }
 ]
