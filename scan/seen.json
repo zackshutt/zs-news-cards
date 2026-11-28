@@ -19479,5 +19479,17 @@
   ],
   "first": "Pirat_Nation",
   "heat": 132
+ },
+ {
+  "key": "gigabyte-gcc-rgb-stutter-pcmr-4845-lab",
+  "flagged": "2026-11-27T20:58",
+  "hit": 6,
+  "lane": "gigabyte-software",
+  "found_via": [
+   "reddit:pcmasterrace",
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation 14:01Z",
+  "heat": 4845
  }
 ]
