@@ -19491,5 +19491,118 @@
   ],
   "first": "Pirat_Nation 14:01Z",
   "heat": 4845
+ },
+ {
+  "key": "ram-2028-halve-gf-scenarios-pirat-806-hit6-pitched",
+  "flagged": "2026-11-28T10:50Z",
+  "hit": 6,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation",
+   "gn:finalist"
+  ],
+  "first": "GF Securities note Nov 26 (wccftech Nov 26 22:49Z)",
+  "heat": null
+ },
+ {
+  "key": "hp-memory-40pct-pc-parts-l6-2-hit6-lowvel",
+  "flagged": "2026-11-28T10:50Z",
+  "hit": 6,
+  "lane": "parts-price-watch",
+  "found_via": [
+   "x-lane:L6"
+  ],
+  "first": "x-lane:L6",
+  "heat": null
+ },
+ {
+  "key": "cdpr-persona5-texts-sasko-pirat-994-niche-hit2-bench",
+  "flagged": "2026-11-28T10:50Z",
+  "hit": 2,
+  "lane": null,
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "gta6-console-shortage-stores-pirat-262-sameas-gta6-ps5-sellout-recirc",
+  "flagged": "2026-11-28T10:50Z",
+  "hit": 2,
+  "lane": "gta6-watch",
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "exodus-pc-reqs-rtx5080-pirat-87-hit3-bench",
+  "flagged": "2026-11-28T10:50Z",
+  "hit": 3,
+  "lane": null,
+  "found_via": [
+   "x-watch:Pirat_Nation"
+  ],
+  "first": "Pirat_Nation",
+  "heat": null
+ },
+ {
+  "key": "gta6-pc-60fps-razda-fork-l7-225-sameas-gta6-pc-port-recirc",
+  "flagged": "2026-11-28T10:50Z",
+  "hit": 3,
+  "lane": "pc-unlock",
+  "found_via": [
+   "x-lane:L7",
+   "github"
+  ],
+  "first": "github",
+  "heat": null
+ },
+ {
+  "key": "ai-labs-factoring-encryption-rumor-technology-979-hit2-bench",
+  "flagged": "2026-11-28T10:50Z",
+  "hit": 2,
+  "lane": null,
+  "found_via": [
+   "reddit-rising:technology",
+   "reddit-rising:OpenAI"
+  ],
+  "first": "reddit",
+  "heat": null
+ },
+ {
+  "key": "bbc-typo-pcmr-8373-meme-skip",
+  "flagged": "2026-11-28T10:50Z",
+  "hit": 0,
+  "lane": null,
+  "found_via": [
+   "reddit-rising:pcmasterrace"
+  ],
+  "first": "reddit",
+  "heat": 1208
+ },
+ {
+  "key": "turkish-wedding-5090-ram-tomshw-r2-12-quirky-hit3-bench",
+  "flagged": "2026-11-28T10:50Z",
+  "hit": 3,
+  "lane": "quirky-product",
+  "found_via": [
+   "reddit-cross:R2"
+  ],
+  "first": "tomshardware",
+  "heat": null
+ },
+ {
+  "key": "bioshock-xbox-pc-app-rxbox-163-hit3-bench",
+  "flagged": "2026-11-28T10:50Z",
+  "hit": 3,
+  "lane": "microsoft-xbox",
+  "found_via": [
+   "reddit-rising:xbox"
+  ],
+  "first": "reddit",
+  "heat": null
  }
 ]
